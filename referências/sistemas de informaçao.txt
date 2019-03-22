@@ -1,0 +1,75 @@
+A definição de sistemas de informação de acordo com (O’BRIEN 2004, p.6) “é um
+conjunto organizado de pessoas, hardware, software, redes de comunicações e recursos de
+dados que coleta, transforma e dissemina informações em uma organização”.
+
+O’BRIEN, J. A. Sistemas de informação: e as decisões gerenciais na era da Internet. 2. ed. São Paulo: Saraiva
+2004. 
+
+Já para
+Laudon e Laudon (2004) sistema de informação é como um conjunto de elementos que
+interagem e coletam, processam, guardam e difundem informações que servem como base
+para a tomada de decisão.
+
+Para Laudon e Laudon (2004, p. 4), “Hoje, todos admitem que conhecer
+sistemas de informação é essencial para os administradores, porque a maioria das
+organizações precisa deles para sobreviver e prosperar”. 
+
+LAUDON, K. C.; LAUDON, J. P. Sistemas de informação gerenciais: administrando
+a empresa digital. 5. ed. São Paulo: Prentice Hall, 2004
+
+Para Malhotra (2011) um sistema de informação que auxilia no gerenciamento do varejo é um conjunto formal de procedimentos, normas e registros para gerar, analisar, armazenar e distribuir as informações às pesso-as responsáveis pela tomada de decisões nos mais diver-sos níveis organizacionais.
+
+MALHOTRA, N. K. Pesquisa de Marketing: foco da decisão. 3ª ed. São Paulo: Pearson Prentice Hall, 2011. 
+
+Mülbert eAyres(2007,p.21) “a informação é um dos recursos a serem administrados pela organização, 
+e como tal, precisa ser compreendido por todos aqueles que desejam fazermelhor uso dela”
+
+MÜLBERT, A. L.; AYRES, N. M.Sistema de Informações Gerenciais no Varejo e Serviços. 2ª. ed. Palhoça: UnisulVirtual, 2007.
+
+“Um sistema de informação pode ser definido como um
+conjunto de componentes inter-relacionados que coleta (ou recupera),
+processa, armazena e distribui informações destinadas a apoiar a
+tomada de decisões, a coordenação e o controle de uma organização.
+Além de dar suporte à tomada de decisões, à coordenação e ao
+controle, esses sistemas também auxiliam os gerentes e trabalhadores
+a analisar problemas, visualizar assuntos complexos e criar novos
+produtos.” (LAUDON; LAUDON, 2004, p. 7). 
+
+LAUDON, K. C.; LAUDON, J. P. Sistemas de informação gerenciais: administrando
+a empresa digital. 5. ed. São Paulo: Prentice Hall, 2004
+
+Segundo Spinola e Pessôa (1998, p.98), um “Sistema de Informação (S.I.) é um
+sistema que cria um ambiente integrado e consistente, capaz de fornecer as informações
+necessárias a todos os usuários” 
+
+SPINOLA, Mauro, PESSÔA, Marcelo. Tecnologia da Informação. In: Gestão de Operações. 2a ed. Professores
+do Departamento de Engenharia da escola Politécnica da USP e da Fundação Carlos Alberto Vanzolini. São
+Paulo: Editora Edgard Blücher,1998, cap.4. p.97-104. 
+
+
+Schutzer e Pereira (1999, p.149) “é um
+sistema integrado homem-máquina que fornece informações de suporte a operações,
+gerenciamento, análise e funções de tomada de decisões em uma organização”. 
+
+SCHUTZER, Elisabeth, PEREIRA, Neócles A. Sistemas de informação. In: BATALHA, M. et.al. Gestão
+Agroindustial. Gurpo de Estudos e Pesquisas Agroindustriais – GEPAI. São Paulo: Atlas, 1999. p.147-168. 
+
+
+Prince (apud Ribeiro e Vieira, 2001) define Sistema
+de Informação como uma rede baseada em computador, contendo sistemas operacionais que
+fornecem à administração dados relevantes para fins de tomada de decisões. 
+
+RIBEIRO, Priscilla C.C., VIEIRA, Leandro S. Tecnologia da Informação e Competitividade na Indústria
+Siderúrgica Brasileira: um Estudo de Caso na CSN. Revista de Economia da Universidade de Santa Catarina,
+julho a dezembro de 2001. 
+
+Sistema de informação é um conjunto formado por pessoas, software,
+hardware, procedimentos e dados. O sistema de informação é responsável por
+difundir as informações através da organização (O’ Brien, 2000). 
+
+De acordo com Araújo (1999), um SI deve ser flexível, fácil de usar,
+responsivo, comunicativo e rentável. 
+
+De acordo com (O’ Brien, 2000), podemos dividir os sistemas de informação
+em quatro tipos: Sistemas de informação transacionais, sistemas de informações
+gerenciais, sistemas de apoio a decisão e sistemas de informações executivas. 

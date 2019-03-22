@@ -1,0 +1,253 @@
+\documentclass[
+	% -- opções da classe memoir --
+	12pt,				% tamanho da fonte
+ 	oneside,			% para impressão em recto e verso. Oposto a oneside
+ 	openany,
+	a4paper,			% tamanho do papel.
+	% -- opções da classe abntex2 --
+	%chapter=TITLE,		% títulos de capítulos convertidos em letras maiúsculas
+	%section=TITLE,		% títulos de seções convertidos em letras maiúsculas
+	%subsection=TITLE,	% títulos de subseções convertidos em letras maiúsculas
+	%subsubsection=TITLE,% títulos de subsubseções convertidos em letras maiúsculas
+	% -- opções do pacote babel --
+	english,			% idioma adicional para hifenização
+	french,				% idioma adicional para hifenização
+	spanish,			% idioma adicional para hifenização
+	brazil				% o último idioma é o principal do documento
+	]{abntex2}
+
+% ---
+% Pacotes básicos
+% ---
+\usepackage{lmodern}			% Usa a fonte Latin Modern
+\usepackage[T1]{fontenc}		% Selecao de codigos de fonte.
+\usepackage[utf8]{inputenc}		% Codificacao do documento (conversão automática dos acentos)
+\usepackage{indentfirst}		% Indenta o primeiro parágrafo de cada seção.
+\usepackage{color}				% Controle das cores
+\usepackage{graphicx}			% Inclusão de gráficos
+\usepackage{microtype} 			% para melhorias de justificação
+% ---
+
+% ---
+% Pacotes de citações
+% ---
+\usepackage[brazilian,hyperpageref]{backref}	 % Paginas com as citações na bibl
+\usepackage[alf]{abntex2cite}	% Citações padrão ABNT
+
+% ---
+% Configurações do pacote backref
+% Usado sem a opção hyperpageref de backref
+\renewcommand{\backrefpagesname}{Citado na(s) página(s):~}
+% Texto padrão antes do número das páginas
+\renewcommand{\backref}{}
+% Define os textos da citação
+\renewcommand*{\backrefalt}[4]{
+	\ifcase #1 %
+	Nenhuma citação no texto.%
+	\or
+	Citado na página #2.%
+	\else
+	Citado #1 vezes nas páginas #2.%
+	\fi}%
+% ---
+
+% ---
+% Informações de dados para CAPA e FOLHA DE ROSTO
+% ---
+\titulo {
+	FRAMEWORK PARA CRIAÇÃO DE COMPONENTES REUTILIZÁVEIS
+}
+\autor{Jomar Antônio Cardoso}
+\local{Novo Hamburgo}
+\data{2018}
+\orientador{Orientador...}
+\instituicao{%
+	Universidade Feevale
+	\par
+	Sistemas de Informação
+	\par
+	Teste de Conclusão 1}
+\tipotrabalho{Anteprojeto de Trabalho de Conclusão}
+% O preambulo deve conter o tipo do trabalho, o objetivo,
+% o nome da instituição e a área de concentração
+\preambulo{Anteprojeto de Trabalho de Conclusão de
+	Curso, apresentado como requisito parcial à obtenção do grau de Bacharel em Sistemas de Informação pela Universidade Feevale}
+% ---
+
+% ---
+% Configurações de aparência do PDF final
+
+% alterando o aspecto da cor azul
+\definecolor{blue}{RGB}{41,5,195}
+
+% informações do PDF
+\makeatletter
+\hypersetup{
+	%pagebackref=true,
+	pdftitle={\@title},
+	pdfauthor={\@author},
+	pdfsubject={\imprimirpreambulo},
+	pdfcreator={LaTeX with abnTeX2},
+	pdfkeywords={abnt}{latex}{abntex}{abntex2}{trabalho acadêmico},
+	colorlinks=true,       		% false: boxed links; true: colored links
+	linkcolor=blue,          	% color of internal links
+	citecolor=blue,        		% color of links to bibliography
+	filecolor=magenta,      		% color of file links
+	urlcolor=blue,
+	bookmarksdepth=4
+}
+\makeatother
+% ---
+
+% ---
+% Posiciona figuras e tabelas no topo da página quando adicionadas sozinhas
+% em um página em branco. Ver https://github.com/abntex/abntex2/issues/170
+\makeatletter
+\setlength{\@fptop}{5pt} % Set distance from top of page to first float
+\makeatother
+% ---
+
+% ---
+% Possibilita criação de Quadros e Lista de quadros.
+% Ver https://github.com/abntex/abntex2/issues/176
+%
+\newcommand{\quadroname}{Quadro}
+\newcommand{\listofquadrosname}{Lista de quadros}
+
+\newfloat[chapter]{quadro}{loq}{\quadroname}
+\newlistof{listofquadros}{loq}{\listofquadrosname}
+\newlistentry{quadro}{loq}{0}
+
+% configurações para atender às regras da ABNT
+\setfloatadjustment{quadro}{\centering}
+\counterwithout{quadro}{chapter}
+\renewcommand{\cftquadroname}{\quadroname\space}
+\renewcommand*{\cftquadroaftersnum}{\hfill--\hfill}
+
+\setfloatlocations{quadro}{hbtp} % Ver https://github.com/abntex/abntex2/issues/176
+% ---
+
+% ---
+% Espaçamentos entre linhas e parágrafos
+% ---
+
+% O tamanho do parágrafo é dado por:
+\setlength{\parindent}{1.3cm}
+
+% Controle do espaçamento entre um parágrafo e outro:
+\setlength{\parskip}{0.2cm}  % tente também \onelineskip
+
+% ---
+% compila o indice
+% ---
+\makeindex
+% ---
+
+% ----
+% Início do documento
+% ----
+
+\begin{document}
+
+% Seleciona o idioma do documento (conforme pacotes do babel)
+%\selectlanguage{english}
+\selectlanguage{brazil}
+
+% Retira espaço extra obsoleto entre as frases.
+\frenchspacing
+
+% ----------------------------------------------------------
+% ELEMENTOS PRÉ-TEXTUAIS
+% ----------------------------------------------------------
+\pretextual
+\imprimircapa
+\imprimirfolhaderosto*
+
+
+% resumo em português
+\setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
+\begin{resumo}
+Este trabalho é uma proposta de um framework de padrões de projeto para desenvolvimento de componentes reutilizáveis no paradigma funcional. Faz-se necessário a identificação de, todas as necessidades para a criação de um componente, todas as dificuldades para a execução da mesma, quais padrões de projeto devam ser usados. Sendo assim, este tem como objetivo fornecer um framework que atenda os requisitos citados, que formalize a criação de componentes do paradigma funcional.
+
+\textbf{Palavras-chave}: Framework. Padrões de projeto.
+\end{resumo}
+
+% ---
+% inserir o sumario
+% ---
+\pdfbookmark[0]{\contentsname}{toc}
+\tableofcontents*
+\cleardoublepage
+% ---
+
+% ----------------------------------------------------------
+% ELEMENTOS TEXTUAIS
+% ----------------------------------------------------------
+\textual
+
+\chapter{Motivação}
+
+Este trabalho é uma análise das necessidades para a criação de componentes reutilizáveis, também é um estudo dos vários padrões de projeto e como eles podem contribuir.
+
+Como desenvolvedor frequentemente me deparo com a situação de ter que criar uma nova funcionalidade e sempre penso se há como esta ser um componente totalmente reutilizável e então desenvolvo seguindo o que acredito ser o código mais independente e genérico possível. A primeira utilização deste componente funciona perfeitamente, obviamente, pois foi criado para atender uma necessidade específica. 
+
+Os problemas aparecem geralmente de três formas, quando precisa-se reutilizar o componente em outro contexto e a solução não serve, quando alguma outra pessoa precisa implementar o componente e não sabe como utilizá-lo e quando a funcionalidade inicial requisitada é modificada ou adicionado algo a mais e o componente tem de ser replicado ou refeito para atender especificamente a nova necessidade.
+
+Como \cite[p.~XIV]{aPatternLanguage} mencionam, cada padrão descreve um problema que ocorre repetidas vezes em nosso meio ambiente e então descreve o ponto central da solução do problema, de modo que você possa usar a mesma solução milhares de vezes, mas sem jamais ter de repeti-la. Então temos que cada padrão possui um problema e uma solução, e que esta deva servir sempre para aquele mesmo problema. No caso dos componentes e das funcionalidades citadas acima, são as soluções e os problemas de um padrão.
+
+Segundo ... aplicação é um conjunto de soluções(citar) e seguindo o pensamento acima segundo \cite[p.~XVI]{aPatternLanguage} Nenhum padrão é uma entidade isolada. Cada padrão existe somente porque é sustentado por outros padrões: os padrões maiores, dentro dos quais ele se inclui, os padrões do mesmo tamanho, que o circundam, e os padrões menores, nele inserido. Então se um sistema é um conjunto de componentes que solucionam problemas, este também pode ser considerado um padrão maior que é sustentado pelos componentes.
+
+
+\begin{itemize}
+	 \item Administradores possam cadastrar todos os agentes envolvidos, 
+	 motoristas, passageiros, instituições, jornadas, veículos e administradores.
+
+	\item Administradores criarem listas de chamada.
+
+	\item Simplicidade. Foi identificado (referenciar pesquisa
+	feita pela Kangur), que \% dos possíveis usuários do sistema 
+	são leigos em relação a sistemas de informação. Então é 
+	solicitado que a solução contenha a menor quantidade possível 
+	de caminhos e escolhas para realização de cada tarefa.
+
+	\item Motoristas possam ter as informações dos endereços dos 
+	passageiros de suas respectivas jornadas.
+
+	\item Possibilitar aos passageiros o cancelamento de sua presença numa jornada.
+\end{itemize}
+
+Segundo \cite[p.~98]{spinolapessoa1998}, um “Sistema de Informação (S.I.) é um
+sistema que cria um ambiente integrado e consistente, capaz de fornecer as informações necessárias a todos os usuários”, então além da solicitação do cliente é preciso verificar se todos os usuários do sistema terão acesso as informações que apetece-lhes, também que a execução deste torne-o confiável e acessível.
+
+É de grande importância o planejamento dos Sistemas de Informação, pois definem o futuro dos sistemas da organização. No caso deste sistema do estudo se trata de um inicial com poucas funcionalidades, mas com possível potencial de expansão, então deve-se ser feito também uma análise de onde será o crescimento e como preparar o sistema atual para receber os novos módulos.
+
+
+É identificado que o tipo de sistema se trata de um Sistemas de informações transacionais (SIT)
+
+De acordo com \cite{obrien2004} São as informações rotineiras efetuadas. Essas informações normalmente alimentam um banco de dados para futuras consultas. 
+
+\cite[p.~6]{obrien2004} “é um conjunto organizado de pessoas, hardware, software, redes de comunicações e recursos de dados que coleta, transforma e dissemina informações em uma organização”.
+
+\chapter{Objetivos}
+
+Criar uma modelagem para desenvolvimento de um sistema de informação capaz de
+atender de forma eficiente as necessidades do cliente.
+
+\begin{itemize}
+	\item Identificar todas as informações e todos os agentes.
+	
+	\item Entender as necessidades do solicitante.
+	
+	\item Prever os possíveis crescimentos do sistema.
+	
+	\item Apresentar a modelagem.
+\end{itemize}
+
+\chapter{Metodologia}
+
+Para auxiliar na realização deste projeto pretendo me basear na leitura dos principais livros do assunto, também analisar casos de usos e demais estudos semelhantes.
+
+\postextual
+\bibliography{anteprojeto-references}
+
+\end{document}
