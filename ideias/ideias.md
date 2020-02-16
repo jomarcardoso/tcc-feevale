@@ -39,9 +39,9 @@ Há uma exclusão de responsabilidade quando segregamos um grupo como "especial"
 
 *"Acessibilidade na web significa que pessoas com deficiência podem usar a web. Mais especificamente, a acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. E mais. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento"* W3C - Making the Web Accessible
 
-## Para públicos específicos
-
 ### Deficiências
+
+Assim como a visão e a coordenação podem ser deficiências, uma tela pequena ou de baixa qualidade terá os mesmo efeitos.
 
 - Uma mão
 - visão
@@ -63,6 +63,20 @@ Aqui com "if" da para pegar um conteúdo específico.
 - Tamanho da tela
 - Orientação da tela
 - Tamanho das imagens
+- `navigator.maxTouchPoints`
+- `navigator.userAgent`
+- `window.innerWidth`
+- `window.addEventListener("resize"`
+
+### Abordagens para essas informações
+
+#### Graceful degradation
+
+*"This is a top-down approach in which you build the best possible site using all the features you want, then tweak it to make it work on older browsers. This can be harder to do, and less effective, than progressive enhancement, but may be useful in some cases."* Browser detection using the user agent
+
+#### Progressive enhancement
+
+*"This design technique involves developing your Web site in 'layers', using a bottom-up approach, starting with a simpler layer and improving the capabilities of the site in successive layers, each using more features."* Browser detection using the user agent
 
 ## Referências
 
@@ -79,6 +93,7 @@ Aqui com "if" da para pegar um conteúdo específico.
 - [Diversidade  funcional: a diferença e o históricomodelo de homem-padrão](http://www.scielo.br/pdf/hcsm/v16n3/09.pdf)
 - [Diversidad funcional, nuevo término para la lucha por la dignidad en la diversidad del ser humano](https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf)
 - [W3C - Making the Web Accessible](https://www.w3.org/WAI/)
+- [Browser detection using the user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 
 1. Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
 2. Brasil. Decreto no 6.949, de 25 de agosto de 2009. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm.
