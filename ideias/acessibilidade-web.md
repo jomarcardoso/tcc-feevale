@@ -20,7 +20,14 @@ O que podemos fazer por padrão para alcançar um público maior sem alterar o c
 - atributo HTML `role`
 - atributo HTML `placeholder`
 
+Formas de fazer uma "Degradação Graciosa"
+
 - `<noscript>`
+
+Formas de fazer um "Aprimoramento Progressivo"
+
+- `try`, `catch`
+- `if`
 
 ## Abordagens de desenvolvimento
 
@@ -60,7 +67,9 @@ A web não especifica como será acessada.
 - alt nas imagens
 - tabindex
 
-###
+### Daltônicos
+
+...
 
 ## Referências
 
