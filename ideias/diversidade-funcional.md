@@ -1,5 +1,7 @@
 # Diversidade funcional
 
+Se uma página que demora para carregar e você desiste não quer dizer que você tem alguma doença de anciosidade.
+
 ## Diferenças funcionais comuns
 
 - Nenhuma visão é igual
@@ -23,12 +25,14 @@ Será segregado as diferenças que são clinicamente nominadas das demais que n�
 
 Assim como a visão e a coordenação podem ser deficiências, uma tela pequena ou de baixa qualidade terá os mesmo efeitos.
 
+- velocidade da internet
 - projetor
 - netbook
 - scripts desligados
 - navegador
 - navegador desatualizado
 - tem teclado
+- sem internet por um tempo
 
 ## Deficiência é uma Diversidade Funcional
 

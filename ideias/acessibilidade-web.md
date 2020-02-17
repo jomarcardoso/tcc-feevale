@@ -1,11 +1,25 @@
 # Acessibilidade na Web
 
-Até onde podemos ir para que todos recebam o mesmo conteúdo?
+Até onde podemos ir para que todos recebam o mesmo conteúdo, mas escrevendo o mesmo código?
 
 - Babel
 - polyfills
 - Normalize
 - Post CSS
+
+O que podemos fazer por padrão para alcançar um público maior sem alterar o conteúdo?
+
+- atributo HTML `aria`
+- atributo HTML `type`
+- elementos HTML semânticos `h1`, `head`, `tbody`, `figure`, `figcaption`...
+- atributo HTML `alt`
+- atributo HTML `title` pode ser usado em links
+- manter o atributo CSS `outline` em elementos selecionáveis
+- atributo HTML `tabindex`
+- atributo HTML `for`
+- atributo HTML `role`
+- atributo HTML `placeholder`
+
 - `<noscript>`
 
 ## Abordagens de desenvolvimento
@@ -39,7 +53,19 @@ A web não especifica como será acessada.
 - ícones para auxiliar
 - tempos máximos de carregamento
 
+*"O tamanho do alvo para entradas de ponteiro é pelo menos 44 por 44 pixels CSS, com excessões."* Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1
+
+### Cegos
+
+- alt nas imagens
+- tabindex
+
+###
+
 ## Referências
 
+- [Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)
 - [Browser detection using the user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 - [Graceful degradation versus progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement)
+- [Web Content Accessibility Guidelines 1.0 W3C Recommendation 5-May-1999](https://www.w3.org/TR/WAI-WEBCONTENT/)
+- [User Agent Accessibility Guidelines 1.0 W3C Recommendation 17 December 2002](https://www.w3.org/TR/UAAG10/)
