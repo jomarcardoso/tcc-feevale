@@ -1,32 +1,3 @@
-## Diversidade funcional
-
-### Todos temos deficiência
-
-- Nenhuma visão é igual
-- Ninguém vê cor igual
-- Ninguém consegue ler letras miúdas
-- Tudo sem espaçamento dificulta a visualização para pessoas
-- Anciosidade
-
-#### Deficiência é uma Diversidade Funcional
-
-*"Em O  normal  e  o  patológico,  Canguilhem  (1978,  p.101-102)  afirma,  com  irretocávelconsistência, que a anomalia é fato biológico. E, nesse sentido, acrescentamos que a condiçãoque  costumamos  chamar  de  deficiência  também  o  é.  Ou  seja,  a  deficiência,  qualquer  queseja,  é  fato  biológico  de  diferenciação  física,  sensorial,  orgânica  ou  intelectual.  Essacaracterização – emprestada de Canguilhem – é pertinente mesmo em relação à deficiênciaadquirida, cujas limitações decorrentes são contornadas pela reabilitação, pelo reaprendizadodas funções alteradas ou perdidas, pelo uso de próteses ou por alguma adaptação desenca-deada  no  próprio  organismo.  Na  deficiência  adquirida  o  fato  biológico  não  existe  por  sisó,  posto  que  há  fatores  ambientais  (na  forma  de  acidentes  diversos)  concorrendo  para  oseu surgimento. Mas, ainda assim, é na dimensão orgânica que as modificações acontecem,ou,  usando  palavras  de  Canguilhem,  na  dimensão  orgânica  “o  ser  é  capaz  de  instituirnovas  normas”  (p.109).  O  fato  biológico  presente  na  deficiência  produz,  em  algum  grau,uma  diferença  funcional.  Dessa  forma,  em  vez  de  ineficiência  e  incapacidade  –  sentidoliteral  de  deficiência  –,  a  condição  deficiência  é,  de  fato,  uma  diferença  funcional."* Diversidade  funcional: a diferença e o históricomodelo de homem-padrão 716
-
-#### Segregação de deficientes
-
-Há uma exclusão de responsabilidade quando segregamos um grupo como "especial" e tentamos atender apenas quem é "normal".
-
-*"Para  quem  lida  diretamente  com  a  diversidade  funcional,  sempre  estiveram  claros  osaspectos  negativos,  discriminatórios,  limitados  e  contraditórios  da  terminologia  em  uso.Sabe-se  que  a  conceituação  e  a  terminologia  aplicadas  às  deficiências  foram  desenvolvidasinicialmente  para  atender  a  uma  clientela  que  toma  decisões  sobre  a  vida  das  pessoas  queapresentam  alguma  diferença  funcional,  a  saber,  a  medicina,  a  seguridade  social  e  areabilitação (Pereira, 2006). Em termos práticos, a terminologia responsabiliza diretamentea pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedadee  o  ambiente  físico  de  qualquer  responsabilidade  ou  participação,  apesar  da  generalizadafalta  de  meios  sociais  e  ambientais  para  todos  integrar  de  modo  pleno.  Por  ironia,  aschamadas  pessoas  com  deficiência  tornam-se  limitadas  exatamente  naqueles  pontos  emque  a  sociedade  e/ou  o  ambiente  são  excludentes  em  relação  à  diversidade  funcional.  Aresponsabilidade  recai  sobre  a  pessoa  que  apresenta  diferença  funcional  quando  se  espera– ou se exige – que ela se reabilite, se ‘normalize’, se adapte a uma sociedade que, de fato,foi  construída  para  atender  àqueles  que  correspondem  ao  padrão  de  normalidade."* Diversidade  funcional: a diferença e o históricomodelo de homem-padrão 716
-
-### Regras de acessibilidade para alcançar maior público
-
-- contraste mínimo
-- tamanho da fonte
-- padding mínimo para ser clicável
-- espaçamento mínimo para entender
-- ícones para auxiliar
-- tempos máximos de carregamento
-
 ## Acessibilidade
 
 *"I – acessibilidade: condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, mobiliários e equipamentos urbanos, das edificações, dos serviços de transporte e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa portadora de deficiência ou com mobilidade reduzida;"* Decreto Federal n° 5.296/2004 [1], artigo 8°, I
@@ -39,15 +10,6 @@ Há uma exclusão de responsabilidade quando segregamos um grupo como "especial"
 
 *"Acessibilidade na web significa que pessoas com deficiência podem usar a web. Mais especificamente, a acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. E mais. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento"* W3C - Making the Web Accessible
 
-### Deficiências
-
-Assim como a visão e a coordenação podem ser deficiências, uma tela pequena ou de baixa qualidade terá os mesmo efeitos.
-
-- Uma mão
-- visão
-- dautonismo
-- projetor
-- netbook
 
 ### Quais informações temos sem o usuário informar antes de carregar
 
@@ -68,15 +30,6 @@ Aqui com "if" da para pegar um conteúdo específico.
 - `window.innerWidth`
 - `window.addEventListener("resize"`
 
-### Abordagens para essas informações
-
-#### Graceful degradation
-
-*"This is a top-down approach in which you build the best possible site using all the features you want, then tweak it to make it work on older browsers. This can be harder to do, and less effective, than progressive enhancement, but may be useful in some cases."* Browser detection using the user agent
-
-#### Progressive enhancement
-
-*"This design technique involves developing your Web site in 'layers', using a bottom-up approach, starting with a simpler layer and improving the capabilities of the site in successive layers, each using more features."* Browser detection using the user agent
 
 ## Referências
 
@@ -90,10 +43,8 @@ Aqui com "if" da para pegar um conteúdo específico.
 - [Cartilha ACESSIBILIDADE NA WEB W3C BRASIL Fascículo I](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-III.pdf)
 - [W3C Brasil - Acessibilidade](https://www.w3c.br/GT/GrupoAcessibilidade)
 - [Diversidade Funcional - Wikipedia](https://pt.wikipedia.org/wiki/Diversidade_funcional)
-- [Diversidade  funcional: a diferença e o históricomodelo de homem-padrão](http://www.scielo.br/pdf/hcsm/v16n3/09.pdf)
 - [Diversidad funcional, nuevo término para la lucha por la dignidad en la diversidad del ser humano](https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf)
 - [W3C - Making the Web Accessible](https://www.w3.org/WAI/)
-- [Browser detection using the user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 - [Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
 - [W3C Media Queries](https://www.w3.org/TR/css3-mediaqueries/)
 - [MDN @media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
