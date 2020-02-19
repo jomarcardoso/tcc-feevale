@@ -16,6 +16,7 @@
 - navegador
 - sistema operacional
 - motion sikness
+- dark mode
 
 ### Quais informações temos depois de carregado
 
@@ -30,9 +31,30 @@ Aqui com "if" da para pegar um conteúdo específico.
 - `window.innerWidth`
 - `window.addEventListener("resize"`
 
+### Quais informações podemos pedir e gravar
+
+As informações pode ficar no localStorage ou nos cookies se o outro não está disponível.
+
+- possui daltonismo e qual tipo
+- dificuldade para ler textos pequenos
+- possui problema com animações (ver o nome disso)
+- possui algum problema motor
+
+## Casos
+
+*"A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis."*
+
+Acessibilidade à Web: Internet para todos pg. 90
+
+*"Para Miguel de Castro Neto (2000), especialista em ergonomia de Interfaces WWW para pessoas com necessidades especiais, as debilidades funcionais podem ser organizadas em quatro categorias gerais cada uma delas com um leque de usuários com diferentes níveis de aptidão. Deficiências visuais, auditivas, motoras, cognitivas."* Acessibilidade à Web: Internet para todos pg. 91
+
+*"Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação."* Acessibilidade à Web: Internet para todos pg. 92
+
+*"Possui uma versão anterior do navegador ou um navegador completamente diferente, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto."* Acessibilidade à Web: Internet para todos pg. 90
 
 ## Referências
 
+- [Acessibilidade à Web: Internet para todos](https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486)
 - [Acessibilidade - Wikipedia](https://pt.wikipedia.org/wiki/Acessibilidade_web)
 - [Acessibilidade na Web - Introdução](https://www.brasilmedia.com/Acessibilidade-na-Web.html)
 - [Web Accessibility Initiative](https://sites.google.com/site/acessibilidadewebutfpr/web-accessibility-initiative)

@@ -29,6 +29,10 @@ Formas de fazer um "Aprimoramento Progressivo"
 - `try`, `catch`
 - `if`
 
+## certificados de conformidade
+
+### W3C WAI
+
 ## Abordagens de desenvolvimento
 
 *"Graceful degradation Providing an alternative version of your functionality or making the user aware of shortcomings of a product as a safety measure to ensure that the product is usable. Progressive enhancement Starting with a baseline of usable functionality, then increasing the richness of the user experience step by step by testing for support for enhancements before applying them. You may think that these two approaches sound very similar, and that they should give you pretty much the same result, but there are differences to take note of, which we’ll look at below."* Graceful degradation versus progressive enhancement
@@ -74,7 +78,9 @@ A web não especifica como será acessada.
 ## Referências
 
 - [Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/)
+- [Understanding Conformance - Understanding Levels of Conformance](https://www.w3.org/WAI/WCAG21/Understanding/conformance#levels)
 - [Browser detection using the user agent](https://developer.mozilla.org/en-US/docs/Web/HTTP/Browser_detection_using_the_user_agent)
 - [Graceful degradation versus progressive enhancement](https://www.w3.org/wiki/Graceful_degradation_versus_progressive_enhancement)
 - [Web Content Accessibility Guidelines 1.0 W3C Recommendation 5-May-1999](https://www.w3.org/TR/WAI-WEBCONTENT/)
 - [User Agent Accessibility Guidelines 1.0 W3C Recommendation 17 December 2002](https://www.w3.org/TR/UAAG10/)
+- [W3C Web Content Accessibility Guidelines 2 Conformance Logos](https://www.w3.org/WAI/standards-guidelines/wcag/conformance-logos/)
