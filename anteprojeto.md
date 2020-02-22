@@ -6,7 +6,7 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 ## Motivação
 
-Falar sobre o que é acessibilidade.
+### Falar sobre o que é acessibilidade.
 
 A Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], estabelece em seu artigo 9 o, item 1: "A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".
 
@@ -18,19 +18,27 @@ Se for aplicada a definição geral de acessibilidade ao ambiente específico da
 
 A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis. [5] pg. 90
 
-Falar sobre o que é diversidade funcional.
+### Falar sobre o que é diversidade funcional.
 
-Falar sobre a acessibilidade na web.
+Em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e, não raro, pejorativos. Pereira(2008)[6]
 
-Falar sobre o capitalismo.
+Pereira (2008)[6] afirma que para quem lida diretamente com a diversidade funcional, sempre estiveram claros os aspectos negativos, discriminatórios, limitados e contraditórios da terminologia deficiente, que responsabiliza diretamente a pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedade e o ambiente físico de qualquer responsabilidade ou participação.
+
+Romañach e Lobato (2005) concordam com os termos "diversidade" e "funcional" no sentido de homens e mulheres que "funcionam", (atuam, realizam atividades, interage, se relacioname...), também que há grupo na sociedade com funcionamentos distintos e sendo mais específico todo indivíduo também é.
+
+Continuar falando sobre as diferenças e trazer alguns valores.
+
+### Falar sobre a acessibilidade na web.
+
+### Falar sobre o capitalismo.
 
 Em um ambiente corporativo, regido pelas regras do capitalismo,  um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos, que torna todos os envolvidos chefes [1], de alguém, seja o funcionário com seu gerente, seja a indústria com o seu cliente. Na frase de Maxwell (Maxwell Vitor) "Temos que entender que o capitalismo foi criado para lidar com o dinheiro e não com seres humanos", norteia a forma como esse sistema funciona.
 
-Falar sobre o problema da acessibilidade na web.
+### Falar sobre o problema da acessibilidade na web.
 
-Falar sobre outros estudos feitos em cima desse mesmo problema.
+### Falar sobre outros estudos feitos em cima desse mesmo problema.
 
-Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites, quantidade de deficientes, e aparelhos que acessam um website.
+### Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites, quantidade de deficientes, e aparelhos que acessam um website.
 
 Mostrar o que eu estou propondo de uma implementação das regras de acessibilidade gradualmente, começando mais barato, pode quebrar alguns tabus e barreiras iniciais para começar melhorar essa visão e a situação apresentada.
 
@@ -41,3 +49,5 @@ Mostrar o que eu estou propondo de uma implementação das regras de acessibilid
 3. [Cartilha de Acessibilidade na Web](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html)
 4. Web Accessibility Initiative (WAI). Home page. Disponível em: http://www.w3.org/WAI/
 5. [Acessibilidade à Web: Internet para todos](https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486)
+6. [PEREIRA, Ray. Diversidade funcional: a diferença e o histórico modelo de homem-padrão. História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728](http://www.scielo.br/pdf/hcsm/v16n3/09.pdf)
+7. [https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf](https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf)
