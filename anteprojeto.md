@@ -12,12 +12,6 @@ A Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adot
 
 Para as pessoas com deficiência e mobilidade reduzida, a acessibilidade possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
 
-Acessibilidade na web significa que pessoas com deficiência podem usar a web. Mais especificamente, a acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. E mais. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento. [4]
-
-Se for aplicada a definição geral de acessibilidade ao ambiente específico da web, pode-se dizer que se trata da possibilidade e da condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, dos sítios e serviços disponíveis na web. [3]
-
-A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis. [5] pg. 90
-
 ### Falar sobre o que é diversidade funcional.
 
 Em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e, não raro, pejorativos. Pereira(2008)[6]
@@ -29,6 +23,16 @@ Romañach e Lobato (2005) concordam com os termos "diversidade" e "funcional" no
 Continuar falando sobre as diferenças e trazer alguns valores.
 
 ### Falar sobre a acessibilidade na web.
+
+Acessibilidade na web significa que pessoas com deficiência podem usar a web. Mais especificamente, a acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. E mais. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento. [4]
+
+Se for aplicada a definição geral de acessibilidade ao ambiente específico da web, pode-se dizer que se trata da possibilidade e da condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, dos sítios e serviços disponíveis na web. [3]
+
+A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis. [5] pg. 90
+
+Para Miguel de Castro Neto (2000)[8], especialista em ergonomia de Interfaces WWW para pessoas com necessidades especiais, as debilidades funcionais podem ser organizadas em quatro categorias gerais cada uma delas com um leque de usuários com diferentes níveis de aptidão. Deficiências visuais, auditivas, motoras, cognitivas.
+
+Conforto e Santarosa[5] 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão interior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto. Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação. [5] pg. 90-92
 
 ### Falar sobre o capitalismo.
 
@@ -51,3 +55,4 @@ Mostrar o que eu estou propondo de uma implementação das regras de acessibilid
 5. [Acessibilidade à Web: Internet para todos](https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486)
 6. [PEREIRA, Ray. Diversidade funcional: a diferença e o histórico modelo de homem-padrão. História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728](http://www.scielo.br/pdf/hcsm/v16n3/09.pdf)
 7. [https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf](https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf)
+8. NETO, Miguel de Castro. Ergonomia de interfaces WWW para cidadãos com necessidades especiais. Disponível na internet via WWW. URL: http://agricultura.isa.utl.pt/equipa/neto.ap

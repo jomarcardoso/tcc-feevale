@@ -37,7 +37,7 @@ Formas de fazer um "Aprimoramento Progressivo"
 
 *"Graceful degradation Providing an alternative version of your functionality or making the user aware of shortcomings of a product as a safety measure to ensure that the product is usable. Progressive enhancement Starting with a baseline of usable functionality, then increasing the richness of the user experience step by step by testing for support for enhancements before applying them. You may think that these two approaches sound very similar, and that they should give you pretty much the same result, but there are differences to take note of, which we’ll look at below."* Graceful degradation versus progressive enhancement
 
-*"The web was invented and defined to be used with any display device, in any language, anywhere you want. The only thing expected of end users is that they are using a browsing device that can reach out to the web and understand the protocols used to transmit information — http, https, ftp and so on."* Graceful degradation versus progressive enhancement
+*"The web was invented and defined to be used with any display device, in any language, anywhere you want. The only thing expected of end users is that they are using a browsing device that can reach out to the web and understand the protocols used to transmit information — http, https, ftp and so on. This means that we can’t expect anything of the setup or ability of our end users. We can also be fairly sure that our experience of the web as developers is totally different to the one of the people we want to reach. "* Graceful degradation versus progressive enhancement
 
 A web não especifica como será acessada.
 
