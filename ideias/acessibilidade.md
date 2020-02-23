@@ -52,6 +52,8 @@ Acessibilidade à Web: Internet para todos pg. 90
 
 *"Possui uma versão anterior do navegador ou um navegador completamente diferente, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto."* Acessibilidade à Web: Internet para todos pg. 90
 
+*"Na década de 60, universidades americanas iniciaram os primeiros estudos e experiências acerca da eliminação de barreiras arquitetônicas existentes em seus recintos: áreas externas, estacionamentos, salas de aula, laboratórios, bibliotecas, lanchonetes, dentre outros (SASSAKI, 2003, p.39)."*
+
 ## Referências
 
 - [Acessibilidade à Web: Internet para todos](https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486)
@@ -70,6 +72,7 @@ Acessibilidade à Web: Internet para todos pg. 90
 - [Usando Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/Guide/CSS/CSS_Media_queries)
 - [W3C Media Queries](https://www.w3.org/TR/css3-mediaqueries/)
 - [MDN @media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+- SASSAKI,  R. Inclusão  da  pessoa  com  deficiência  no  mercado  de  trabalho.  São  Paulo: Prodef, 1997.
 
 1. Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
 2. Brasil. Decreto no 6.949, de 25 de agosto de 2009. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm.

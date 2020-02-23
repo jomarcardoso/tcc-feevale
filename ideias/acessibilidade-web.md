@@ -1,5 +1,7 @@
 # Acessibilidade na Web
 
+*"Acessibilidade na Web corresponde a possibilitar que qualquer usuário, utilizando qualquer agente (software ou hardware que recupera e serializa1conteúdo Web) possa entender e interagir com o conteúdo de um sítio (Thatcher et al., 2002)."*
+
 Até onde podemos ir para que todos recebam o mesmo conteúdo, mas escrevendo o mesmo código?
 
 - Babel
@@ -84,3 +86,4 @@ A web não especifica como será acessada.
 - [Web Content Accessibility Guidelines 1.0 W3C Recommendation 5-May-1999](https://www.w3.org/TR/WAI-WEBCONTENT/)
 - [User Agent Accessibility Guidelines 1.0 W3C Recommendation 17 December 2002](https://www.w3.org/TR/UAAG10/)
 - [W3C Web Content Accessibility Guidelines 2 Conformance Logos](https://www.w3.org/WAI/standards-guidelines/wcag/conformance-logos/)
+- THATCHER,  J.;  BOHMAN,  P.;  BURKS,   M.;HENRY,  S.  L.;  REGAN,  B.; SWIERENGA,  S.;  URBAN,  M. Constructing  accessible  web  sites. 1a  ed. Glasshaus, 415 p.; 2002.
