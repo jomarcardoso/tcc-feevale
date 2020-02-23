@@ -50,7 +50,7 @@ As decisões para os investimentos de uma empresa são feitas pensando no custo 
 
 A acessibilidade na web é previsto pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e sites da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito particular fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo.
 
-Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis".
+Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Queiroz[11] conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
 
 É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente.
 
@@ -60,7 +60,7 @@ Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria
 
 ### Mostrar o que estou propondo como solução
 
-O fundamento teórico mais relevante para o conceito de acessibilidade é o Desenho universal, que é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [4]
+O fundamento teórico mais relevante para o conceito de acessibilidade é o Desenho universal, que é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
 
 ## Objetivos
 
@@ -76,18 +76,28 @@ O objetivo geral deste trabalho é propor uma implementação das regras de aces
 - Apresentar ferramentar prontas que irão tirar parte da carga de trabalho dos profissionais envolvidos, a ideia dessas é que, após implementadas, algumas dessas vão funcionar trabalhar ao fundo e outras que ajudarão explicitamente trazendo conhecimento na forma de dicas e outros para os envolvidos. Desenho Universal.
 - Trazer técnicas e boas práticas que podem complementar o desenvolvimento da aplicação sem que o conteúdo, inicialmente apresentado, seja alterado. Desenho Universal.
 - Estudar as boas práticas na criação de uma interface para atender maior parte dos indivíduos.
-- Mostrar as Abordagens de Desenvolvimento, Aprimoramento Progressivoo e Degradação Graciosa, como formas de aprimorar a experiência dos usuários por grupos.
-- Avaliar o esforço.
+- **Esse trecho pode ser removido se o trabalho se limitar a Desenho Universal** Mostrar as Abordagens de Desenvolvimento, Aprimoramento Progressivoo e Degradação Graciosa, como formas de aprimorar a experiência dos usuários por grupos.
+- Validar se as técnicas utilizadas e a abordagem do Desenho Universal conseguem atender aos requerimentos de conformidade da W3C-WAI.
+
+## Metodologia
+
+Seguindo os conceitos de metodologia científica apresentados por Prodanov e Freitas (2013), a natureza deste trabalho caracteriza-se como pesquisa aplicada, visto que será criado o protótipo de um aplicativo, utilizando técnicas já usadas em outros a fim de solucionar o problema da acessibilidade em websites.
+
+Em relação aos objetivos, será realizada uma pesquisa exploratória, para que possa-se compreender e estudar o problema e, ainda, identificar as técnicas mais adequadas para a elaboração da solução. Por meio desta pesquisa, será feito o levantamento dos requisitos necessários para a melhoria do app e a definição das técnicas que podem ser usadas.
+
+Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que servirá como base de conhecimento e fundamentação teórica do trabalho, alinhada com a pesquisa experimental, onde o protótipo do aplicativo desenvolvido será avaliado através de experimentos conduzidos ao longo da realização deste estudo.
 
 ## Bibliografia
 
 1. Um livro definindo o Capitalismo (FEEVALE).
 2. Brasil. Decreto no 6.949, de 25 de agosto de 2009. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm.
 3. [Cartilha de Acessibilidade na Web](https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html)
-4. Web Accessibility Initiative (WAI). Home page. Disponível em: http://www.w3.org/WAI/
+4. Introduction to Web Accessibility. Web Accessibility Initiative (WAI), 2020. Disponível em: https://www.w3.org/WAI/fundamentals/accessibility-intro/. Acesso em: 23 de Feveriro de 2020.
 5. [Acessibilidade à Web: Internet para todos](https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486)
 6. [PEREIRA, Ray. Diversidade funcional: a diferença e o histórico modelo de homem-padrão. História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728](http://www.scielo.br/pdf/hcsm/v16n3/09.pdf)
 7. [https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf](https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf)
 8. NETO, Miguel de Castro. Ergonomia de interfaces WWW para cidadãos com necessidades especiais. Disponível na internet via WWW. URL: http://agricultura.isa.utl.pt/equipa/neto.ap
 9. BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm>Acesso em: 15 de ago.2016.
 10. Fernandes J, Godinho F. Acessibilidade aos sítios Web da AP para cidadãos com necessidades especiais, maio 2003. Disponível em: http://www.acessibilidade.gov.pt/manuais/manualv2.doc.
+11. QUEIROZ, Marco Antonio. Acessibilidade web: tudo tem sua primeira vez - Parte I. Acessibilidade Legal, 2020. Disponível em: [http://acessibilidadelegal.com/13-tudotem.php](http://acessibilidadelegal.com/13-tudotem.php). Acesso em: 23 de Feveriro de 2020.
+12. The Center for Universal Design: The Principles of Universal Design, Version 2.0. Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
