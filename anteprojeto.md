@@ -1,8 +1,17 @@
-# Anteprojeto
+# Anteprojeto: DESENHO UNIVERSAL COMO SOLUÇÃO GRADUAL NA IMPLEMENTAÇÃO DE SITES ACESSÍVEIS
+
+**CARDOSO, Jomar Antônio**
+Graduando em Sistemas de Informação – Feevale / Novo Hamburgo RS
 
 ## Resumo
 
 Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensagem, divulgação, entre outros, na maioria das vezes o objetivo, direto ou indireto, é ganhar mais dinheiro. Essa forma de agir das empresas capitalista e onde elas estão inseridas é o que as faz crescer, gerar lucro e serem notadas no mercado. Como a acessiblidade em sites não é algo colocado em lei, esse assunto é apenas uma opção para empresas, onde a sua implantação só ocorrerá e será feita se houver um retorno financeiro. Na internet há uma grande pressão por parte das ferramentas de buscas, pois parte das práticas de acessibilidade beneficiam para uma melhor exatidão do conteúdo exposto e a compreensão em atender os cidadãos e suas necessidades entra em quase todos os casos como um plano inferior e priorizado apenas se incluído na estratégia da empresa. Com o conhecimento de que todas as pessoas possuem diferenças funcionais e os aparelhos que elas usam a internet podem ter diversas limitações, este trabalho tem como objetivo apresentar uma proposta de investimento incremental em acessibilidade, tendo como referência as Diretrizes de Acessibilidade para Conteúdo Web 2.1 da W3C.
+
+**Palavras chave:** Desenho Universal, acessibilidade, diversidade funcional.
+
+## Abstract
+
+*Among the various strategies of a company, such as, brand, growth, message, disclosure, among others, most of the time the objective, direct or indirect, is to earn more money. This way of acting by capitalist companies and where they are inserted is what makes them grow, generate profit and be noticed in the market. As the accessibility on websites is not something set by law, this matter is only an option for companies, where its implementation will only occur and will be done if there is a financial return. There is a great deal of pressure on the internet on the part of search engines, as part of the accessibility practices benefit for a better accuracy of the content exposed and the understanding of serving citizens and their needs comes in almost all cases as a lower plan and prioritized only if included in the company's strategy. With the knowledge that all people have functional differences and the devices they use the internet can have several limitations, this work aims to present a proposal for incremental investment in accessibility, having as reference the Accessibility Guidelines for Web Content 2.1 of W3C.*
 
 ## Motivação
 
