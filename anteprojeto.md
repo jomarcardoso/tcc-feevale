@@ -13,6 +13,8 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 *Among the various strategies of a company, such as, brand, growth, message, disclosure, among others, most of the time the objective, direct or indirect, is to earn more money. This way of acting by capitalist companies and where they are inserted is what makes them grow, generate profit and be noticed in the market. As the accessibility on websites is not something set by law, this matter is only an option for companies, where its implementation will only occur and will be done if there is a financial return. There is a great deal of pressure on the internet on the part of search engines, as part of the accessibility practices benefit for a better accuracy of the content exposed and the understanding of serving citizens and their needs comes in almost all cases as a lower plan and prioritized only if included in the company's strategy. With the knowledge that all people have functional differences and the devices they use the internet can have several limitations, this work aims to present a proposal for incremental investment in accessibility, having as reference the Accessibility Guidelines for Web Content 2.1 of W3C.*
 
+**Keywords:** Universal design, accessibility, functional diversity.
+
 ## Motivação
 
 ### Falar sobre o que é acessibilidade.
