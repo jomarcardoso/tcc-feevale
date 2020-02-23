@@ -87,6 +87,31 @@ Em relação aos objetivos, será realizada uma pesquisa exploratória, para que
 
 Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que servirá como base de conhecimento e fundamentação teórica do trabalho, alinhada com a pesquisa experimental, onde o protótipo do aplicativo desenvolvido será avaliado através de experimentos conduzidos ao longo da realização deste estudo.
 
+## Cronograma
+
+### Trabalho de Conclusão I
+
+| Etapa                                      | Mar | Abr | Mai | Jun |
+|--------------------------------------------|-----|-----|-----|-----|
+| Estudo de acessibilidade                   |  x  |     |     |     |
+| Estudo de Desenho Universal                |  x  |     |     |     |
+| Estudo de acessibilidade na web            |  x  |     |     |     |
+| Estudo de diversidade funcional            |  x  |     |     |     |
+| Elaboração do anteprojeto                  |  x  |     |     |     |
+| Análise de trabalhos relacionados          |     |  x  |  x  |     |
+| Desenvolvimento do Trabalho de Conclusão I |     |  x  |  x  |  x  |
+| Entrega do Trabalho de Conclusão I         |     |     |     |  x  |
+
+### Trabalho de Conclusão II
+
+| Etapa                                       | Ago | Set | Out | Nov |
+|---------------------------------------------|-----|-----|-----|-----|
+| Modelagem e desenvolvimento do protótipo    |  x  |     |     |     |
+| Aplicação do experimento                    |  x  |  x  |     |     |
+| Validação do experimento                    |     |     |  x  |     |
+| Desenvolvimento do Trabalho de Conclusão II |  x  |  x  |  x  |  x  |
+| Entrega do Trabalho de Conclusão II         |     |     |     |  x  |
+
 ## Bibliografia
 
 1. Um livro definindo o Capitalismo (FEEVALE).
