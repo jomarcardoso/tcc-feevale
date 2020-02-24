@@ -1,6 +1,7 @@
 # Anteprojeto: DESENHO UNIVERSAL COMO SOLUÇÃO GRADUAL NA IMPLEMENTAÇÃO DE SITES ACESSÍVEIS
 
 **CARDOSO, Jomar Antônio**
+
 Graduando em Sistemas de Informação – Feevale / Novo Hamburgo RS
 
 ## Resumo
@@ -71,7 +72,9 @@ Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria
 
 ### Mostrar o que estou propondo como solução
 
-O fundamento teórico mais relevante para o conceito de acessibilidade é o Desenho universal, que é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
+Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia Universal Design. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas.[13]
+
+Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
 
 ## Objetivos
 
@@ -126,14 +129,27 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 ## Bibliografia
 
 1. Um livro definindo o Capitalismo (FEEVALE).
+
 2. Brasil. Decreto no 6.949, de 25 de agosto de 2009. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm.
+
 3. Cartilha de Acessibilidade na Web. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
+
 4. Introduction to Web Accessibility. Web Accessibility Initiative (WAI), 2020. Disponível em: https://www.w3.org/WAI/fundamentals/accessibility-intro/. Acesso em: 23 de Feveriro de 2020.
+
 5. Conforto, Débora; Santarosa, Lucila. Acessibilidade à Web: Internet para todos. Porto Alegre, 2002. Disponível em: https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486. Acesso em: 23 de Feveriro de 2020.
+
 6. PEREIRA, Ray. Diversidade funcional: a diferença e o histórico modelo de homem-padrão. História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728. Disponível em: http://www.scielo.br/pdf/hcsm/v16n3/09.pdf. Acesso em: 23 de Feveriro de 2020.
+
 7. ROMAÑACH, Javier; LOBATO, Manuel. Diversidad funcional, nuevo término para la lucha por la dignidad en la diversidad del ser humano. 2005. Disponível em: https://web.archive.org/web/20171031055444/http://www.asoc-ies.org/vidaindepen/docs/diversidad%20funcional_vf.pdf. Acesso em: 23 de Feveriro de 2020.
+
 8. NETO, Miguel de Castro. Ergonomia de interfaces WWW para cidadãos com necessidades especiais. Disponível na internet via WWW. URL: http://agricultura.isa.utl.pt/equipa/neto.ap
-9. BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm>Acesso em: 15 de ago.2016.
+
+9. BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm. Acesso em: 15 de ago.2016.
+
 10. Fernandes J, Godinho F. Acessibilidade aos sítios Web da AP para cidadãos com necessidades especiais, maio 2003. Disponível em: http://www.acessibilidade.gov.pt/manuais/manualv2.doc.
+
 11. QUEIROZ, Marco Antonio. Acessibilidade web: tudo tem sua primeira vez - Parte I. Acessibilidade Legal, 2020. Disponível em: http://acessibilidadelegal.com/13-tudotem.php. Acesso em: 23 de Feveriro de 2020.
+
 12. The Center for Universal Design: The Principles of Universal Design, Version 2.0. Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
+
+13. [Ronald L. Mace](https://www.lib.ncsu.edu/findingaids/mc00260/summary)
