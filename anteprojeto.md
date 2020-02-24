@@ -18,21 +18,23 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 ## Motivação
 
+A acessibilidae, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
+
+Na Declaração Universal Dos Direitos Humanos [14], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos, como atos bárbaros.
+
 A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
 
-"A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".
+> "A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".
 
 Esta definição de lei tem a virtude de ressaltar alguns pontos importantes da acessibilidade, como a vida independente, a participação plena e o acesso em igualdade de oportunidades.
 
-Para as pessoas com deficiência e mobilidade reduzida, a acessibilidade possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
-
 Na década de 60, universidades americanas iniciaram os primeiros estudos e experiências acerca da eliminação de barreiras arquitetônicas existentes em seus recintos: áreas externas, estacionamentos, salas de aula, laboratórios, bibliotecas, lanchonetes, dentre outros (SASSAKI, 2003, p.39).
 
-Para Pereira(2008)[6] em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e pejorativos. Para quem lida diretamente com a diversidade funcional, sempre estiveram claros os aspectos negativos, discriminatórios, limitados e contraditórios da terminologia deficiente, que responsabiliza diretamente a pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedade e o ambiente físico de qualquer responsabilidade ou participação.
+Para Pereira(2008)[6] em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e pejorativos. Para quem lida diretamente com a diversidade funcional, sempre estiveram claros os aspectos negativos, discriminatórios, limitados e contraditórios dessas terminologias, que responsabilizam diretamente a pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedade e o ambiente físico de qualquer responsabilidade ou participação.
 
 Romañach e Lobato (2005)[7] concordam com os termos "diversidade" e "funcional" no sentido de homens e mulheres que "funcionam", (atuam, realizam atividades, interagem, se relacionam...), também que há grupo na sociedade com funcionamentos distintos e sendo mais específico todo indivíduo também é.
 
-Continuar falando sobre as diferenças e trazer alguns valores...
+Segundo o Censo Demográfico 2010 do IBGE [14], 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental.
 
 De acordo com documentos da Iniciativa para a Acessibilidade na Web (W3C-WAI)[4] A acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento.
 
@@ -46,7 +48,7 @@ Conforto e Santarosa[5] 90-92 incluem algumas características não ligadas a pe
 
 Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação. [5] pg. 90-92
 
-Em um ambiente corporativo, regido pelas regras do capitalismo, um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos, que torna todos os envolvidos chefes [1] de alguém, seja o funcionário com seu gerente, seja a indústria com o seu cliente. Na frase de Maxwell (Maxwell Vitor) "Temos que entender que o capitalismo foi criado para lidar com o dinheiro e não com seres humanos", confirma como esse sistema funciona.
+Em um ambiente corporativo, regido pelas regras do capitalismo, um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos, que torna todos os envolvidos empregados [1] de alguém, seja o funcionário com seu gerente, seja a indústria com o seu cliente. Na frase de Maxwell (Maxwell Vitor) "Temos que entender que o capitalismo foi criado para lidar com o dinheiro e não com seres humanos", confirma como esse sistema funciona.
 
 As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo.
 
@@ -62,13 +64,13 @@ Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites,
 
 Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia Universal Design. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas.[13]
 
-Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
+Então, pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
 
 ## Objetivos
 
 ### Objetivo geral
 
-O objetivo geral deste trabalho é propor uma implementação das regras de acessibilidade de forma gradual, de uma forma mais simples para quebrar alguns tabus e barreiras iniciais. Em suma trazer mais conhecimento para melhor visão no assunto e assim encorajar os profissionais e as empresas.
+O objetivo geral deste trabalho é propor uma implementação das regras de acessibilidade de forma gradual e simples para quebrar alguns tabus e barreiras iniciais. Em suma trazer mais conhecimento para melhor visão no assunto e assim encorajar os profissionais e as empresas.
 
 ### Objetivos específicos
 
@@ -141,3 +143,5 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 12. The Center for Universal Design: The Principles of Universal Design, Version 2.0. Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
 
 13. [Ronald L. Mace](https://www.lib.ncsu.edu/findingaids/mc00260/summary)
+
+14. [Censo 2010](https://censo2010.ibge.gov.br/resultados.html)
