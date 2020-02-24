@@ -18,8 +18,6 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 ## Motivação
 
-### Falar sobre o que é acessibilidade.
-
 A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
 
 "A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".
@@ -30,19 +28,15 @@ Para as pessoas com deficiência e mobilidade reduzida, a acessibilidade possibi
 
 Na década de 60, universidades americanas iniciaram os primeiros estudos e experiências acerca da eliminação de barreiras arquitetônicas existentes em seus recintos: áreas externas, estacionamentos, salas de aula, laboratórios, bibliotecas, lanchonetes, dentre outros (SASSAKI, 2003, p.39).
 
-### Falar sobre o que é diversidade funcional.
+Para Pereira(2008)[6] em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e pejorativos. Para quem lida diretamente com a diversidade funcional, sempre estiveram claros os aspectos negativos, discriminatórios, limitados e contraditórios da terminologia deficiente, que responsabiliza diretamente a pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedade e o ambiente físico de qualquer responsabilidade ou participação.
 
-Para Pereira(2008)[6] em regra, os termos deficiente, aleijado e entrevado utilizados para referir qualquer diferença funcional são impróprios, inadequados e, não raro, pejorativos. Para quem lida diretamente com a diversidade funcional, sempre estiveram claros os aspectos negativos, discriminatórios, limitados e contraditórios da terminologia deficiente, que responsabiliza diretamente a pessoa por sua condição física ou orgânica, ao mesmo tempo que parece isentar a sociedade e o ambiente físico de qualquer responsabilidade ou participação.
+Romañach e Lobato (2005)[7] concordam com os termos "diversidade" e "funcional" no sentido de homens e mulheres que "funcionam", (atuam, realizam atividades, interagem, se relacionam...), também que há grupo na sociedade com funcionamentos distintos e sendo mais específico todo indivíduo também é.
 
-ROMAÑACH e LOBATO (2005)[7] concordam com os termos "diversidade" e "funcional" no sentido de homens e mulheres que "funcionam", (atuam, realizam atividades, interagem, se relacionam...), também que há grupo na sociedade com funcionamentos distintos e sendo mais específico todo indivíduo também é.
+Continuar falando sobre as diferenças e trazer alguns valores...
 
-Continuar falando sobre as diferenças e trazer alguns valores.
+De acordo com documentos da Iniciativa para a Acessibilidade na Web (W3C-WAI)[4] A acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento.
 
-### Falar sobre a acessibilidade na web.
-
-De acordo com documentos da Iniciativa para a Acessibilidade na Web (W3C-WAI)[4] A acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. E mais. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento.
-
-Se for aplicada a definição geral de acessibilidade ao ambiente específico da web, pode-se dizer que se trata da possibilidade e da condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, dos sítios e serviços disponíveis na web. [3]
+Se for aplicada a definição geral de acessibilidade ao ambiente específico da web, pode-se dizer que trata-se da possibilidade e da condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, dos sítios e serviços disponíveis na web. [3]
 
 A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis. [5] pg. 90
 
@@ -52,11 +46,7 @@ Conforto e Santarosa[5] 90-92 incluem algumas características não ligadas a pe
 
 Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação. [5] pg. 90-92
 
-### Falar sobre o capitalismo.
-
-Em um ambiente corporativo, regido pelas regras do capitalismo, um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos, que torna todos os envolvidos chefes [1], de alguém, seja o funcionário com seu gerente, seja a indústria com o seu cliente. Na frase de Maxwell (Maxwell Vitor) "Temos que entender que o capitalismo foi criado para lidar com o dinheiro e não com seres humanos", norteia a forma como esse sistema funciona.
-
-### Falar sobre o problema da acessibilidade na web.
+Em um ambiente corporativo, regido pelas regras do capitalismo, um sistema econômico baseado na propriedade privada dos meios de produção e sua operação com fins lucrativos, que torna todos os envolvidos chefes [1] de alguém, seja o funcionário com seu gerente, seja a indústria com o seu cliente. Na frase de Maxwell (Maxwell Vitor) "Temos que entender que o capitalismo foi criado para lidar com o dinheiro e não com seres humanos", confirma como esse sistema funciona.
 
 As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo.
 
@@ -66,11 +56,9 @@ Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria
 
 É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente.
 
-### Falar sobre outros estudos feitos em cima desse mesmo problema.
+Falar sobre outros estudos feitos em cima desse mesmo problema...
 
-### Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites, quantidade de deficientes, e aparelhos que acessam um website.
-
-### Mostrar o que estou propondo como solução
+Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites, quantidade de deficientes, e aparelhos que acessam um website...
 
 Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia Universal Design. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas.[13]
 
