@@ -88,3 +88,5 @@ A web não especifica como será acessada.
 - [W3C Web Content Accessibility Guidelines 2 Conformance Logos](https://www.w3.org/WAI/standards-guidelines/wcag/conformance-logos/)
 - THATCHER,  J.;  BOHMAN,  P.;  BURKS,   M.;HENRY,  S.  L.;  REGAN,  B.; SWIERENGA,  S.;  URBAN,  M. Constructing  accessible  web  sites. 1a  ed. Glasshaus, 415 p.; 2002.
 - [Acessibilidade web: tudo tem sua primeira vez - Parte I](http://acessibilidadelegal.com/13-tudotem.php)
+- [ACESSIBILIDADE NA WEB: UM ESTUDO DE CASO NO PORTAL UERN](https://pt.slideshare.net/valeriofarias/monografia-acessibilidadenawebvalerio)
+- [Análise daSatisfação de Usuários com a Usabilidade dos Sites de Relacionamento ORKUT e FACEBOOK](http://fbuni.edu.br/sites/default/files/tcc-20111-francisco-geraldo-andrade.pdf)

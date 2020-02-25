@@ -20,7 +20,7 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 A acessibilidae, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
 
-Na Declaração Universal Dos Direitos Humanos [14], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos, como atos bárbaros.
+Na Declaração Universal Dos Direitos Humanos [14], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis como os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos como atos bárbaros.
 
 A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
 
@@ -54,17 +54,17 @@ As decisões para os investimentos de uma empresa são feitas pensando no custo 
 
 A acessibilidade na web é previsto pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e sites da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito particular fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo.
 
-Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Queiroz[11] conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
+Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Apesar de ser para todos é preciso sempre um olhar especial sempre para os que mais necessitam, no relato "tudo tem sua primeira vez", de Queiroz[11], ele conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
 
-É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente.
+É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008)[15] de usabilidade:
 
-Falar sobre outros estudos feitos em cima desse mesmo problema...
+> É o sinônimo de de facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido a usar, memoriza as operações e comete menos erros.
 
-Mostrar as pesquisas que fiz, trazendo números sobre a acessibilidade em sites, quantidade de deficientes, e aparelhos que acessam um website...
+Todos que vêem à página têm conhecimentos e percepções diferentes, haverá alguns pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na internet é interessante se preocupar e garantir que seu usuário terá menos problemas para por exemplo concluir uma compra ou fazer seu cadastro.
 
 Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia Universal Design. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas.[13]
 
-Então, pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado. [12]
+Pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado [12]. Desenho Universal, então é uma boa proposta para que com apenas uma implementação um website possa alcançar um maior número de usuários.
 
 ## Objetivos
 
@@ -145,3 +145,5 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 13. [Ronald L. Mace](https://www.lib.ncsu.edu/findingaids/mc00260/summary)
 
 14. [Censo 2010](https://censo2010.ibge.gov.br/resultados.html)
+
+15. AMSTEL, Frederick V. Como fazer testes de usabilidade. Disponível em:<http://usabilidoido.com.br/como_fazer_testes_de_usabilidade.html >, 2008.
