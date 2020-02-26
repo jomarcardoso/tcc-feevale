@@ -4,9 +4,34 @@ Como podemos alterar o conteúdo para ser útil para todos?
 
 - Tamanho mínimo da área de toque
 - Contraste mínimo
-- contraste mínimo
 - tamanho da fonte
-- padding mínimo para ser clicável
 - espaçamento mínimo para entender
 - ícones para auxiliar
 - tempos máximos de carregamento
+
+### Tamanho do texto
+
+[tamanho grande](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#dfn-large-scale)
+
+[Espaçamento de Texto](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#x1-4-12-text-spacing)
+
+[Redimensionar Texto§](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#x1-4-4-resize-text)
+
+### Tamanho da área clicável
+
+[Tamanho da Área Clicável](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#target-size)
+
+### Contraste mínimo
+
+[Critério de Sucesso 1.4.6 Contraste (Melhorado)](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#contrast-enhanced)
+
+[Critério de Sucesso 1.4.3 Contraste Mínimo](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#contrast-minimum)
+
+[Critério de Sucesso 1.4.11 Contraste Não textual](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#non-text-contrast)
+
+[Definição de contraste](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/#dfn-contrast-ratio)
+
+
+# Referências
+
+- [Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1](https://www.w3c.br/traducoes/wcag/wcag21-pt-BR)
