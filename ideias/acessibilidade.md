@@ -1,10 +1,8 @@
 ## Acessibilidade
 
-*"I – acessibilidade: condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, mobiliários e equipamentos urbanos, das edificações, dos serviços de transporte e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa portadora de deficiência ou com mobilidade reduzida;"* Decreto Federal n° 5.296/2004 [1], artigo 8°, I. Cartilha de Acessibilidade na Web
 
-*"A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".* A Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], estabelece artigo 9 o, item 1. Cartilha de Acessibilidade na Web
 
-*"Acessibilidade: Possibilidade e condição de alcance, percepção e entendimento para a utilização com segurança e autonomia de edificações, espaço, mobiliário, equipamento urbano e elementos."* Norma Brasileira ABnT nBR 9050:2004 [3], item 3.1. Cartilha de Acessibilidade na Web
+
 
 *"Para os propósitos desta cartilha, será utilizado o termo “acessibilidade” no sentido de: possibilidade e condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, do meio físico, do transporte, da informação e da comunicação, inclusive dos sistemas e tecnologias de informação e comunicação, bem como de outros serviços e instalações."* Cartilha de Acessibilidade na Web
 
@@ -81,10 +79,6 @@ Acessibilidade à Web: Internet para todos pg. 90
 - [W3C Media Queries](https://www.w3.org/TR/css3-mediaqueries/)
 - [MDN @media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 - SASSAKI,  R. Inclusão  da  pessoa  com  deficiência  no  mercado  de  trabalho.  São  Paulo: Prodef, 1997.
-
-1. Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
-2. Brasil. Decreto no 6.949, de 25 de agosto de 2009. Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm.
-3. ABNT. Norma Brasileira ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em: http://www.pessoacomdeficiencia.gov.br/app/sites/default/files/ arquivos/%5Bfield_generico_imagens-filefield-description%5D_24.pdf.
 - [DECLARAÇÃO UNIVERSAL DOS DIREITOS HUMANOS](https://unesdoc.unesco.org/ark:/48223/pf0000139423)
 - [Unesco: Pessoas com deficiência no Brasil](http://www.unesco.org/new/pt/brasilia/education/inclusive-education/persons-with-disabilities/)
 -[Pessoas com deficiência](https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/20551-pessoas-com-deficiencia.html)

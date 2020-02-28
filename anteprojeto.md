@@ -20,7 +20,7 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 A acessibilidae, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
 
-Na Declaração Universal Dos Direitos Humanos [14], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis como os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos como atos bárbaros.
+Na Declaração Universal Dos Direitos Humanos [16], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis como os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos como atos bárbaros.
 
 A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
 
@@ -147,3 +147,5 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 14. [Censo 2010](https://censo2010.ibge.gov.br/resultados.html)
 
 15. AMSTEL, Frederick V. Como fazer testes de usabilidade. Disponível em:<http://usabilidoido.com.br/como_fazer_testes_de_usabilidade.html >, 2008.
+
+16. [Declaração Universal Dos Direitos Humanos](https://unesdoc.unesco.org/ark:/48223/pf0000139423)
