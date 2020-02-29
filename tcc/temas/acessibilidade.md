@@ -30,3 +30,4 @@ Esta definição de lei tem a virtude de ressaltar alguns pontos importantes da 
 
 *"Queirox (2008): Se as pessoas com necessidades especiais pudessem fazer mais coias na internet, a tecnologia da web não seria mais uma barreira a ser transposta mas, ao contrário, um veículo de transposição de barreiras e melhora da qualidade de vida."*
 
+*"Tecnologia Assistiva é qualquer tipo de tecnologia especificamente concebida para ajudar pessoas com incapacidades ou deficiência a executarem atividades do cotidiano."* Queiroz 2020
