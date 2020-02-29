@@ -40,23 +40,7 @@ As informações pode ficar no localStorage ou nos cookies se o outro não está
 
 ## Casos
 
-*"A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis."*
-
-Acessibilidade à Web: Internet para todos pg. 90
-
-*"Para Miguel de Castro Neto (2000), especialista em ergonomia de Interfaces WWW para pessoas com necessidades especiais, as debilidades funcionais podem ser organizadas em quatro categorias gerais cada uma delas com um leque de usuários com diferentes níveis de aptidão. Deficiências visuais, auditivas, motoras, cognitivas."* Acessibilidade à Web: Internet para todos pg. 91
-
-*"Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação."* Acessibilidade à Web: Internet para todos pg. 92
-
-*"Possui uma versão anterior do navegador ou um navegador completamente diferente, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto."* Acessibilidade à Web: Internet para todos pg. 90
-
 *"Na década de 60, universidades americanas iniciaram os primeiros estudos e experiências acerca da eliminação de barreiras arquitetônicas existentes em seus recintos: áreas externas, estacionamentos, salas de aula, laboratórios, bibliotecas, lanchonetes, dentre outros (SASSAKI, 2003, p.39)."*
-
-*"Na Declaração Universal Dos Direitos Humanos [14], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos, como atos bárbaros."* DECLARAÇÃO UNIVERSAL DOS DIREITOS HUMANOS
-
-*" Todo ser humano tem igual direito de acesso ao serviço público do seu país"* DECLARAÇÃO UNIVERSAL DOS DIREITOS HUMANOS art 21
-
-*" Todo ser humano tem direito à instrução. A instrução será gratuita, pelo menos nos graus  elementares  e  fundamentais.  A  instrução  elementar  será  obrigatória.  A instrução  técnico-profissional  será  acessível  a  todos,  bem  como  a  instrução superior, esta baseada no mérito."* DECLARAÇÃO UNIVERSAL DOS DIREITOS HUMANOS art 26
 
 ![Porcentagem da população, por tipo e grau de dificulade e deficiência (Brasil - 2010) - Visual: 0,27% não consegue de modo algum, 3,18% tem grande dificuldade, 15,31% tem alguma dificuldade; Motora: 0,39% não consegue de modo algum, 1,94% tem grande dificuldade, 4,63% tem alguma dificuldade; Auditiva: 0,18% não consegue de modo algum, 0,94% tem grande dificuldade, 3,97% tem alguma dificuldade; Mental: 1,37% possui (Fonte: IBGE, Censo Demográfico 2010)](https://educa.ibge.gov.br/images/educa/jovens/populacao/2018_08_23_jovens-tipos-graus-deficiencia.jpg)
 

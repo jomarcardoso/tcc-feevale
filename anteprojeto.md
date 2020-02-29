@@ -126,7 +126,7 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 
 4. Introduction to Web Accessibility. Web Accessibility Initiative (WAI), 2020. Disponível em: https://www.w3.org/WAI/fundamentals/accessibility-intro/. Acesso em: 23 de Feveriro de 2020.
 
-5. Conforto, Débora; Santarosa, Lucila. Acessibilidade à Web: Internet para todos. Porto Alegre, 2002. Disponível em: https://www.seer.ufrgs.br/InfEducTeoriaPratica/article/viewFile/5276/3486. Acesso em: 23 de Feveriro de 2020.
+5. CONFORTO, Débora; SANTAROSA, Lucila. Acessibilidade à Web: Internet para todos. Porto Alegre, 2002. Disponível em: http://atividadeparaeducacaoespecial.com/wp-content/uploads/2014/08/ACESSIBILIDADE_WEB_revista_PGIE.pdf. Acesso em: 23 de Feveriro de 2020.
 
 6. PEREIRA, Ray. Diversidade funcional: a diferença e o histórico modelo de homem-padrão. História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728. Disponível em: http://www.scielo.br/pdf/hcsm/v16n3/09.pdf. Acesso em: 23 de Feveriro de 2020.
 
