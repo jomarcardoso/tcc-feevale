@@ -25,3 +25,5 @@
 - <del>[12] Harrison, S. M. - Opening the eyes of those who can see to the world of those who can't: a case study - Technical  Symposium  on  Computer  Science  Education-Proceedings  of  the  36th SIGCSE technical symposium on Computer science education–Pg: 22-26. 2005.</del>
 
 - [13] QUEIROZ, Marco Antonio. Acessibilidade web: tudo tem sua primeira vez - Parte I. Acessibilidade Legal, 2020. Disponível em: http://acessibilidadelegal.com/13-tudotem.php. Acesso em: 23 de Feveriro de 2020.
+
+- [14]  W3C. Acessibilidade para o WAI. Disponível em: <http://www.w3.org/WAI/intro/accessibility.php>.

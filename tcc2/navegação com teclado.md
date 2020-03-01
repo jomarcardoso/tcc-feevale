@@ -1,0 +1,3 @@
+- Como faz?
+- Como pula uma seção?
+- Como melhorar?
