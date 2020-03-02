@@ -7,3 +7,5 @@
 > Usabilidade é o mesmo que facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido a usar, memoriza as operações e comete menos erros.
 
 *"Se  os  textos  desses  atributos  de  imagens  forem  apropriadamente  escritos,  podem fornecer informações úteis sobre o significado das imagens ao serem lidos pelos leitores de tela (Hanson,  2004)  e  (Harrison,  2005)"*
+
+*"Assim, o uso do Desenho universal significa um grande passo na direção de um mundo cada vez mais inclusivo, que se adapta cada vez mais às diferentes habilidades e necessidades das pessoas e que exige delas cada vez menos esforço individual adaptativo"* Cartilha de Acessibilidade na Web [9]

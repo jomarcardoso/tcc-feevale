@@ -22,8 +22,28 @@
 
 - [11] Hanson,  V.L.-The  User  Experience:  Designs  and  Adaptations-ACM  Conference  Proceeding Series-Proceedings of International Cross-Disciplinary Workshop on Web–Pg:1-11. 2004.IBC –Instituto Benjamim. Acessibilidade.- [https://dl.acm.org/doi/abs/10.1145/990657.990659](https://sci-hub.se/https://doi.org/10.1145/990657.990659). Acesso em:13 jun. 2011.
 
-- <del>[12] Harrison, S. M. - Opening the eyes of those who can see to the world of those who can't: a case study - Technical  Symposium  on  Computer  Science  Education-Proceedings  of  the  36th SIGCSE technical symposium on Computer science education–Pg: 22-26. 2005.</del>
+12. Harrison, S. M. - Opening the eyes of those who can see to the world of those who can't: a case study - Technical  Symposium  on  Computer  Science  Education-Proceedings  of  the  36th SIGCSE technical symposium on Computer science education–Pg: 22-26. 2005.
 
 - [13] QUEIROZ, Marco Antonio. Acessibilidade web: tudo tem sua primeira vez - Parte I. Acessibilidade Legal, 2020. Disponível em: http://acessibilidadelegal.com/13-tudotem.php. Acesso em: 23 de Feveriro de 2020.
 
-- [14]  W3C. Acessibilidade para o WAI. Disponível em: <http://www.w3.org/WAI/intro/accessibility.php>.
+- [14]  W3C. Acessibilidade para o WAI. Disponível em: <http://www.w3.org/WAI/intro/accessibility.php> e <https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/>.
+
+- [15]  W3C. Getting Started with Web Accessibility – Web Accessibility initiative – W3C. <http://www.w3.org/standards/webdesign/accessibility>
+
+- [16] Fernandes J, Godinho F. Acessibilidade aos sítios Web da AP para cidadãos com necessidades especiais, maio 2003. Disponível em: http://www.acessibilidade.gov.pt/manuais/manualv2.doc.
+
+- [17] RENAPI. Acessibilidade Virtual – Informação ao alcance de todos. Disponível em: <http://acessibilidade.bento.ifrs.edu.br/acessibilidade-web.php>
+
+- [18] The Center for Universal Design: The Principles of Universal Design, Version 2.0. Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
+
+- [19] W3C. WAI (Web Accessibility Initiative): Developing a Web Accessibility Business Case for Your Organization: Overview. Disponível em: http://www.w3.org/WAI/bcase/#intro.
+
+- [20] W3C. WAI: Stories of Web Users. Disponível em: http://www.w3.org/WAI/intro/people-use-web/stories.
+
+21. WCAG 1.0. Recomendações de Acessibilidade para Conteúdo Web (em português de Portugal – traduzido pela Universidade de Trás-os-Montes e Alto Douro). Disponível em: http://www.utad.pt/wai/wai-pageauth.html.
+
+22. SOUZA, Ana Cristina Satiro. PASSADO, PRESENTE E FUTURO NOS CAMINHOS DA ACESSIBILIDADE. Revista Pandora Brasil. Disponível em: http://revistapandorabrasil.com/revista_pandora/acessibilidade/ana_cristina.pdf
+
+23. SASSAKI,  R. Inclusão  da  pessoa  com  deficiência  no  mercado  de  trabalho.  São  Paulo: Prodef, 1997
+
+24. NASCIMENTO, IVO COSTA. ACESSIBILIDADE WEBPARAOS PORTADORES DE DEFICIÊNCIA VISUALDA ASSOCIAÇÃO CONQUISTENSE DE INTEGRAÇÃO DO DEFICIENTE -ACIDE

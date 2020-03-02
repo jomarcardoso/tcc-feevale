@@ -1,20 +1,6 @@
 # Acessibilidade na WEB
 
-## Exemplos
-
-## Informação
-
-### Equivalente textual
-
-## Navegação
-
-## Cores
-
-## Linguagem
-
-## Epilepsia fotosensível
-
-----
+## Definição
 
 A Cartilha  de  Acessibilidade  na  Web,  foi criada para  orientar gestores, desenvolvedores, auditores, procuradores, promotores e cidadãos sobre a importância de se preocupar com e investir em acessibilidade na web. [9]
 
@@ -34,7 +20,23 @@ Uma interface que atendesse as necessidades de todos está então incluída no D
 
 As diretrizes internacionais de acessibilidade que mais proporcionam o caminho para o Desenho Universal está nas Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1 [6]
 
+*"Os  Estados  Partes  tomarão  as  medidas  apropriadas  para:  [...]  g)  Promover  o  acesso  de pessoas  com  deficiência  a  novos  sistemas  e  tecnologias  da  informação  e  comunicação, inclusive à Internet."*  Convenção Internacional sobre os Direitos das Pessoas com Deficiência estabelece, em seu artigo 9 [3]
+
+*"É  essencial  que  a web seja acessível, de modo a prover igualdade de acesso e de oportunidades para pessoas com diferentes capacidades”."* W#C [15]
+
+*"Para  a  maioria  das  pessoas,  a  tecnologia  torna  a  vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis"* Francisco  Godinho [16]
+
+*"Se for aplicada esta afirmativa ao contexto da web, é possível concluir que uma pessoa com deficiência deveria acessar a web  em  melhores  condições,  já  que  tem  mais  dificuldade  para acessar essas mesmas informações e serviços no mundo físico, porque não pode ler material impresso,  ou  ouvir  informações  transmitidas  oralmente,  ou  locomover-se  até  determinado local,   ou   compreender   informações   transmitidas   em   ambientes   confusos   e   com   muita estimulação, entre outras barreiras."* Cartilha de Acessibilidade na Web
+
+*"De  maneira  resumida,  é  possível  dizer  que “garantir  a  acessibilidade  na web  é  permitir  que qualquer  indivíduo,  utilizando  qualquer  tecnologia  de  navegação,  visite  qualquer  sítio  e obtenha completo entendimento das informações contidas nele, além de ter total habilidade de interação."*
+
+*"As pessoas com deficiência são as maiores beneficiadas, pois, na falta da acessibilidade na web, podem ter seu acesso prejudicado ou até mesmo impedido pelas barreiras impostas pela inacessibilidade. Mas, quando os sítios são verdadeiramente acessíveis, as pessoas com deficiência podem usufruir de todas as informações e serviços disponíveis na web."* Cartilha de Acessibilidade na Web [9]
+
+*"A web é cada vez mais um recurso essencial em muitos aspectos da vida: educação, emprego, governo, comércio, saúde, diversão, interação social, e muito mais. É usada não apenas para receber informações, mas também para fornecer informações e interagir com a sociedade. Portanto, é essencial que seja acessível, a fim de proporcionar igualdade de acesso e de oportunidades para pessoas com deficiência."* [19]
+
 ## Exemplos
+
+*"Possui uma versão anterior do navegador ou um navegador completamente diferente, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto."* CONFORTO E SANTAROSA [7] pg. 90
 
 *"(QUEIROZ 2020)[13] Além de deficientes visuais, há individuos com comprometimento da coordenação motora nas mãos, a ponto de não conseguirem posicionar mouses para clicar, mas que possuem coordenação suficiente para teclar em teclados comuns ou mesmo com teclas de dimensões maiores"*
 
@@ -52,6 +54,56 @@ Referimo-nos a usuários que podem estar numa das seguintes situações: Queiroz
 - Não falar ou compreender fluentemente a língua em que o conteúdo da página foi escrito;
 - Ter os olhos, os ouvidos ou as mãos ocupados ou de outra forma solicitados (por ex.: ao volante a caminho do emprego ou ao trabalhar num ambiente barulhento);
 - Ter uma versão muito antiga de um navegador, um navegador completamente diferente dos habituais, um navegador por voz, ou um sistema operacional menos vulgarizado.
+
+Assim, a partir de uma web acessível, muitos cenários aparentemente improváveis tornam-se possíveis, não só para pessoas com deficiência, mas também para qualquer categoria de usuário, tais como:
+
+- Uma mulher cega, utilizando um leitor de telas, pesquisa a restituição de imposto de renda no sítio da Receita Federal;
+- Um homem cego e sem braços procura sua ex-professora em um sistema de busca utilizando um programa de reconhecimento de voz para entrar comandos no computador e receber retorno a partir do leitor de telas;
+- Um homem com paralisia cerebral, com grandes dificuldades motoras e que só utiliza um dedo para teclar, atualiza seu perfil em uma rede social;
+- Um homem com deficiência motora, que usa um mouse adaptado, faz compras em uma loja virtual;
+- Uma jovem tetraplégica, utilizando apenas um ponteiro na cabeça, procura informações sobre células-tronco em sítios especializados;
+- Uma mulher com deficiência intelectual faz exercícios pela web para melhorar sua comunicação;
+- Um senhor surdocego namora pela web, utilizando um dispositivo que mostra em Braille as informações exibidas na tela;
+- Uma mulher com baixa visão procura informações sobre investimentos e a crise econômica mundial, utilizando um programa ampliador de tela;
+- Um programador daltônico testa uma aplicação na web, procurando erros;
+- Um jovem surdo ou com deficiência auditiva que faz um curso de inglês à distância.
+- Uma jovem com dificuldade de leitura, em virtude da combinação de transtorno do déficit de atenção com hiperatividade (TDAH) e dislexia, estudante do ensino médio, que gosta das aulas de literatura, complementa a leitura de livros e estudos por meio de aulas on-line. Ela utiliza um programa que realça o texto na tela, ao mesmo tempo em que é realizada uma leitura em voz alta [20].
+
+Além disso, devido à universalidade e à grande versatilidade da Internet, os usuários atuam em contextos bastante diferentes, podendo estar inseridos em alguma das seguintes situações:
+
+- não ter a capacidade de ver, ouvir ou deslocar-se, ou ter grande dificuldade, quando não mesmo a impossibilidade, para interpretar determinados tipos de informação;
+- ter dificuldade para ler ou compreender textos;
+- não ter um teclado ou mouse, ou não ser capaz de utilizá-los;
+- ter uma tela que apresenta somente texto, uma tela de dimensões reduzidas ou uma ligação muito lenta com a Internet;
+- não falar ou compreender fluentemente a língua em que o documento foi escrito;
+- ter as mãos, os olhos ou os ouvidos ocupados, ou de outra forma solicitados (por exemplo, ao volante a caminho do trabalho, ou trabalhando num ambiente barulhento);
+- ter uma versão muito antiga de um navegador, um navegador completamente diferente dos habituais, um navegador por voz, ou um sistema operacional menos comum [21].
+
+Para ilustrar melhor a importância da acessibilidade em diferentes contextos de uso da web, a seguir são apresentados alguns cenários em que pessoas sem deficiência são beneficiadas e usuárias diretas da acessibilidade:
+
+- Homem destro, com tendinite, faz pesquisa na web para trabalho da faculdade, utilizando com dificuldades o mouse, mas navegando com a mão esquerda sem encontrar barreiras de teclado na página;
+- Mulher analfabeta funcional tenta tirar uma certidão no sítio da prefeitura da sua cidade, acessando informações representadas por ícones na página;
+- Casal de idosos, já com alguma dificuldade para ler textos pequenos e que possui pouca experiência com a Internet, amplia o tamanho do texto para comprar passagens aéreas em promoção para visitarem o filho em outro estado;
+- Leigo no uso de computadores vê-se obrigado a usar a Internet para realizar a matrícula escolar de seu filho, seguindo as orientações de um tutorial de uso do sistema;
+Brasileiro, sem fluência no espanhol, procura informações sobre Buenos Aires em um sítio de língua espanhola acessando as galerias de fotos;
+- Criança, ainda com linguagem em desenvolvimento, procura um jogo na web em uma página com animações que identificam o jogo que ela procura;
+- Robôs de busca, como o Yahoo, Google, Bing etc., que só indexam texto, procuram sítios com informações sobre a Copa do Mundo no Brasil baseados na semântica dos documentos HTML;
+- Funcionário novo na empresa utiliza pela primeira vez um sistema de gerenciamento de projetos via web depois de assistir a um tutorial de uso do sistema;
+- Homem de meia-idade aumenta a fonte dos textos de um sítio ao navegar pelo seu netbook com tela de apenas 9 polegadas;
+- Utilizando conexão de baixa velocidade, mulher tenta comprar um eletrodoméstico em um sítio de comércio eletrônico construído e estruturado de forma a consumir pouca banda da Internet;
+- Usuário procura os horários da sessão de cinema em seu tablet com tela de 7 polegadas e aumenta e diminui o tamanho do texto conforme sua necessidade de navegação;
+- Mulher atrasada tenta fazer check-in pelo sítio da companhia aérea utilizando seu smartphone no táxi, a caminho do aeroporto, em um formulário simples e de fácil compreensão;
+- A caminho de uma reunião, utilizando seu smartphone, homem utiliza o sistema de busca de um sítio web para localizar o endereço da sede da empresa.
+
+## Vantagens
+
+*"A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis."* CONFORTO E SANTAROSA [7] pg. 90
+
+*"Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação."* CONFORTO E SANTAROSA [7] pg. 92
+
+*"Queirox (2008): Se as pessoas com necessidades especiais pudessem fazer mais coisas na internet, a tecnologia da web não seria mais uma barreira a ser transposta mas, ao contrário, um veículo de transposição de barreiras e melhora da qualidade de vida."*
+
+*"Queiroz (2008): A tecnologia se bem aplicada pode contribuir com a qualidade de vida das pessoas e se mal empregada torna-se uma grande fonte de frustração."*
 
 ## Informação
 
