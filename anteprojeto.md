@@ -18,11 +18,11 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 ## Motivação
 
-A acessibilidae, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
+A acessibilidade, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. [3]
 
-Na Declaração Universal Dos Direitos Humanos [16], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis como os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos como atos bárbaros.
+A Declaração Universal Dos Direitos Humanos [16], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis como os fundamentos da liberdade, e desprezo e desrespeito pelos direitos humanos como atos bárbaros.
 
-A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela onu em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
+A acessibilidade pode ser entendida pela Convenção Internacional Sobre os Direitos das Pessoas com Deficiência, adotada pela ONU em 30 de março de 2007, em nova York, e ratificada pelo Decreto Federal n° 6.949 de 25 de agosto de 2009 [2], que estabelece em seu artigo 9 o, item 1:
 
 > "A fim de possibilitar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida, os Estados Partes deverão tomar as medidas apropriadas para assegurar-lhes o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ou propiciados ao público, tanto na zona urbana como na rural".
 
@@ -36,7 +36,7 @@ Romañach e Lobato (2005)[7] concordam com os termos "diversidade" e "funcional"
 
 Segundo o Censo Demográfico 2010 do IBGE [14], 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental.
 
-De acordo com documentos da Iniciativa para a Acessibilidade na Web (W3C-WAI)[4] A acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento.
+De acordo com documentos da Iniciativa para a Acessibilidade na Web (W3C-WAI)[4], a acessibilidade na web significa que pessoas com deficiência podem perceber, entender, navegar, interagir e contribuir para a web. Ela também beneficia outras pessoas, incluindo pessoas idosas com capacidades em mudança devido ao envelhecimento.
 
 Se for aplicada a definição geral de acessibilidade ao ambiente específico da web, pode-se dizer que trata-se da possibilidade e da condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, dos sítios e serviços disponíveis na web. [3]
 
@@ -44,7 +44,7 @@ A acessibilidade à Internet normalmente aponta para um potencial de participaç
 
 Para Miguel de Castro Neto (2000)[8], especialista em ergonomia de Interfaces WWW para pessoas com necessidades especiais, as debilidades funcionais podem ser organizadas em quatro categorias gerais cada uma delas com um leque de usuários com diferentes níveis de aptidão. Deficiências visuais, auditivas, motoras, cognitivas.
 
-Conforto e Santarosa[5] 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão interior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto.
+Conforto e Santarosa[5] 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão anterior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto.
 
 Outro aspecto refere-se as características do ambiente, significa que o acesso não deve ser condicionado pelo ambiente físico envolvente, exterior ou interior, como ambientes ruidosos ou com muita iluminação. [5] pg. 90-92
 
@@ -52,7 +52,7 @@ Em um ambiente corporativo, regido pelas regras do capitalismo, um sistema econ�
 
 As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo.
 
-A acessibilidade na web é previsto pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e sites da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito particular fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo.
+A acessibilidade na web é prevista pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e sites da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito particular fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo.
 
 Em 2003, Jorge Fernandes e Francisco Godinho [10] afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Apesar de ser para todos é preciso sempre um olhar especial sempre para os que mais necessitam, no relato "tudo tem sua primeira vez", de Queiroz[11], ele conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
 
