@@ -134,7 +134,7 @@ Como procedimentos técnicos, será utilizada a pesquisa bibliográfica, que ser
 
 8. NETO, Miguel de Castro. Ergonomia de interfaces WWW para cidadãos com necessidades especiais. Disponível na internet via WWW. URL: http://agricultura.isa.utl.pt/equipa/neto.ap
 
-9. BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm. Acesso em: 15 de ago.2016.
+9. BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm. Acesso em: 15 de ago 2020.
 
 10. Fernandes J, Godinho F. Acessibilidade aos sítios Web da AP para cidadãos com necessidades especiais, maio 2003. Disponível em: http://www.acessibilidade.gov.pt/manuais/manualv2.doc.
 
