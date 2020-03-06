@@ -54,6 +54,14 @@ Criar um modelo para implementação gradual das regras de acessibilidade da W3C
 - Desenvolver o modelo.
 - Validar o modelo.
 
+## Metodologia
+
+Seguindo os conceitos de metodologia científica apresentados por Prodanov e Freitas (2013), a natureza deste trabalho caracteriza-se como pesquisa aplicada, visto que será criado um modelo, a fim de solucionar o problema da acessibilidade em websites.
+
+Em relação aos objetivos, será realizada uma pesquisa exploratória, para que possa-se compreender e estudar o problema e, ainda, identificar as técnicas mais adequadas para a elaboração da solução. Por meio desta pesquisa, será feito o levantamento dos requisitos necessários criação do modelo.
+
+O método será do tipo experimental...
+
 ## Bibliografia
 
 - Cartilha de Acessibilidade na Web. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
