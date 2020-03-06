@@ -1,3 +1,9 @@
+# Anteprojeto: MODELO DE IMPLEMENTAÇÃO DE ACESSIBILIDADE SISTEMAS
+
+**CARDOSO, Jomar Antônio**
+
+Graduando em Sistemas de Informação – Feevale / Novo Hamburgo RS
+
 ## Resumo
 
 Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensagem, divulgação, entre outros, na maioria das vezes o objetivo, direto ou indireto, lucrar mais. Essa forma de agir das empresas em meio a um sistema capitalista onde estão inseridas é o que as faz crescer e serem notadas no mercado. Como a acessiblidade em sites não é algo colocado em lei, esse assunto é apenas uma opção para empresas, onde a sua implantação só ocorrerá e será feita se houver de alguma forma uma vantagem competitiva. Na internet há uma grande pressão por parte das ferramentas de buscas, pois parte das práticas de acessibilidade beneficiam para uma melhor exatidão do conteúdo exposto e a compreensão em atender os cidadãos e suas necessidades entra em quase todos os casos como um plano inferior e priorizado apenas se incluído na estratégia da empresa. Com o conhecimento de que todas as pessoas possuem diferenças funcionais e os aparelhos que elas usam a internet podem ter diversas limitações, este trabalho tem como objetivo mostrar como gradualmente pode-se implementar as regras de acessibilidade e incentivar as empresas a fazê-las.
@@ -24,13 +30,17 @@ A acessibilidade na *web* é prevista pela lei para portais da administração p
 
 Todos que vêem à página têm conhecimentos e percepções diferentes, haverá alguns pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na internet é interessante se preocupar e garantir que seu usuário terá menos dificuldades para por exemplo concluir uma compra ou fazer seu cadastro.
 
+Garantir a acessibilidade de um artefato digital não significa que ele terá versões alternativas, que atendam a públicos específicos.  Significa projetarmos esse artefato de forma que ele atenda ao maior número possível de pessoas, inclusive as pessoas que têm alguma deficiência ou limitação e fazem uso de recursos de tecnologia assistiva.
+
 Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia *Universal Design*. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas.
 
 > A intenção do conceito de design universal é simplificar a vida de todos, tornando mais habitável utilizável por mais pessoas, com pouco ou nenhum custo extra.
 
 Pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado (The Principles of Universal Design). Desenho Universal, então é uma boa proposta para que com apenas uma implementação um *website* possa alcançar um maior número de usuários.
 
-Na lei 13.145 no artigo 55 parágrafo 2º nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável. (Brasil 2015). Estes são são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil 2015) Art 3º parágrafo VI. Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
+Na lei 13.145 no artigo 55 parágrafo 2º nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável. (Brasil 2015). Estes são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil 2015) Art 3º parágrafo VI. Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
+
+É notável que é preciso um maior estudo dos usuários da *web*, para melhor entender suas necessidades. Também é preciso esclarecer os vários equívocos das empresas que têm sua marca na internet e optam por não se preocupar com acessibilidade por interpretar como a implementação como onerosa e de algo totalmente novo.
 
 ## Objetivos
 
@@ -53,6 +63,7 @@ Criar um modelo para implementação gradual das regras de acessibilidade da W3C
 - CONFORTO, Débora; SANTAROSA, Lucila. **Acessibilidade à Web: Internet para todos.** Porto Alegre, 2002. Disponível em: http://atividadeparaeducacaoespecial.com/wp-content/uploads/2014/08/ACESSIBILIDADE_WEB_revista_PGIE.pdf. Acesso em: 23 de Feveriro de 2020.
 - Fernandes J, Godinho F. **Acessibilidade aos sítios Web da AP para cidadãos com necessidades especiais, maio 2003.** Disponível em: http://www.acessibilidade.gov.pt/manuais/manualv2.doc.
 - QUEIROZ, Marco Antonio. **Acessibilidade web: tudo tem sua primeira vez - Parte I. Acessibilidade Legal, 2020.** Disponível em: http://acessibilidadelegal.com/13-tudotem.php. Acesso em: 23 de Feveriro de 2020.
-- BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm. Acesso em: 15 de ago.2016.
+- BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm; acesso em: 28 Fevereiro 2020.
 - BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm; acesso em: 28 Fevereiro 2020.
 - The Center for Universal Design: **The Principles of Universal Design, Version 2.0.** Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
+- SALTON, B. P.; DALL AGNOL, A.; TURCATTI, A. **Manual de Acessibilidade em Documentos Digitais.** Bento Gonçalves: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, 2017. Disponível em https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf; acesso em 5 Março 2020.

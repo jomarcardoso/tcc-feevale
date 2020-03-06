@@ -47,3 +47,5 @@
 23. SASSAKI,  R. Inclusão  da  pessoa  com  deficiência  no  mercado  de  trabalho.  São  Paulo: Prodef, 1997
 
 24. NASCIMENTO, IVO COSTA. ACESSIBILIDADE WEBPARAOS PORTADORES DE DEFICIÊNCIA VISUALDA ASSOCIAÇÃO CONQUISTENSE DE INTEGRAÇÃO DO DEFICIENTE -ACIDE
+
+25. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/

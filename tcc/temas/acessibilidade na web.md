@@ -2,6 +2,8 @@
 
 ## Definição
 
+*"Garantir a acessibilidade de um artefato digital não significa que ele terá versões alternativas, que atendam a públicos específicos.  Significa projetarmos esse artefato de forma que ele atenda ao maior número possível de pessoas, inclusive as pessoas que têm alguma deficiência ou limitação e fazem uso de recursos de tecnologia assistiva."* [25]
+
 A Cartilha  de  Acessibilidade  na  Web,  foi criada para  orientar gestores, desenvolvedores, auditores, procuradores, promotores e cidadãos sobre a importância de se preocupar com e investir em acessibilidade na web. [9]
 
 *[14] "Acessibilidade   na  web significa que pessoas com deficiência podem usar a web.  Mais especificamente,  a  acessibilidade  na web  significa  que  pessoas  com  deficiência  podem perceber,  entender,  navegar,  interagir  e  contribuir  para  a web."*
