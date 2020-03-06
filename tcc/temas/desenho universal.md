@@ -4,8 +4,6 @@
 
 *"A concepção e a implantação de projetos que tratem do meio físico, de transporte, de informação e comunicação, inclusive de sistemas e tecnologias da informação e comunicação, e de outros serviços, equipamentos e instalações abertos ao público, de uso público ou privado de uso coletivo, tanto na zona urbana como na rural, devem atender aos princípios do desenho universal, tendo como referência as normas de acessibilidade."* Art. 55
 
-*"Nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável."* Art. 55 § 2º
-
 *"O fundamento teórico mais relevante para o conceito de acessibilidade é o Desenho universal, que é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, na maior extensão possível, sem a necessidade de adaptação ou desenho especializado"* [14]
 
 *" A ideia principal contida no Desenho universal é que o mundo projetado deve se adaptar o melhor possível a todas as pessoas, ao invés de exigir destas um grande esforço de adaptação. Estão de acordo com o Desenho universal, por exemplo, os ambientes que possuem rampas de acesso, banheiros e bebedores adaptados, fraldários, pisos podotáteis, elevadores com áudio e painéis em Braille, etc. outro exemplo são os filmes que possuem audiodescrição, legendas e tradução para LIBRAS – Língua Brasileira de Sinais."* Cartilha de Acessibilidade na Web [9]
