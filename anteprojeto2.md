@@ -40,7 +40,9 @@ Pela definição, Desenho universal, é o desenvolvimento de produtos e ambiente
 
 Na lei 13.145 no artigo 55 parágrafo 2º nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável. (Brasil 2015). Estes são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil 2015) Art 3º parágrafo VI. Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
 
-Pelo Modelo de Acessibilidade em Governo Eletrônico (2014) o processo de desenvolvimento de um *site* acessível é feito em três partes. O primeiro é seguir os padrões de desenvolvimento *Web*, no caso, seguir as recomendações da W3C Standards. O segundo é seguir as recomendações de acessibilidade da WCAG. Como terceiro passo, avaliar o resultado isso pode ser feito por ferramentas de validação automática, como ASES, mas reforça que a validação manual é necessária.
+Compreender como as pessoas com deficiência ou alguma limitação utilizam o computador, a web e outros recursos digitais é o primeiro passo para entender a importância da garantia da acessibilidade e do desenvolvimento de ambientes e materiais digitais mais inclusivos. (Manual de Acessibilidade em Documentos Digitais)
+
+Pelo Modelo de Acessibilidade em Governo Eletrônico (2014) o processo de desenvolvimento de um *site* acessível é feito em três partes. O primeiro é seguir os padrões de desenvolvimento *Web*, no caso, seguir as recomendações da W3C Standards. O segundo é seguir as recomendações de acessibilidade da WCAG. Como terceiro passo, avaliar o resultado isso pode ser feito por ferramentas de validação automática, como ASES, mas reforça que a validação manual é necessária e principalmente com usuários reais.
 
 É preciso esclarecer os vários equívocos das empresas que têm sua marca na internet e optam por não se preocupar com acessibilidade por interpretar como uma implementação  onerosa e feita de forma especial para um público específico.
 

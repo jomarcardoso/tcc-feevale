@@ -2,6 +2,8 @@
 
 ## Definição
 
+*"Compreender como as pessoas com deficiência ou alguma limitação utilizam o computador, a web e outros recursos digitais é o primeiro passo para entender a importância da garantia da acessibilidade e do desenvolvimento de ambientes e materiais digitais mais inclusivos. Para isso, é necessário conhecer quem são essas pessoas, como acessam o meio digital, quais tipos de adequações ou recursos podem ajudá-las nesse processo, e quais as barreiras que podem dificultar ou impossibilitar seu acesso."* [26]
+
 *"Garantir a acessibilidade de um artefato digital não significa que ele terá versões alternativas, que atendam a públicos específicos.  Significa projetarmos esse artefato de forma que ele atenda ao maior número possível de pessoas, inclusive as pessoas que têm alguma deficiência ou limitação e fazem uso de recursos de tecnologia assistiva."* [25]
 
 A Cartilha  de  Acessibilidade  na  Web,  foi criada para  orientar gestores, desenvolvedores, auditores, procuradores, promotores e cidadãos sobre a importância de se preocupar com e investir em acessibilidade na web. [9]

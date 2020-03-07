@@ -49,3 +49,5 @@
 24. NASCIMENTO, IVO COSTA. ACESSIBILIDADE WEBPARAOS PORTADORES DE DEFICIÊNCIA VISUALDA ASSOCIAÇÃO CONQUISTENSE DE INTEGRAÇÃO DO DEFICIENTE -ACIDE
 
 25. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/
+
+26. https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf
