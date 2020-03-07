@@ -20,7 +20,7 @@ A acessibilidade à Internet normalmente aponta para um potencial de participaç
 
 Em 2003, Jorge Fernandes e Francisco Godinho afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Apesar de ser para todos é preciso sempre um olhar especial sempre para os que mais necessitam, no relato "tudo tem sua primeira vez", de Queiroz, ele conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
 
-Conforto e Santarosa (2002) 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão anterior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto.
+Conforto e Santarosa (2002) pg. 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão anterior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto. Com tal afirmação é perceptível que é preciso um maior estudo sobre usuários da *web*, para melhor entender suas necessidades.
 
 A acessibilidade na *web* é prevista pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e *sites* da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito privado fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo e ao fim haverá um retorno financeiro.
 
@@ -40,7 +40,9 @@ Pela definição, Desenho universal, é o desenvolvimento de produtos e ambiente
 
 Na lei 13.145 no artigo 55 parágrafo 2º nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável. (Brasil 2015). Estes são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil 2015) Art 3º parágrafo VI. Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
 
-É notável que é preciso um maior estudo dos usuários da *web*, para melhor entender suas necessidades. Também é preciso esclarecer os vários equívocos das empresas que têm sua marca na internet e optam por não se preocupar com acessibilidade por interpretar como a implementação como onerosa e de algo totalmente novo.
+Pelo Modelo de Acessibilidade em Governo Eletrônico (2014) o processo de desenvolvimento de um *site* acessível é feito em três partes. O primeiro é seguir os padrões de desenvolvimento *Web*, no caso, seguir as recomendações da W3C Standards. O segundo é seguir as recomendações de acessibilidade da WCAG. Como terceiro passo, avaliar o resultado isso pode ser feito por ferramentas de validação automática, como ASES, mas reforça que a validação manual é necessária.
+
+É preciso esclarecer os vários equívocos das empresas que têm sua marca na internet e optam por não se preocupar com acessibilidade por interpretar como uma implementação  onerosa e feita de forma especial para um público específico.
 
 ## Objetivos
 
@@ -75,3 +77,4 @@ O método será do tipo experimental...
 - BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm; acesso em: 28 Fevereiro 2020.
 - The Center for Universal Design: **The Principles of Universal Design, Version 2.0.** Raleigh, NC: North Carolina State University. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
 - SALTON, B. P.; DALL AGNOL, A.; TURCATTI, A. **Manual de Acessibilidade em Documentos Digitais.** Bento Gonçalves: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, 2017. Disponível em https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf; acesso em 5 Março 2020.
+- DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, eMAG - Modelo de Acessibilidade em Governo Eletrônico. Disponível em: http://emag.governoeletronico.gov.br/; acesso em 5 Março 2020.
