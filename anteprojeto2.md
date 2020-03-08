@@ -14,8 +14,6 @@ Dentre as várias estratégias de uma empresa, como, marca, crescimento, mensage
 
 A acessibilidade, para as pessoas com deficiência e mobilidade reduzida, possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência. Cartilha de Acessibilidade na Web.
 
-Segundo o Censo Demográfico 2010 do IBGE (Censo), 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental.
-
 A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis. (Conforto e Santarosa) pg. 90
 
 Em 2003, Jorge Fernandes e Francisco Godinho afirmavam que: "Para a maioria das pessoas, a tecnologia torna a vida mais fácil. Para uma pessoa com necessidades especiais, a tecnologia torna as coisas possíveis". Apesar de ser para todos é preciso sempre um olhar especial sempre para os que mais necessitam, no relato "tudo tem sua primeira vez", de Queiroz, ele conta a emoção de como foi sua experiência como cego quando em 1999 conseguiu comprar e enviar como presente um livro para uma amiga que estava de aniversário.
@@ -23,6 +21,10 @@ Em 2003, Jorge Fernandes e Francisco Godinho afirmavam que: "Para a maioria das 
 Conforto e Santarosa (2002) pg. 90-92 incluem algumas características não ligadas a pessoa. Navegador completamente diferente, ou versão anterior, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto. Com tal afirmação é perceptível que é preciso um maior estudo sobre usuários da *web*, para melhor entender suas necessidades.
 
 A acessibilidade na *web* é prevista pela lei para portais da administração pública. O Decreto 5.296/2004, que regulamenta as Leis 10.048/2000 e 10.098/2000 [9], torna obrigatória a acessibilidade nos portais e *sites* da administração pública para o uso das pessoas com necessidades especiais para garantiro pleno acesso às informações. Como tal lei não abrange o âmbito privado fica a critério das empresas o investimento. O incentivo a essa prática é maior quando há mais profissionais que entendem do mesmo e ao fim haverá um retorno financeiro.
+
+As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo. Quando uma empresa decide colocar sua página na internet e não pensa nas necessidades dos seus usuário, pode ser entendido como um investimento com pouco retorno financeiro.
+
+Segundo o Censo Demográfico 2010 do IBGE (Censo), 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental.
 
 É importante a acessibilidade ser visto como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008) de usabilidade:
 
