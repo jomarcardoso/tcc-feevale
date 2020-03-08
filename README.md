@@ -10,3 +10,4 @@
 - [Acessibilidade em jogos digitais](http://idpf.org/epub/a11y/accessibility.html)
 - [Leis, Decretos e Documentos Gerais](http://www.pcdlegal.com.br/leisacessibilidade/)
 - [bengalalegal](http://www.bengalalegal.com/)
+- [CURSO DE ACESSIBILIDADE E OS PRINCÍPIOS DO SUS : FORMAÇÃO BÁSICA PARA TRABALHADORES DA SAÚDE ](https://mooc.campusvirtual.fiocruz.br/rea/acessibilidade-sus/)
