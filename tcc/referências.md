@@ -51,3 +51,11 @@
 25. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/
 
 26. https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf
+
+27. https://mooc.campusvirtual.fiocruz.br/rea/acessibilidade-sus/downloads/modulo_3/mod3-desenho-universal-web.pdf
+
+28. http://nau.uniriotec.br/
+
+29. ZHENG, R. Learn to Create Accessible Websites with the Principles of Universal Design. 2020. Disponível em: https://www.interaction-design.org/literature/article/learn-to-create-accessible-websites-with-the-principles-of-universal-design. Acesso em 8 mar. 2020
+
+30. SPELTA, L. Acessibilidade web: 7 mitos e um equívoco. 2020. Disponível em: https://imasters.com.br/acessibilidade/acessibilidade-web-7-mitos-e-um-equivoco. Acesso em 8 mar. 2020.

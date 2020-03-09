@@ -11,3 +11,5 @@
 - [Leis, Decretos e Documentos Gerais](http://www.pcdlegal.com.br/leisacessibilidade/)
 - [bengalalegal](http://www.bengalalegal.com/)
 - [CURSO DE ACESSIBILIDADE E OS PRINCÍPIOS DO SUS : FORMAÇÃO BÁSICA PARA TRABALHADORES DA SAÚDE ](https://mooc.campusvirtual.fiocruz.br/rea/acessibilidade-sus/)
+- [Núcleo de Acessibilidade e Usabilidade (NAU) ](http://nau.uniriotec.br/)
+- [Lêda Spelta](https://imasters.com.br/perfil/leda_spelta/)
