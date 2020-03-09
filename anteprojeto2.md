@@ -78,5 +78,5 @@ O método será do tipo experimental...
 - BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm; acesso em: 28 Fevereiro 2020.
 - The Center for Universal Design: **The Principles of Universal Design (Version 2.0).** Raleigh, NC: NC State University, 1997. Disponível em: http://www.ncsu.edu/ncsu/design/cud/about_ud/udprinciplestext.htm.
 - SALTON, B. P.; DALL AGNOL, A.; TURCATTI, A. **Manual de Acessibilidade em Documentos Digitais.** Bento Gonçalves: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul, 2017. Disponível em https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf; acesso em 5 Março 2020.
-- DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, eMAG - Modelo de Acessibilidade em Governo Eletrônico. Disponível em: http://emag.governoeletronico.gov.br/; acesso em 5 Março 2020.
-- Centro tecnológico da acessibilidade do IFRS. Acessibilidade Digital, conceito. 2020. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/; Acesso em 8 mar. 2020.
+- DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, **eMAG - Modelo de Acessibilidade em Governo Eletrônico.** Disponível em: http://emag.governoeletronico.gov.br/; acesso em 5 Março 2020.
+- Centro tecnológico da acessibilidade do IFRS. **Acessibilidade Digital, conceito. 2020.** https://cta.ifrs.edu.br/acessibilidade-digital/conceito/; Acesso em 8 mar. 2020.
