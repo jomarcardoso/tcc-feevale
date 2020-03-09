@@ -48,7 +48,7 @@
 
 24. NASCIMENTO, IVO COSTA. ACESSIBILIDADE WEBPARAOS PORTADORES DE DEFICIÊNCIA VISUALDA ASSOCIAÇÃO CONQUISTENSE DE INTEGRAÇÃO DO DEFICIENTE -ACIDE
 
-25. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/
+25. Centro tecnológico da acessibilidade do IFRS. Acessibilidade Digital, conceito. 2020. https://cta.ifrs.edu.br/acessibilidade-digital/conceito/; Acesso em 8 mar. 2020.
 
 26. https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf
 
