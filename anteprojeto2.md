@@ -26,23 +26,23 @@ As decisões para os investimentos de uma empresa são feitas pensando no custo 
 
 Segundo o Censo Demográfico 2010 do IBGE, 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental. Considerando apenas brasileiros com grande ou total dificuldade, há mais de 12,5 milhões de cidadãos com deficiência, o que corresponde a 6,7% da população.
 
-É importante a acessibilidade ser visto como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008) a usabilidade é o sinônimo de facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido, memoriza as operações e comete menos erros.
+É importante a acessibilidade ser vista como algo recíproco, como, por exemplo, um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008) a usabilidade é o sinônimo de facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido, memoriza as operações e comete menos erros.
 
-Todos que vêem à página têm conhecimentos e percepções diferentes, haverá algumas pessoas pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na *internet* é interessante se preocupar e garantir que seu usuário terá menos dificuldades para por exemplo concluir uma compra ou fazer seu cadastro.
+Todos que vêem à página têm conhecimentos e percepções diferentes, haverá algumas pessoas pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na *internet* é interessante se preocupar e garantir que seu usuário terá menos dificuldades para, por exemplo, concluir uma compra ou fazer seu cadastro.
 
 Garantir a acessibilidade de um artefato digital não significa que ele terá versões alternativas, que atendam a públicos específicos. Significa projetar esse de forma que ele atenda ao maior número possível de pessoas, inclusive as pessoas que têm alguma deficiência ou limitação e fazem uso de recursos de tecnologia assistiva (Centro tecnológico da acessibilidade do IFRS, 2020).
 
 Em 1987, o americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial, criou a terminologia *Universal Design* (Desenho Universal). Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas. "A intenção do conceito de desenho universal é simplificar a vida de todos, tornando mais habitável utilizável por mais pessoas, com pouco ou nenhum custo extra" (The Principles of Universal Design, 1997).
 
-Pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado (The Principles of Universal Design). Desenho Universal, então é uma proposta para que com apenas uma implementação, um *website* possa alcançar um maior número de diversidade de usuários.
+Pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado (The Principles of Universal Design). Desenho Universal, então é uma proposta para que com apenas uma implementação, um *website* possa alcançar um maior número de diversidade de usuários
 
-Na lei 13.145 no artigo 55 parágrafo 2º nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável (Brasil, 2015). Estes são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil, 2015, Art 3º parágrafo VI). Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
+Na lei 13.145, no artigo 55, parágrafo 2º, indica-se que nas hipóteses em que comprovadamente o desenho universal não possa ser empreendido, deve ser adotada adaptação razoável (Brasil, 2015). Estas são adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido (Brasil, 2015, Art 3º parágrafo VI). Essas mudanças tornam-se mais fáceis de executar se o passo anterior do desenho universal for bem executado.
 
 Compreender como as pessoas com deficiência ou alguma limitação utilizam o computador, a web e outros recursos digitais é o primeiro passo para entender a importância da garantia da acessibilidade e do desenvolvimento de materiais digitais mais inclusivos (SALTON et al, 2017).
 
-Pelo Modelo de Acessibilidade em Governo Eletrônico (2014) o processo de desenvolvimento de um *site* acessível é feito em três partes. O primeiro é seguir os padrões de desenvolvimento *Web*, no caso, seguir as recomendações da *W3C Standards*. O segundo é seguir as recomendações de acessibilidade da WCAG. Como terceiro passo, avaliar o resultado, isso pode ser feito por ferramentas de validação automática, como o ASES, mas reforça que a validação manual é necessária e principalmente com usuários reais.
+Pelo Modelo de Acessibilidade em Governo Eletrônico (2014), o processo de desenvolvimento de um *site* acessível é feito em três partes. O primeiro é seguir os padrões de desenvolvimento *Web*, no caso, seguir as recomendações da *W3C Standards*. O segundo é seguir as recomendações de acessibilidade da WCAG. Como terceiro passo, avaliar o resultado, isso pode ser feito por ferramentas de validação automática, como o ASES, mas reforça que a validação manual é necessária e, principalmente, com usuários reais.
 
-É preciso esclarecer os vários equívocos das empresas que têm sua marca na *internet* e optam por não se preocupar com acessibilidade por interpretar como uma implementação  onerosa e feita de forma especial para um público específico. Também trazer maior conhecimento sobre seu público e o entendimento que todo cidadão em sua vida ou em alguma fase dela pode ter uma diferença funcional e precisar de espaços acessíveis, especialmente na *internet*.
+É preciso esclarecer os vários equívocos das empresas que têm sua marca na *internet* e optam por não se preocupar com acessibilidade por interpretar como uma implementação onerosa e feita de forma especial para um público específico. Também trazer maior conhecimento sobre seu público e o entendimento que todo cidadão em sua vida ou em alguma fase dela pode ter uma diferença funcional e precisar de espaços acessíveis, especialmente na *internet*.
 
 ## Objetivos
 
@@ -58,9 +58,9 @@ Criar um modelo para implementação gradual das regras de acessibilidade da W3C
 
 ## Metodologia
 
-Seguindo os conceitos de metodologia científica apresentados por Prodanov e Freitas (2013), a natureza deste trabalho caracteriza-se como pesquisa aplicada, visto que será criado um modelo, a fim de solucionar o problema da acessibilidade em websites.
+Seguindo os conceitos de metodologia científica apresentados por Prodanov e Freitas (2013), a natureza deste trabalho caracteriza-se como pesquisa aplicada, visto que será criado um modelo, a fim de solucionar o problema da acessibilidade em *websites*.
 
-Em relação aos objetivos, será realizada uma pesquisa exploratória, para que possa-se compreender e estudar o problema e, ainda, identificar as técnicas mais adequadas para a elaboração da solução. Por meio desta pesquisa, será feito o levantamento dos requisitos necessários criação do modelo.
+Em relação aos objetivos, será realizada uma pesquisa exploratória, para que se possa compreender e estudar o problema e, ainda, identificar as técnicas mais adequadas para a elaboração da solução. Por meio desta pesquisa, será feito o levantamento dos requisitos necessários criação do modelo.
 
 O método será do tipo experimental...
 
