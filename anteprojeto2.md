@@ -24,7 +24,7 @@ A acessibilidade na *web* é prevista pela lei para portais da administração p
 
 As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo. Quando é decidido colocar uma página na *internet* e não é pensado nas necessidades dos seus usuário, pode ser entendido como um investimento com pouco retorno financeiro.
 
-Segundo o Censo Demográfico 2010 do IBGE, 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental. Considerando apenas brasileiros com grande ou total dificuldade há mais de 12,5 milhões de cidadãos com deficiência, que corresponde a 6,7% da população.
+Segundo o Censo Demográfico 2010 do IBGE, 3,18% da população brasileira tem grande grau de deficiência na visão, 4,63% tem alguma dificuldade motora, 0,18% não conseguem ouvir e 1,37% possuem algum problema mental. Considerando apenas brasileiros com grande ou total dificuldade, há mais de 12,5 milhões de cidadãos com deficiência, o que corresponde a 6,7% da população.
 
 É importante a acessibilidade ser visto como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008) a usabilidade é o sinônimo de facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido, memoriza as operações e comete menos erros.
 
@@ -66,7 +66,7 @@ O método será do tipo experimental...
 
 ## Bibliografia
 
-- Cartilha de Acessibilidade na Web. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
+- W3C Brasil. Cartilha de Acessibilidade na Web – Introdução: Fascículo I, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
 - PEREIRA, Ray. **Diversidade funcional: a diferença e o histórico modelo de homem-padrão.** História, Ciências, Saúde – Manguinhos, Rio de Janeiro, v.16, n.3, jul.-set. 2009, p.715-728. Disponível em: http://www.scielo.br/pdf/hcsm/v16n3/09.pdf. Acesso em: 23 de Feveriro de 2020.
 - Ronald L. Mace, FAIA. **HOUSING FOR THE LIFESPAN OF ALL PEOPLE.** Disponível em: https://mn.gov/mnddc/parallels2/pdf/80s/88/88-HFL-UDS.pdf
 - CENSO DEMOGRÁFICO 2010. **Características gerais da população, religião e pessoas com deficiência.** Rio de Janeiro: IBGE, 2012. Disponível em: <https://www.ibge.gov.br/estatisticas/sociais/populacao/9662-censo-demografico-2010.html?edicao=9749&t=sobre>. Acesso em: mar. 2013.
