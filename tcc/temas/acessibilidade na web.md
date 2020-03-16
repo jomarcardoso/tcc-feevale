@@ -1,5 +1,9 @@
 # Acessibilidade na WEB
 
+## Links
+
+- [Desenho Universal aplicado à web com foco na acessibilidade](https://cta.ifrs.edu.br/desenho-universal-aplicado-a-web-com-foco-na-acessibilidade/)
+
 ## Definição
 
 *"Não crer que o design de um site acessível não pode ser atraente. É um mito a afirmação de que um site não pode ser bonito, pois recursos visuais atrapalham o uso de pessoas cegas (SPELTA, 2019)."*
@@ -41,6 +45,8 @@ As diretrizes internacionais de acessibilidade que mais proporcionam o caminho p
 *"A web é cada vez mais um recurso essencial em muitos aspectos da vida: educação, emprego, governo, comércio, saúde, diversão, interação social, e muito mais. É usada não apenas para receber informações, mas também para fornecer informações e interagir com a sociedade. Portanto, é essencial que seja acessível, a fim de proporcionar igualdade de acesso e de oportunidades para pessoas com deficiência."* [19]
 
 ## Exemplos
+
+
 
 *"Possui uma versão anterior do navegador ou um navegador completamente diferente, ou ainda, por possuir um navegador de voz ou um sistema operacional distinto."* CONFORTO E SANTAROSA [7] pg. 90
 
@@ -102,6 +108,8 @@ Brasileiro, sem fluência no espanhol, procura informações sobre Buenos Aires 
 - A caminho de uma reunião, utilizando seu smartphone, homem utiliza o sistema de busca de um sítio web para localizar o endereço da sede da empresa.
 
 ## Vantagens
+
+*"A internet e o computador alargaram os horizontes dos deficiente visuais, a quantidade de informações a que ele tem acesso através desses recursos é muito maior do que por meio de outros veículos."*
 
 *"A acessibilidade à Internet normalmente aponta para um potencial de participação de milhões de sujeitos com necessidades especiais, contudo, projetos acessíveis podem beneficiar usuários sem infra-estrutura de comunicação ou em ambiente com características que não lhes são favoráveis."* CONFORTO E SANTAROSA [7] pg. 90
 

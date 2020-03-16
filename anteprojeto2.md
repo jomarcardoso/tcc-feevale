@@ -28,7 +28,7 @@ Segundo o Censo Demográfico 2010 do IBGE, 3,18% da população brasileira tem g
 
 É importante a acessibilidade ser vista como algo recíproco, como, por exemplo, um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. Na definição de Amstel (2008) a usabilidade é o sinônimo de facilidade de uso. Se um produto é fácil de usar, o usuário tem maior produtividade: aprende mais rápido, memoriza as operações e comete menos erros.
 
-Todos que vêem à página têm conhecimentos e percepções diferentes, haverá algumas pessoas pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na *internet* é interessante se preocupar e garantir que seu usuário terá menos dificuldades para, por exemplo, concluir uma compra ou fazer seu cadastro.
+Todos que veem à página têm conhecimentos e percepções diferentes, haverá algumas pessoas pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na *internet* é interessante se preocupar e garantir que seu usuário terá menos dificuldades para, por exemplo, concluir uma compra ou fazer seu cadastro.
 
 Garantir a acessibilidade de um artefato digital não significa que ele terá versões alternativas, que atendam a públicos específicos. Significa projetar esse de forma que ele atenda ao maior número possível de pessoas, inclusive as pessoas que têm alguma deficiência ou limitação e fazem uso de recursos de tecnologia assistiva (Centro tecnológico da acessibilidade do IFRS, 2020).
 

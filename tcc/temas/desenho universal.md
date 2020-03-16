@@ -1,6 +1,21 @@
 # Desenho Universal
 
+## Links
+
+- [Vereadora - Desenho universal](https://www.maragabrilli.com.br/wp-content/uploads/2016/01/universal_web-1.pdf)
+- [Desenho Universal aplicado à web com foco na acessibilidade](https://cta.ifrs.edu.br/desenho-universal-aplicado-a-web-com-foco-na-acessibilidade/)
+
 ## Definição
+
+A terminologia *Universal Design* (Desenho Universal) foi criada em 1987 pelo americano Ronald Mace, arquiteto que usava cadeira de rodas e um respirador artificial. Mace acreditava que esse era o surgimento não de uma nova ciência ou estilo, mas a percepção da necessidade de aproximarmos as coisas que projetamos e produzimos, tornando-as utilizáveis por todas as pessoas. "A intenção do conceito de desenho universal é simplificar a vida de todos, tornando mais habitável utilizável por mais pessoas, com pouco ou nenhum custo extra" (The Principles of Universal Design, 1997).
+
+Pela definição, Desenho universal, é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, ou na maior extensão possível, sem a necessidade de adaptação ou desenho especializado (The Principles of Universal Design). Desenho Universal, então é uma proposta para que com apenas uma implementação, um website possa alcançar um maior número de diversidade de usuários
+
+A ideia principal contida no Desenho universal é que o mundo projetado deve se adaptar o melhor possível a todas as pessoas, ao invés de exigir destas um grande esforço de adaptação. [9]
+
+----
+
+*"desenho   universal: Aquele que visa atender à maior gama de variações possíveis das características antropométricas e sensoriais da população."* [4]
 
 *"O design minimiza os riscos e as consequências adversas de ações acidentais ou não intencionais".(THE CENTER FOR UNIVERSAL DESIGN, 1997).*
 
@@ -45,6 +60,8 @@ São sete os princípios do Desenho universal [18]:
 ## Desenho universal na web
 
 *"No mundo digital, isso também funciona, pois, quando facilitamos o acesso e o uso para pessoas com deficiência e mobilidade reduzida, todos, de algum modo, acabam sendo beneficiados.  Por exemplo, para se tornar acessível para pessoas com baixa visão, um hiperlink precisa apresentar bom contraste entre a cor do texto e o respectivo fundo, ter aparência clara de um hiperlink, destacar-se dos outros textos e hiperlinks, ter uma boa área para o clique/toque, fazer sentido quando lido fora de contexto e, principalmente, informar claramente seu destino. Todas essas características são fundamentais para que as pessoas com baixa visão consigam utilizá-los, e ainda acabam facilitando o acesso de todas as pessoas."* Cartilha de Acessibilidade na Web [9]
+
+*Uso Equitativo: "Esse princípio diz respeito a possibilitar o uso de diferentes espaços, produtos, serviços e informações por usuários com as mais variadas capacidades. Na web isso significa garantir que a mesma interface mantenha-se intuitiva, atraente e utilizável a usuários com diversas capacidades. Alguns exemplos desse princípio são:"*
 
 ### Usabilidade
 

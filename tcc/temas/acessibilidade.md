@@ -1,6 +1,15 @@
 # Acessibilidade
 
+## Links
+
+
 ## Definição
+
+*" acessibilidade: Possibilidade e condição de alcance, percepção e entendimento para a utilização com segurança e autonomia de edificações, espaço, mobiliário, equipamento urbano e elementos."* [4]
+
+*" acessível: Espaço, edificação, mobiliário, equipamento urbano ou elemento que possa ser alcançado, acionado,  utilizado  e  vivenciado  por  qualquer  pessoa,  inclusive  aquelas  com  mobilidade  reduzida.  O  termo  acessível implica tanto acessibilidade física como de comunicação."* [4]
+
+*"tecnologia   assistiva:  Conjunto  de  técnicas,  aparelhos,  instrumentos,  produtos  e  procedimentos  que  visam  auxiliar  a  mobilidade,  percepção  e  utilização  do  meio  ambiente  e  dos  elementos  por  pessoas  com  deficiência."* [4]
 
 *"Na Declaração Universal Dos Direitos Humanos [1], dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e o desprezo e o desrespeito pelos direitos humanos, como atos bárbaros."*
 
@@ -32,7 +41,7 @@ Esta definição de lei tem a virtude de ressaltar alguns pontos importantes da 
 
 *"Essa  discussão  começou  nadécada  de  80 quandoo  Brasilabriu  suas portas  para  reflexões  acerca  da  acessibilidade a  partir  demovimentos  sociais organizados  por  grupos  de  pessoas  com  deficiência.  O  caminho  das  idéias passou  a  ser o da  ação  em  1988  quando,  na  esfera  do  Governo  Federal, a Constituição  acolheu  dispositivos  de  acessibilidade  nasedificações  e  nos transportes. (ORNSTEIN, PRADO, LOPES,2010)"* PASSADO, PRESENTE E FUTURO NOS CAMINHOS DA ACESSIBILIDADE [22]
 
-*"Mais   tarde, observamos a união   de   técnicos   dos   transportes, principalmente  da  Companhia  Metropolitanade  São  Paulo,que estudoua questão  após perder  algumas  ações na  justiçasobre  os  direitos  das  pessoas nadécada  de  80,das  Secretarias  Públicas  do  Estado  de  São  Paulo e  dos técnicosda  ABNT –Associação  Brasileira  de  Normas  Técnicasa  fim  de elaborar   uma   regulamentação   técnica   de   acessibilidade –a   NBR   9050, concluída em 1994 e reformulada em 2004"* PASSADO, PRESENTE E FUTURO NOS CAMINHOS DA ACESSIBILIDADE [22]
+*"Mais   tarde, observamos a união   de   técnicos   dos   transportes, principalmente  da  Companhia  Metropolitanade  São  Paulo, que estudou a questão  após perder  algumas  ações na  justiçasobre  os  direitos  das  pessoas na década  de  80, das  Secretarias  Públicas  do  Estado  de  São  Paulo e  dos técnicosda  ABNT –Associação  Brasileira  de  Normas  Técnicasa  fim  de elaborar   uma   regulamentação   técnica   de   acessibilidade –a   NBR   9050, concluída em 1994 e reformulada em 2004"* PASSADO, PRESENTE E FUTURO NOS CAMINHOS DA ACESSIBILIDADE [22]
 
 *"Acessibilidade: Possibilidade e condição de alcance, percepção e entendimento para a utilização com segurança e autonomia de edificações, espaço, mobiliário, equipamento urbano e elementos."* Norma Brasileira ABnT nBR 9050:2004 [4], item 3.1.
 
