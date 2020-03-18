@@ -10,7 +10,7 @@
 
 - [5] BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm; acesso em: 28 Fevereiro 2020.
 
-- [6] W3C. 2014. Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1. Disponível em: https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/; acesso em: 28 Fevereiro 2020.
+- [6] W3C. 2014. Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.1. Tradução Autorizada em Português do Brasil. Disponível em: https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/; acesso em: 28 Fevereiro 2020.
 
 - [7] CONFORTO, Débora; SANTAROSA, Lucila. Acessibilidade à Web: Internet para todos. Porto Alegre, 2002. Disponível em: http://atividadeparaeducacaoespecial.com/wp-content/uploads/2014/08/ACESSIBILIDADE_WEB_revista_PGIE.pdf. Acesso em: 23 de Feveriro de 2020.
 
@@ -59,3 +59,9 @@
 29. ZHENG, R. Learn to Create Accessible Websites with the Principles of Universal Design. 2020. Disponível em: https://www.interaction-design.org/literature/article/learn-to-create-accessible-websites-with-the-principles-of-universal-design. Acesso em 8 mar. 2020
 
 30. SPELTA, L. Acessibilidade web: 7 mitos e um equívoco. 2020. Disponível em: https://imasters.com.br/acessibilidade/acessibilidade-web-7-mitos-e-um-equivoco. Acesso em 8 mar. 2020.
+
+31. DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, eMAG - Modelo de Acessibilidade em Governo Eletrônico. Disponível em: http://emag.governoeletronico.gov.br/; acesso em 8 mar. 2020
+
+32. DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG – Conteudista. Disponível em: http://emag.governoeletronico.gov.br/cursoconteudista/; acesso em: 8 mar. 2020
+
+33. DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG - Desenvolvedor. Disponível em: http://emag.governoeletronico.gov.br/cursodesenvolvedor/; acesso em: 8 mar. 2020
