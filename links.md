@@ -8,3 +8,4 @@
 - [Uso de touchscreen para cedos](https://www.youtube.com/watch?v=dAw0SIkXm1o&feature=youtu.be)
 - [Educa IBGE - Pessoas com deficiência](https://educa.ibge.gov.br/jovens/conheca-o-brasil/populacao/20551-pessoas-com-deficiencia.html)
 - [Desenhouniversal na Web](https://mooc.campusvirtual.fiocruz.br/rea/acessibilidade-sus/downloads/modulo_3/mod3-desenho-universal-web.pdf)
+- [ferramentas de avaliação](http://nau.uniriotec.br/index.php/referencias-bibliograficas)

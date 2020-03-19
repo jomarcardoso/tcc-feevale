@@ -4,6 +4,56 @@ Ao pensar na internet como um facilitador para todos deve-se então prestar aten
 
 Qualquer conteúdo então exposto no internet deve antes ter tido uma preocupação se será de fácil acesso e entendimento, ou então o que seria um facilitador se tornaria uma experiência frustrante.
 
+# Acessibilidade
+
+A acessibilidade é a possibilidade e a condição de alcance, percepção e entendimento para a utilização com segurança e autonomia espaços, equipamentos e elementos (ABNT, 2004).
+
+O Decreto Federal n° 5.296/2004, em seu artigo 8°, I, define a acessibilidade como condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, das edificações, dos serviços e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa portadora de deficiência ou com mobilidade reduzida.
+
+A definição dessa lei restringe a pessoas com deficiência ou mobilidade reduzida, mas abrange tanto os espaços físicos, os dispositivos e os sistemas de informação e comunicação. Esta é complementada pela lei 13.146, arigo 3º, I, (Brasil, 2015) que acrescenta, as tecnologias e os espaços privados de uso coletivo, como condições de utilização acessível.
+
+O Decreto Federal n° 6.949 de 25 de agosto de 2009, estabelece em seu artigo 9 o, item 1 que os Estados Partes deverão tomar as medidas apropriadas para assegurar às pessoas com deficiência viver com autonomia e participar plenamente de todos os aspectos da vida e em  igualdade de oportunidades, seja ao meio físico, à informação e a comunicação, inclusive aos sistemas e tecnologias da informação e comunicação.
+
+Nesta definição há a virtude de ressaltar os pontos como "viver em autonomia", "igualdade de oportunidades" e "participar plenamente de todos os aspectos da vida", mas também restringe tal tratamento a pessoas com deficiência.
+
+Neste trabalho o termo acessibilidade terá o mesmo significado definido pela Cartilha de Acessibilidade na Web (W3C, 2020) que é possibilidade e condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, do meio físico, da informação e da comunicação, inclusive dos sistemas e tecnologias de informação e comunicação.
+
+## Direito
+
+Na Declaração Universal Dos Direitos Humanos (1948), dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e o desprezo e o desrespeito pelos direitos humanos, como atos bárbaros. É importante então reconhecer a importância da acessibilidade aos meios físico, social, econômico e cultural, à saúde, à educação e à informação e comunicação, para possibilitar às pessoas com deficiência o gozo de todos os direitos e liberdades fundamentais (BRASIL, 2009).
+
+"Toda pessoa com deficiência tem direito à igualdade de oportunidades com as demais pessoas e não sofrerá nenhuma espécie de discriminação" (BRASIL, 2015). A discriminação é toda forma de distinção, restrição ou exclusão, por ação ou omissão, que tenha o propósito ou o efeito de prejudicar os direitos de outra pessoa (BRASIL, 2015). A recusa de adaptações ou do fornecimento de tecnologias assistivas, também são considerados discriminação (BRASIL, 2015).
+
+A lei 6.949 (Brasil, 2009) acentua a importância de promover e proteger os direitos humanos de todas as pessoas com deficiência e a discriminação contra qualquer pessoa, por motivo de deficiência, configura violação da dignidade e do valor inerentes ao ser humano.
+
+Todos nascem livres e iguais em dignidade e direitos e devem agir em relação uns aos outros com espírito de fraternidade (BRASIL, 1948). O fato de deficientes ainda enfrentarem barreiras pela omissão de sua participação na sociedade (Brasil, 1948) ainda é um sinal que deve-se haver maior cooperação para melhorar as condições de vida desses cidadãos.
+
+A lei 6.949 salienta que a maioria das pessoas deficientes vive em condições de pobreza, o que torna uma condição crítica de atenção, pois tem menos acessos a adequações e adaptações, ou então para a aquisição de equipamentos assistivos.
+
+Deve-se apoiar a pessoas com deficiência, a fim de assegurar a essas pessoas o acesso a informações, a novos sistemas e tecnologias da informação e comunicação, inclusive à Internet (BRASIL, 2009). Também a liberdade buscar, receber e compartilhar informações e ideias (BRASIL, 2009).
+
+Também o direito do cidadão de viver em comunidade (Brasil, 2009) inclui o meio digital, onde redes sociais e serviços de mensagens são parte da viva social da maioria dos cidadãos brasileiros.
+
+## Respeito
+
+A lei 6.949 (Brasil, 2009) incentiva a conscientização sobre as condições das pessoas com deficiência e fomentar o respeito pelos direitos e pela dignidade.
+
+É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados. A promoção de conscientização ds capacidades e contribuições das pessoas são incentivadas pela lei 6.949 (Brasil, 2009).
+
+----
+
+## Acessível
+
+### Tecnologias assistivas
+
+### Custo
+
+# Acessibilidade na Web
+
+Fornecer, prontamente e sem custo adicional, às pessoas com deficiência, todas as informações destinadas ao público em geral, em formatos acessíveis e tecnologias apropriadas aos diferentes tipos de deficiência (BRASIL, 2009)
+
+Promover, desde a fase inicial, a concepção, o desenvolvimento, a produção e a disseminação de sistemas e tecnologias de informação e comunicação, a fim de que esses sistemas e tecnologias se tornem acessíveis a custo mínimo (BRASIL, 2009).
+
 A acessibilidade então não se resume apenas ao mundo físico, que é previsto e protegido por lei, mas também importante no meio digital e na sua transmissão de informação. Assim como a televisão e os filmes possuem legendas para substituir ou complementar o som, um website pode também ter uma ou mais formas de passar uma informação.
 
 As deficiências dos usuários que interferem em sua experiência na internet são visual, motoras, auditiva e cognitiva. A acessibilidade que pela definição é para trazer condição igual a todas as pessoas, logo um site acessível deve estar pronto para qualquer que vier.
@@ -144,3 +194,13 @@ Adaptações
 
 - Desenvolver adaptações baseadas em informações vindas do usuário sem ele explicitamente informar (inteligentes).
 - Desenvolver adaptações e a opção para o usuário selecionar.
+
+# Referências
+
+1. BRASIL. Declaração Universal dos Direitos Humanos, 10 de dezembro de 1948. Assembléia Geral das Nações Unidas. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000139423
+
+- [3] Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
+
+4. ABNT. Norma Brasileira ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em: http://www.turismo.gov.br/sites/default/turismo/o_ministerio/publicacoes/downloads_publicacoes/NBR9050.pdf
+
+9. Cartilha de Acessibilidade na Web, Fascículo I. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
