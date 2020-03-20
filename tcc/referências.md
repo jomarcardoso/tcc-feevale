@@ -65,3 +65,7 @@
 32. DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG – Conteudista. Disponível em: http://emag.governoeletronico.gov.br/cursoconteudista/; acesso em: 8 mar. 2020
 
 33. DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG - Desenvolvedor. Disponível em: http://emag.governoeletronico.gov.br/cursodesenvolvedor/; acesso em: 8 mar. 2020
+
+34. SASSAKI. Romeu Kazumi. Inclusão: acessibilidade no lazer, trabalho e educação. Revista Nacional de Reabilitação (Reação), São Paulo, Ano XII, mar./abr. 2009, p. 10-16. Disponível em: <https://acessibilidade.ufg.br/up/211/o/SASSAKI_-_Acessibilidade.pdf?1473203319>.
+
+35. SASSAKI, Romeu Kasumi. Inclusão: Construindo Uma Sociedade Para Todos. 8ª edição. Rio de Janeiro: WVA, 2010.

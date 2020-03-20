@@ -1,12 +1,18 @@
-A Web veio para facilitar a vida de muitos, removendo as barreiras como a distância, a dificuldade de encontrar algo e o custo. A ideia de Tim Berners-Lee é que a internet não dite como vai ser acessada e não tenha restrição de público. Para ele, "ser acessada por todos, independente de deficiência, é um aspecto essencial". [33]
+# Introdução
 
-Ao pensar na internet como um facilitador para todos deve-se então prestar atenção naqueles portadores de deficiências que esperam além de tudo fazer coisas que antes da internet para eles não era possível.
+A Web veio para facilitar a vida de muitos, removendo as barreiras como a distância, a dificuldade de encontrar algo e o custo. A ideia de Tim Berners-Lee é que a internet não dite como vai ser acessada e não tenha restrição de público. Para ele, "ser acessada por todos, independente de deficiência, é um aspecto essencial" (DGE, 2014).
 
-Qualquer conteúdo então exposto no internet deve antes ter tido uma preocupação se será de fácil acesso e entendimento, ou então o que seria um facilitador se tornaria uma experiência frustrante.
+A evolução tecnológica torna a vida mais fácil. Os computadores e o surgimento da web permitiram novas formas de apresentar e acessar as informações, que em sua grande maioria passam a estar disponíveis em meio digital (SALTON, 2017). Ao pensar na internet como um facilitador para todos deve-se então prestar atenção naqueles portadores de deficiências que esperam além de tudo fazer coisas que antes da internet para eles não era possível.
+
+A partir disso, é indispensável refletir sobre a tecnologia e sua consequente transformação na vida de todas as pessoas, em especial daquelas que apresentam alguma limitação física, cognitiva, sensorial ou mesmo alguma dificuldade em decorrência de idade avançada, perda de memória ou outra necessidade específica (SALTON, 2017).
+
+Os conteúdos apresentados em meio digital têm o potencial de democratizar o acesso à informação. Entretanto, é muito comum existirem barreiras de acessibilidade que impedem ou dificultam o acesso de pessoas com algum tipo de limitação física, cognitiva ou sensorial, ou daqueles que utilizam o computador de maneiras alternativas (SALTON, 2017).
+
+Assim como ocorre no mundo físico, as pessoas com deficiência deparam-se com uma série de barreiras também no mundo digital. A falta de acessibilidade pode dificultar e até impossibilitar que uma pessoa com deficiência tenha acesso à informação que está em um site ou em um documento digital (SALTON, 2017). Qualquer conteúdo então exposto no internet deve antes ter tido uma preocupação se será de fácil acesso e entendimento, ou então o que seria um facilitador se tornaria uma experiência frustrante.
 
 # Acessibilidade
 
-A acessibilidade é a possibilidade e a condição de alcance, percepção e entendimento para a utilização com segurança e autonomia espaços, equipamentos e elementos (ABNT, 2004).
+A acessibilidade é a possibilidade e a condição de alcance, percepção e entendimento para a utilização com segurança e autonomia espaços, equipamentos e elementos (ABNT, 2004). Acessibilidade é oferecer possibilidades de transpor as barreiras que existem na sociedade, garan-tindo que todas as pessoas possam participar dos diversos âmbitos sociais (SALTON, 2017).
 
 O Decreto Federal n° 5.296/2004, em seu artigo 8°, I, define a acessibilidade como condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, das edificações, dos serviços e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa portadora de deficiência ou com mobilidade reduzida.
 
@@ -17,6 +23,8 @@ O Decreto Federal n° 6.949 de 25 de agosto de 2009, estabelece em seu artigo 9 
 Nesta definição há a virtude de ressaltar os pontos como "viver em autonomia", "igualdade de oportunidades" e "participar plenamente de todos os aspectos da vida", mas também restringe tal tratamento a pessoas com deficiência.
 
 Neste trabalho o termo acessibilidade terá o mesmo significado definido pela Cartilha de Acessibilidade na Web (W3C, 2020) que é possibilidade e condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, do meio físico, da informação e da comunicação, inclusive dos sistemas e tecnologias de informação e comunicação.
+
+Acessibilidade digital é promover acesso indiscriminado ao meio digital, considerando diferenças entre usuários, tecnologias e contextos de uso. É garantir que todas as pessoas possam acessar, compre-ender, utilizar, interagir e contribuir com o meio digital, seja em documentos digitais, páginas da web ou sistemas (W3C-WAI, 2020).
 
 ## Direito
 
@@ -46,13 +54,126 @@ A lei 6.949 (Brasil, 2009) incentiva a conscientização sobre as condições da
 
 ### Tecnologias assistivas
 
+A Tecnologia Assistiva engloba recursos e serviços que têm como finalidade oferecer possibilidades de acesso, uso e participação às pessoas com deficiência (SALTON, 2017).
+
+Tecnologia assistiva ou ajuda técnica: produtos, equipamentos, dispositivos, recursos, metodologias, estratégias, práticas e serviços que objetivem promover a funcionalidade, relacionada à atividade e à participação da pessoa com deficiência ou com mobilidade reduzida, visando à sua autonomia, independência, qualidade de vida e inclusão social (BRASIL, 2015).
+
+Brasil (2015) artigo 74
+
+> É garantido à pessoa com deficiência acesso a produtos, recursos, estratégias, práticas, processos, métodos e serviços de tecnologia assistiva que maximizem sua autonomia, mobilidade pessoal e qualidade de vida.
+
 ### Custo
+
+# Diversidade funcional
+
+Compreender como as pessoas com deficiência ou alguma limitação utilizam o computador, a web e outros recursos digitais é o primeiro passo para entender a importância da garantia da acessibilidade e do desenvolvimento de ambientes e materiais digitais mais inclusivos (SALTON, 2017).
+
+Para isso, é necessário conhecer quem são essas pessoas, como acessam o meio digital, quais tipos de adequações ou recursos podem ajudá-las nesse processo, e quais as barreiras que podem dificultar ou impossibilitar seu acesso (SALTON, 2017).
+
+pessoa com mobilidade reduzida: aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo e obeso (BRASIL, 2015).
+
+## Deficiente físico
+
+A deficiência física é a alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física (BRASIL, 2004).
+
+As pessoas com deficiência física ou mobilidade reduzida podem utilizar alguns recursos de Tecnolo-gia Assistiva para acessar o computador e a web, como adaptações para teclado e mouses alternativos. Há uma grande variedade de recursos, desde pequenas adaptações no teclado ou no mouse, até ferramentas específicas para a necessidade do usuário, como mouses para serem utilizados com os pés, mouses que funcionam através do sopro, entre outros. Alguns exemplos dessas tecnologias incluem (SALTON, 2017).
+
+- Teclado de colméia: uma placa de acrílico colocada sobre o teclado, com aberturas no local das teclas, que possibilita a pessoas com limitações motoras mais facilidade de acesso (SALTON, 2017).
+- Mouse de botão: uma alternativa ao mouse convencional, composto por quatro botões paramovimentar o cursor na tela, botões para clique esquerdo e direito, um botão para clique preso(utilizado para efetuar seleção ou movimentação de objetos), e outro botão para segunda função.Pode ser utilizado em conjunto com acionadores para cada uma das funções (SALTON, 2017).
+- Acionador: é um artefato que serve para acionar algo, sendo muito útil para pessoas com limitaçõesfísico/motoras, já que os acionadores podem ser confeccionados em vários formatos, tamanhose modos de acionamento (por toque, sopro, som, etc.), aproveitando o movimento voluntário dousuário, como: acionamento através de pressão, utilizando mãos, pés, cotovelo, cabeça ou outraparte do corpo com movimento voluntário, acionamento através de sopro, acionamento atravésde pequena tração com o polegar, etc (SALTON, 2017).
+- Software de detecção de movimentos da cabeça: são softwares utilizados por pessoas cujomovimento voluntário ou com maior facilidade de uso é somente do pescoço e cabeça, como,por exemplo, uma pessoa tetraplégica (SALTON, 2017).
+
+## Deficiência auditiva
+
+A deficiência auditiva é caracterizada por uma alteração na habilidade de detectar sons, ou de forma simplificada, é a perda da audição em diferentes graus (desde leve até profunda). Pela legislação brasileira, é considerada deficiência auditiva a perda bilateral, parcial ou total, de quarenta e um decibéis ou mais, aferida por audiograma nas frequências de 500Hz, 1.000Hz, 2.000Hz e 3.000Hz (BRASIL, 2004).
+
+Considerando os diferentes níveis de deficiência auditiva, existem pessoas com dificuldade de enten-der fala em ambiente com ruídos, outras que conseguem ouvir alguns sons, mas não distinguem palavras, enquanto outras não ouvem som algum (surdez) (SALTON, 2017).
+
+Dentre as pessoas com surdez, há aquelas que não foram oralizadas e se comunicam basicamente através da Língua Brasileira de Sinais (Libras) e as que utilizam algum tipo de comunicação oral, realizam leitura labial e/ou leitura e escrita, podendo ou não utilizar, também, a Libras (SALTON, 2017).
+
+## Deficiência visual
+
+... Continuar lendo SALTON, 2017.
+
+## Deficiência cognitiva
+
+... Continuar lendo SALTON, 2017.
+
+## Outras deficiências
+
+... Continuar lendo SALTON, 2017.
 
 # Acessibilidade na Web
 
+Além das pessoas com deficiência, muitos outros grupos de usuários podem encontrar barreiras no meio digital como, por exemplo, pessoas com perdas sensoriais adquiridas ao longo da vida, com limita-ções temporárias (braço quebrado, tendinite, etc.), utilizando o computador em local com muito barulho, acessando a web ou visualizando documentos no celular, etc (SALTON, 2017).
+
+Pensar em acessibilidade digital significa conceber ambientes, ferramentas e recursos que sigam as premissas do Desenho Universal, ou seja, melhor para todos. Isso significa ambientes, ferramentas e recursos que funcionem da melhor maneira possível para as mais variadas características e habilidades, tanto das pessoas quanto das tecnologias utilizadas (SALTON, 2017).
+
+Um conteúdo digital seguindo o desenho universal:
+
+- Fornece aos usuários tempo suficiente para ler e utilizar o conteúdo (SALTON, 2017);
+- Oferece melhor qualidade textual, tornando o conteúdo mais fácil de ler e compreender (SALTON, 2017);
+- Auxilia os usuários a navegar e compreender a estrutura do ambiente (SALTON, 2017);
+- Faz com que o ambiente ou documento funcione de forma previsível (SALTON, 2017);
+- Auxilia os usuários a prevenirem e corrigirem possíveis erros, etc (SALTON, 2017).
+
+## Direito
+
+O Decreto Federal n° 13.146 de 6 de julho de 2015, estabelece no artigo 63
+
+> É obrigatória a acessibilidade nos sítios da internet mantidos por empresas com sede ou representação comercial no País ou por órgãos de governo, para uso da pessoa com deficiência, garantindo-lhe acesso às informações disponíveis, conforme as melhores práticas e diretrizes de acessibilidade adotadas internacionalmente.
+
 Fornecer, prontamente e sem custo adicional, às pessoas com deficiência, todas as informações destinadas ao público em geral, em formatos acessíveis e tecnologias apropriadas aos diferentes tipos de deficiência (BRASIL, 2009)
 
+Aceitar e facilitar, em trâmites oficiais, o uso de línguas de sinais, braille, comunicação aumentativa e alternativa, e de todos os demais meios, modos e formatos acessíveis de comunicação, à escolha das pessoas com deficiência (BRASIL, 2009);
+
+Urgir as entidades privadas que oferecem serviços ao público em geral, inclusive por meio da Internet, a fornecer informações e serviços em formatos acessíveis, que possam ser usados por pessoas com deficiência (BRASIL, 2009)
+
+## Deficiência física
+
+Das dificuldades no meio digital de uma pessoa com deficiência física:
+
+- Funcionalidades que não podem ser ativadas pelo teclado, exigindo o uso do mouse (SALTON, 2017);
+- Falta de organização do documento ou página web, tornando a navegação pelo teclado muitolenta e/ou trabalhosa (SALTON, 2017);
+- Atividades com limite de tempo (SALTON, 2017);
+- Tecnologias e dispositivos que necessitam de muita precisão para o manuseio (SALTON, 2017);
+- Funcionalidades que são ativadas somente através de combinação de várias teclas (pessoas comdeficiência física podem ter dificuldade em pressionar várias teclas ao mesmo tempo) (SALTON, 2017).
+
+## Deficiência auditiva
+
+Pessoas com deficiência auditiva geralmente não necessitam de grandes adaptações para utilizarem o computador ou a web, principalmente nos casos em que a perda da audição é baixa. Já as pessoas sur-das podem fazer uso de aplicativos ou ferramentas que transformam texto em Libras, como o Hand Talk, o ProDeaf, o Rybená e a suite VLibras (SALTON, 2017).
+
+![Aplicativo Hand Talk](https://adm-dot-ht-website-193721.appspot.com/Uploads/arq-5dd7ee67922fd.png)
+Fonte: https://handtalk.me/
+
+Das dificuldades no meio digital de uma pessoa com deficiência auditiva:
+
+- Áudio que não oferece opção para aumentar o volume;
+- Áudio e vídeo sem legenda, transcrição em texto e Libras;
+- Ausência de Libras ou imagens suplementares relacionadas ao conteúdo do texto (isso dificulta a compreensão por pessoas que têm a Libras como primeira língua);
+- Ausência de linguagem simples e clara.
+
+## Deficiência visual
+
+... Continuar lendo SALTON, 2017.
+
+## Deficiência cognitiva
+
+... Continuar lendo SALTON, 2017.
+
+## Outras deficiências
+
+... Continuar lendo SALTON, 2017.
+
+# Técnicas de acessibilidade na Web
+
 Promover, desde a fase inicial, a concepção, o desenvolvimento, a produção e a disseminação de sistemas e tecnologias de informação e comunicação, a fim de que esses sistemas e tecnologias se tornem acessíveis a custo mínimo (BRASIL, 2009).
+
+adaptações razoáveis: adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido, quando requeridos em cada caso, a fim de assegurar que a pessoa com deficiência possa gozar ou exercer, em igualdade de condições e oportunidades com as demais pessoas, todos os direitos e liberdades fundamentais (BRASIL, 2015).
+
+desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva (BRASIL, 2015).
+
+----
 
 A acessibilidade então não se resume apenas ao mundo físico, que é previsto e protegido por lei, mas também importante no meio digital e na sua transmissão de informação. Assim como a televisão e os filmes possuem legendas para substituir ou complementar o som, um website pode também ter uma ou mais formas de passar uma informação.
 
@@ -197,10 +318,18 @@ Adaptações
 
 # Referências
 
-1. BRASIL. Declaração Universal dos Direitos Humanos, 10 de dezembro de 1948. Assembléia Geral das Nações Unidas. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000139423
+BRASIL. Declaração Universal dos Direitos Humanos, 10 de dezembro de 1948. Assembléia Geral das Nações Unidas. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000139423
 
-- [3] Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
+Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
 
-4. ABNT. Norma Brasileira ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em: http://www.turismo.gov.br/sites/default/turismo/o_ministerio/publicacoes/downloads_publicacoes/NBR9050.pdf
+ABNT. Norma Brasileira ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em: http://www.turismo.gov.br/sites/default/turismo/o_ministerio/publicacoes/downloads_publicacoes/NBR9050.pdf
 
-9. Cartilha de Acessibilidade na Web, Fascículo I. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
+Cartilha de Acessibilidade na Web, Fascículo I. W3C Brasil, 2020. Disponível em: https://www.w3c.br/pub/Materiais/PublicacoesW3C/cartilha-w3cbr-acessibilidade-web-fasciculo-I.html. Acesso em: 23 de Feveriro de 2020.
+
+BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm; acesso em: 28 Fevereiro 2020.
+
+SALTON, B. P.; AGNOL, A. D.; TURCATTI, A. Manual de acessibilidade em Documentos Digitais. Centro tecnológico de Acessibilidade. Bento Gonçalves, 2017. Disponível em: https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf
+
+DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG - Desenvolvedor. Disponível em: http://emag.governoeletronico.gov.br/cursodesenvolvedor/; acesso em: 8 mar. 2020
+
+W3C-WAI. Introduction do Web Accessibility. Disponível em: <https://www.w3.org/WAI/intro/accessibility.php>
