@@ -72,7 +72,7 @@ Para isso, é necessário conhecer quem são essas pessoas, como acessam o meio 
 
 pessoa com mobilidade reduzida: aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo e obeso (BRASIL, 2015).
 
-## Deficiente físico
+## Deficiência física
 
 A deficiência física é a alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física (BRASIL, 2004).
 
@@ -93,15 +93,37 @@ Dentre as pessoas com surdez, há aquelas que não foram oralizadas e se comunic
 
 ## Deficiência visual
 
-... Continuar lendo SALTON, 2017.
+A deficiência visual pode ser entendida como a perda ou redução significativa da capacidade visual em ambos os olhos, mesmo após a melhor correção, tratamento clínico ou cirúrgico, resultando em ce-gueira ou baixa visão (SALTON, 2017).
 
-## Deficiência cognitiva
+A cegueira é uma alteração grave ou total de uma ou mais funções elementares da visão que afeta de modo irremediável a capacidade de perceber cor, tamanho, distância, forma, posição ou movimento em um campo mais ou menos abrangente, podendo ser congênita (desde o nascimento) ou adquirida (SÁ, 2007). Na perda total da visão são muito importantes os treinamentos de orientação e mobilidade, assim como o uso de bengala e do sistema Braille.
 
-... Continuar lendo SALTON, 2017.
+A baixa visão é o comprometimento do funcionamento visual em ambos os olhos, mesmo após correção com uso de óculos ou lentes de contato. No entanto, diferente da pessoa com cegueira, a pessoa com baixa visão possui algum resíduo visual. Nesse grupo, encontramos uma variedade de intensidades e tipos de comprometimento. Por exemplo, algumas pessoas com baixa visão conseguem ler textos com fontes grandes ou com o uso de lupas, enquanto outras conseguem apenas detectar grandes formas, cores ou contrastes.
+
+## Deficiência intelectual
+
+A pessoa com deficiência intelectual apresenta um funcionamento intelectual significativamente inferior à média, com manifestação antes dos dezoito anos e limitações associadas a duas ou mais áreas de habilidades adaptativas, como comunicação, cuidado pessoal, habilidades sociais, habilidades acadêmicas, dentre outras (BRASIL, 2004). As áreas cognitivas são afetadas, resultando em dificuldades na atenção, concentração, compreensão, assimilação, memória visual, memória auditiva e raciocínio (SALTON, 2017).
+
+As pessoas com deficiência intelectual necessitam principalmente de uma linguagem simples e fácil, evitando-se a utilização de termos técnicos, rebuscados, parágrafos longos e também imagens decorativas ou objetos animados. O conteúdo deve ser disponibilizado de forma mais concreta, procurando-se sem-pre fornecer informações adicionais, como imagens complementares (SALTON, 2017).
+
+## Surdocegos
+
+Uma pessoa surda-cega é aquela que não pode simplesmente ser vista como uma pessoa cega com uma deficiência adicional. Uma pessoa que é surda-cega também não pode simplesmente ser vista como uma pessoa que é surda e tem uma deficiência adicional, mas poderia facilmente ser acomodada em um programa escolar para crianças surdas. Mesmo colocando pessoas surdas-cegas na categoria de “severamente ou multiplamente incapacitadas” não fará, por si só, justiça à natureza de suas deficiências e necessidades (MILES, 1999).
 
 ## Outras deficiências
 
-... Continuar lendo SALTON, 2017.
+É importante pensar que a acessibilidade digital engloba todas as pessoas que pos-sam encontrar barreiras de acesso, utilização ou compreensão, sejam elas enquadradas no conceito de pessoa com deficiência ou não. Essas barreiras podem ser de ordem física, sensorial, cognitiva, tecnológica ou social (SALTON, 2017). Assim, dentre outros grupos de pessoas que podem encontrar problemas de acessibilidade no meio digital temos:
+
+- Pessoas idosas, com limitações causadas pela idade avançada;
+- Pessoas com limitações temporárias, por acidente ou doença;
+- Pessoas com epilepsia ou outras condições específicas de saúde;
+- Pessoas com transtornos funcionais específicos (dislexia, disgrafia, disortografia, discalculia e TDAH),
+- Pessoas com dificuldade de concentração, memória ou percepção;
+- Pessoas com daltonismo;
+- Pessoas com baixa escolaridade, que podem enfrentar barreiras de leitura e compreensão;
+- Usuários inexperientes, como os que têm pouca oportunidade de utilizar o computador e a web, ou as pessoas com idade avançada, que não tiveram contato quando mais jovens;
+- Pessoas que utilizam tecnologias antigas ou conexão mais lenta;
+- Pessoas que acessam a web a partir de dispositivos móveis, como celulares e tablets;
+- Muitas outras...
 
 # Acessibilidade na Web
 
@@ -155,15 +177,85 @@ Das dificuldades no meio digital de uma pessoa com deficiência auditiva:
 
 ## Deficiência visual
 
-... Continuar lendo SALTON, 2017.
+Para acessar o meio digital, as pessoas cegas geralmente utilizam softwares leitores de tela e navegam através do teclado. Também podem utilizar outras tecnologias, como impressoras Braille e linha Braille.
 
-## Deficiência cognitiva
+O leitor de tela é um software bastante utilizado por pessoas cegas, quetransforma em áudio as informações apresentadas na forma de texto em um computador. Ele interage com a interface do sistema operacional, capturando os elementos visíveis na tela e convertendo-os através de um sintetizador de voz (SALTON, 2017).
 
-... Continuar lendo SALTON, 2017.
+Há leitores de tela para os diferentes sistemas operacionais e, também, para dispositivos móveis. Os leitores de tela para Windows mais utilizados são o JAWS, que é pago, e o NVDA, que é gratuito. O leitor de tela do Linux é o Orca, e o IOS oferece como leitor padrão o VoiceOver, inclusive no iPhone e iPad. Já o Android apresenta o leitor de tela TalkBack (SALTON, 2017).
+
+No computador, anavegação ocorre através de um teclado comum, ou seja, as pessoas cegas, de modo geral, não utilizam o mouse. Em páginas web, a navegação normalmente é realizada de duas formas: utilizando a tecla Tab, para leitura de todos os links da página, ou através das setas, para leitura linear do conteúdo. Alguns sites disponibilizam atalhos de teclado que tornam a navegação com leitor de tela mais fácil e rápida (SALTON, 2017).
+
+A estrutura dos documentos e páginas web determina o que será lido pelo leitor para a pessoa que o utiliza. Assim, documentos e sites que não seguem as recomendações de acessibilidade poderão apre-sentar uma estrutura confusa, fazendo com que os leitores de tela não consigam interpretar o conteúdo ou o interpretem de forma incompleta (SALTON, 2017).
+
+As barreiras que pessoas cegas  encontram no meio digital:
+
+- Imagens sem descrição (texto alternativo) (SALTON, 2017);
+- Imagens complexas, como gráficos, sem alternativa em texto (SALTON, 2017);
+- Vídeos sem alternativa em áudio ou em texto (SALTON, 2017);
+- Funcionalidades que não funcionam pelo teclado (SALTON, 2017);
+- Sequência de navegação confusa ou incorreta via teclado (SALTON, 2017);
+- Tabelas que não fazem sentido quando lidas linearmente (SALTON, 2017);
+- Formulários ou questionários sem sequência lógica de navegação (SALTON, 2017);
+- Conteúdos muito longos sem a existência de um sumário com hiperlinks (SALTON, 2017);
+- Presença de CAPTCHA (recurso utilizado para diferenciar humanos de robôs, onde a pessoa deve identificar o conteúdo de uma imagem distorcida) sem alternativa em forma de áudio (SALTON, 2017);
+- Cores ou outros efeitos visuais utilizados como única forma para diferenciar ou transmitir infor-mações relevantes (SALTON, 2017);
+- Como o meio digital é extremamente visual, as pessoas cegas costumam encontrar inúmeras barreiras de acesso e utilização de documentos, sites e sistemas (SALTON, 2017).
+
+Pessoas com baixa visão utilizam o computador com ampliadores de tela e, dependendo do grau residual de visão, também podem utilizar os softwares leitores de tela e os recursos de alto contraste (SALTON, 2017).
+
+As barreiras que pessoas com baixa visão encontram no meio digital:
+
+- Pouco contraste entre cor de fundo e cor do texto;
+- Fontes com serifa, como Times New Roman e Courier New, cursivas ou decoradas;
+- Textos e funções que ao serem redimensionados perdem suas funcionalidades;
+- Presença de CAPTCHA (recurso utilizado para diferenciar humanos de robôs, onde a pessoa deveidentificar o conteúdo de uma imagem distorcida) sem alternativa em forma de áudio;
+- Se o grau residual de visão for muito baixo, as dificuldades encontradas podem ser as mesmasde uma pessoa cega.
+
+## Deficiêntes intelectuais
+
+As barreiras que pessoas com deficiência intelectual  encontram no meio digital:
+
+- Mecanismos de navegação e layouts complexos, difíceis de compreender e utilizar;
+- Falta de coerência na organização do conteúdo;
+- Linguagem complexa sem necessidade;
+- Falta de clareza no conteúdo ou de exemplos que facilitem a compreensão;
+- Conteúdos excessivamente dinâmicos, piscantes, imagens decorativas, áudio em segundo plano ou outros elementos que possam desviar a atenção;
+- Fontes com serifa, como Times New Roman ou Courier New.
+
+## Surdocegos
+
+O comprometimento da visão e audição simultaneamente traz diversos prejuízos para o desenvolvimento, comunicação e socialização das pessoas com surdocegueira, principalmente nos casos em que os dois sentidos são profundamente limitados ou inexistentes. No entanto, através da utilização de recursos de Tecnologia Assistiva e formas específicas de comunicação, a pessoa surdocega pode ser incluída e tornar-se participativa na sociedade (SALTON, 2017).
+
+A linha Braille é um dispositivo conectado ao computador que funciona em conjunto com o leitor de tela, exibindo informações visíveis na tela dinamicamente em Braille. Através de uma linha Braille, o conteúdo textual que antes era transformado em áudio passa a ser convertido em informação táti (SALTON, 2017).
 
 ## Outras deficiências
 
-... Continuar lendo SALTON, 2017.
+Existem  barreiras  comuns  encontradas  por  diferentes  grupos  de  usuários.  Quando eliminamos uma barreira, estamos tornando o meio digital mais inclusivo para muitas pessoas (SALTON, 2017).
+
+### Pessoas idosas
+
+As pessoas idosas, por exemplo, com o avanço da idade, podem apresentar um declínio nas habilidades físicas, na visão e audição, bem como problemas de memória e concentração, podendo encontrar algumas barreiras no meio digital, como por exemplo:
+
+- Ícones, botões ou links que não sejam facilmente identificados;
+- Inexistência de uma opção para ampliar ou diminuir a fonte do texto;
+- Utilização de animações ou elementos dinâmicos de forma exagerada e sem possibilidade de controle;
+- Sites e documentos com layoutconfuso, sendo difícil identificar a finalidade de cada elemento;
+- Cores utilizadas de forma inadequada, com pouco contraste entre a fonte e o plano de fundo;
+- Janelas e pop-ups que abrem repentinamente, distraindo o usuário;
+- Funcionalidades que são ativadas apenas através de teclas de atalho;
+- Se alguma Tecnologia Assistiva for utilizada, como ampliador ou leitor de tela, por exemplo, as barreiras encontradas serão as mesmas das pessoas com deficiência que utilizam o recurso.
+
+### Pessoas daltônicas
+
+Já pessoas daltônicas podem enfrentar dificuldade no que diz respeito aos contrastes de cores uti-lizados. Elas podem não ser capazes de perceber as diferenças entre algumas cores. O tipo de daltonismo mais comum é a dificuldade de distinguir tons de vermelho e verde. Aquilo que, para uma pessoa com a percepção visual normal, é verde ou vermelho, para um daltônico é cinzento em várias tonalidades. Desse modo, recomenda-se não utilizar o contraste entre essas duas cores em sites e documentos (SALTON, 2017).
+
+### Pessoas disléxicas
+
+A dislexia é um transtorno que afeta a linguagem, podendo resultar em problemas na leitura, escrita e soletração. Para pessoas com dislexia, parágrafos muito longos, texto justificado e utilização de fontes decoradas ou com serifa podem dificultar a leitura. Além disso, não é incomum que pessoas disléxicas utilizem leitores de tela, pois podem compreender melhor ouvindo do que lendo um conteúdo. Por isso, uma boa acessibilidade para leitores de tela não é importante somente para pessoas cegas, mas para as pessoas com dislexia também (SALTON, 2017).
+
+### Pessoas com TDAH
+
+Pessoas com TDAH (Transtorno do Déficit de Atenção com Hiperatividade) podem distrair-se fa-cilmente com pequenos estímulos. Assim, elementos que representem uma distração, como imagens decorativas muito chamativas (com brilho ou cores com muita luminosidade), efeitos ao movimentar o cursor do mouse e janelas pop-ups que abrem repentinamente dificultam a interação de uma pessoa com esse o transtorno pelas páginas web e documentos digitais (SALTON, 2017).
 
 # Técnicas de acessibilidade na Web
 
@@ -333,3 +425,7 @@ SALTON, B. P.; AGNOL, A. D.; TURCATTI, A. Manual de acessibilidade em Documentos
 DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG - Desenvolvedor. Disponível em: http://emag.governoeletronico.gov.br/cursodesenvolvedor/; acesso em: 8 mar. 2020
 
 W3C-WAI. Introduction do Web Accessibility. Disponível em: <https://www.w3.org/WAI/intro/accessibility.php>
+
+SÁ, E. D.; CAMPOS, I. M.; SILVA, M. B. C. Atendimento Educacional Especializado: Deficiência Visual. Brasília: SEESP/SEED/MEC, 2007. Disponível em: < http://portal.mec.gov.br/seesp/arquivos/pdf/aee_dv.pdf>
+
+MILES, B. e RIGGIO, M. Understanding Deafblindness. In: MILES, B. e RIGGIO, M. (Eds.). Remarkable Conversations: A guide to developing meaningful communication with children and young adults who are deafblind. Boston: Perkins School for the Blind, 1999.  Disponível em: <http://documents.nationaldb.org/remarkableconvchapt2.pdf>.
