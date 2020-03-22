@@ -22,7 +22,7 @@ Thus the impact of disability is radically changed on the Web because the Web re
 
 # Acessibilidade
 
-A acessibilidade é a possibilidade e a condição de alcance, percepção e entendimento para a utilização com segurança e autonomia espaços, equipamentos e elementos (ABNT, 2004). Acessibilidade é oferecer possibilidades de transpor as barreiras que existem na sociedade, garan-tindo que todas as pessoas possam participar dos diversos âmbitos sociais (SALTON, 2017).
+Acessibilidade é a possibilidade de qualquer pessoa, independentemente de suas capacidades físico-motoras e perceptivas, culturais e sociais, usufruir os benefícios de uma vida em sociedade, ou seja, é a possibilidade de participar de todas as atividades, até as que incluem o uso de produtos, serviços e informação, com o mínimo de restrições possível (NBR 9050, 1994). Acessibilidade é oferecer possibilidades de transpor as barreiras que existem na sociedade, garantindo que todas as pessoas possam participar dos diversos âmbitos sociais (SALTON, 2017).
 
 O Decreto Federal n° 5.296/2004, em seu artigo 8°, I, define a acessibilidade como condição para utilização, com segurança e autonomia, total ou assistida, dos espaços, das edificações, dos serviços e dos dispositivos, sistemas e meios de comunicação e informação, por pessoa portadora de deficiência ou com mobilidade reduzida.
 
@@ -39,6 +39,8 @@ Para as pessoas com deficiência e mobilidade reduzida, a acessibilidade possibi
 Acessibilidade digital é promover acesso indiscriminado ao meio digital, considerando diferenças entre usuários, tecnologias e contextos de uso. É garantir que todas as pessoas possam acessar, compre-ender, utilizar, interagir e contribuir com o meio digital, seja em documentos digitais, páginas da web ou sistemas (W3C-WAI, 2020).
 
 ## Direito
+
+No Brasil, a acessibilidade só começou fazer parte das políticas públicas a partir do ano 2000, com a promulgação das Leis Federais nº 10.048 e 10.098. A lei nº 10.048, de 8 de novembro de 2000, foi elaborada pelo Poder Legislativo e trata do atendimento prioritário e de acessibilidade às pessoas com deficiência nos meios de transportes e outros. Já a lei nº 10.098, de 19 de dezembro de 2000, foi escrita pelo Poder Executivo e estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida (Acessibilidade legal guia 13).
 
 Na Declaração Universal Dos Direitos Humanos (1948), dotada e proclamada pela resolução 217 A (III) da Assembléia Geral das Nações Unidas em 10 de dezembro de 1948, considera, o reconhecimento de dignidade e direitos iguais inalienáveis, são os fundamentos da liberdade, e o desprezo e o desrespeito pelos direitos humanos, como atos bárbaros. É importante então reconhecer a importância da acessibilidade aos meios físico, social, econômico e cultural, à saúde, à educação e à informação e comunicação, para possibilitar às pessoas com deficiência o gozo de todos os direitos e liberdades fundamentais (BRASIL, 2009).
 
@@ -159,6 +161,10 @@ Uma pessoa surda-cega é aquela que não pode simplesmente ser vista como uma pe
 
 A acessibilidade então não se resume apenas ao mundo físico, que é previsto e protegido por lei, mas também importante no meio digital e na sua transmissão de informação. Assim como a televisão e os filmes possuem legendas para substituir ou complementar o som, um website pode também ter uma ou mais formas de passar uma informação.
 
+A acessibilidade digital refere-se ao acesso a qualquer recurso da Tecnologia da Informação, enquanto o termo acessibilidade na Internet é usado, de forma ampla, para definir o acesso universal a todos os componentes da rede mundial de computadores, como chats, e-mail entre outros. Já o termo acessibilidade na Web, ou e-acessibilidade, refere-se especificamente ao componente Web, que é um conjunto de páginas escritas na linguagem HTML e interligadas por links de hipertexto; a acessibilidade na Web representa para o usuário o direito de acessar a rede de informações e o direito de eliminação de barreiras arquitetônicas, de disponibilidade de comunicação, de acesso físico, de equipamentos e programas adequados, de conteúdo e apresentação da informação em formatos alternativos (Acessibilidade legal guia 13).
+
+A Web desempenha um papel fundamental no avanço que a Internet representa no cotidiano das pessoas com deficiência, facilitando a vida deles; ela permite que eles criem novas formas de relacionamento, encontrem oportunidades de trabalho e formas alternativas de diversão (Queiroz, 2007)(Acessibilidade legal, guia 13).
+
 A World Wide Web, ou WWW, ou W3, ou simplesmente web, é um dos serviços oferecidos na Internet, concebido para disponibilizar permanentemente informações a todos os usuários. Desde 1991, quando foi criada por Tim Berners-Lee, que também criou o W3C, a web vem sendo utilizada em áreas cada vez mais diversas da atividade humana (informação, comunicação, educação, comércio, saúde, acesso a serviços públicos e privados, entre outras) e vem ganhando cada vez mais importância na vida cotidiana de um número cada vez maior de pessoas, em todo o mundo (W3C Brasil, 2020).
 
 Esse uso diversificado e maciço da web tornou seu usuário cada vez menos um leitor passivo (como acontecia no início) e cada vez mais um ator participativo (como é possível constatar observando os blogs e redes sociais). Assim, a web deixou de ser apenas um repositório de documentos estáticos, para se tornar um veículo hiperdinâmico de comunicação, expressão de opiniões, intercâmbio de conhecimentos, realização de negócios, ensino a distância e muitas outras utilizações que surgem a todo momento (W3C Brasil, 2020).
@@ -232,6 +238,8 @@ Urgir as entidades privadas que oferecem serviços ao público em geral, inclusi
 
 The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN CRPD) (W3C, Introduction, 2020).
 
+Entretanto, em julho de 2008, o Brasil assinou a "[Convenção Internacional dos Direitos da Pessoa com Deficiência](http://www.bengalalegal.com/convencao#301)" Site Externo. na ONU e o Congresso Nacional ratificou, com quórum qualificado, que esta Convenção se tornasse lei brasileira com status constitucional. A acessibilidade na internet foi contemplada nos artigos 9 e 21 da Convenção, tornando obrigatória e crime de discriminação qualquer informação na internet não acessível para qualquer tipo de deficiência e a qualquer categoria de portal, para empresas privadas ou do governo, acabando assim com as restrições anteriores do decreto (Acessibilidade legal, guia 13).
+
 Convenção Internacional sobre os Direitos das Pessoas com Deficiência (2007), de 30 de março de 2007, elaborada pela Nações Unidas, define, em seu artigo 9°, a obrigatoriedade de promoção do acesso de pessoas com deficiência a novos sistemas e tecnologias da informação e comunicação, inclusive à Internet (DGE, 2014).
 
 Decreto de nº 7724, de 16 de maio de 2012, que regulamentou a lei de acesso a informação, indica no seu artigo 8º parágrafo 3º: “Os sítios na Internet dos órgãos e entidades deverão, em cumprimento às normas estabelecidas pelo Ministério do Planejamento, Orçamento e Gestão, (...)” (DGE, 2014).
@@ -259,6 +267,8 @@ Accessibility is essential for developers and organizations that want to create 
 accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach (W3C, INTRODUCTION, 2020).
 
 Quando se pensa em acessibilidade na web e seus benefícios, é natural associar acessibilidade com responsabilidade social, melhoria da imagem das empresas/instituições e a disponibilização democrática de serviços, produtos e informações para as pessoas com deficiência (W3C BRASIL, 2020).
+
+Por quê? Porque quando você torna o seu site acessível, você está simplesmente maximizando a exposição do seu produto e/ou serviço. Pensar em acessibilidade não é ser bonzinho, é enxergar no público não-padrão e com necessidades especiais potenciais consumidores para o que você está vendendo (TORRES, 2006).
 
 ## Tipos de deficiência
 
@@ -402,6 +412,10 @@ Há muitos casos que o receptor não seja um deficiente propriamente dito, mas i
 
 Não querer esperar o carregamento de um conteúdo não necessariamente significa que o usuário tenho algum problema psicológico, mas pode ser um sinal que esse tempo pode ser otimizado usando alguma das várias técnicas famosas na internet.
 
+# Diretrizes
+
+Com o objetivo de tornar a Web acessível a todos, o W3C criou, em 1999, o WAI (Web Accessibility Initiative), formado por grupos de trabalho voltados para a elaboração de diretrizes ligadas à garantia da acessibilidade do conteúdo na Web às pessoas com deficiência e às pessoas que acessam a rede em condições específicas de ambiente, equipamento, navegador e outras ferramentas Web.
+
 # Técnicas de acessibilidade na Web
 
 Promover, desde a fase inicial, a concepção, o desenvolvimento, a produção e a disseminação de sistemas e tecnologias de informação e comunicação, a fim de que esses sistemas e tecnologias se tornem acessíveis a custo mínimo (BRASIL, 2009).
@@ -472,7 +486,7 @@ No eMAG o processo para desenvolver um sítio acessível é realizado em três p
 2. Seguir as diretrizes ou recomendações de acessibilidade;
 3. Realizar a avaliação de acessibilidade.
 
-O eMag organiza as suas recomendações por área, diferente do WCAG que faz por nível. Como as especificações ali são para sites públicos que são obrigatórios não existe uma prioridade.
+O eMag organiza as suas recomendações por área, diferente do WCAG que faz por nível. Como as especificações ali são para sites públicos que são obrigatórios não existe uma prioridade (DGE, 2014).
 
 # Modelo de implementação de acessibilidade
 
@@ -555,7 +569,18 @@ Para o eMag a avaliação é a última parte do processo, e seguiremos aqui tamb
 - [WAVE Accessibility Extension](https://addons.mozilla.org/pt-BR/firefox/addon/wave-accessibility-tool/)
 - [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 
-Além das ferramentas eles reforçam, que agilizam o processo, devem haver os testes manuais, principalmente com os usuários alvos.
+Além das ferramentas eles reforçam, que agilizam o processo, devem haver os testes manuais, principalmente com os usuários alvos. Por exemplo, validadores automáticos conseguem detectar se o atributo para descrever imagens foi utilizado em todas as imagens do sítio, mas somente uma pessoa poderá verificar se a descrição da imagem está adequada ao seu conteúdo (DGE, 2014).
+
+Forma de validar do eMAG:
+
+1. Validar os códigos do conteúdo HTML e das folhas de estilo;
+2. Verificar o fluxo de leitura da página. A forma mais simples é inibir o CSS, imagens e scripts, lendo apenas o HTML da página.
+3. Realizar a validação automática de acessibilidade utilizando o ASES e outros avaliadores automáticos.
+4.  Realizar a validação manual. A validação manual é uma etapa essencial na avaliação de acessibilidade de um sítio, já que os validadores automáticos não são capazes de detectar todos os problemas de acessibilidade em um sítio, pois muitos aspectos requerem um julgamento humano (DGE, 2014).
+
+Para realizar uma validação manual efetiva, o desenvolvedor deverá ter conhecimento sobre as diferentes tecnologias, as barreiras de acessibilidade enfrentadas por pessoas com deficiência e as técnicas ou recomendações de acessibilidade. A validação manual deve ser feita preferencialmente com dispositivos de tecnologia assistiva como leitores de tela. Deve-se percorrer toda página apenas utilizando teclado, verificando comportamentos, atalhos, folhas alternativas de contraste, se os textos alternativos estão descritos de acordo com a imagem e seu contexto, entre outros (DGE, 2014).
+
+Outra etapa essencial da validação de uma página é a realização de testes com usuários reais (pessoas com deficiência ou limitações técnicas). Um usuário real poderá dizer se um sítio está realmente acessível, compreensível e com boa usabilidade e não simplesmente tecnicamente acessível. Quanto maior e mais diversificado o número de usuários reais participando da avaliação de acessibilidade, mais eficaz e robusto será o resultado (DGE, 2014).
 
 # Referências
 
@@ -587,9 +612,8 @@ W3C. Getting Started with Web Accessibility – Web Accessibility initiative –
 
 Ron Mace et al. Accessible Environments Toward Universal Design. Wolfang Preiser, Van Nostrand Reinhold, Nova York, 1991. Design Intervations. Toward a More Humane Architeture. Disponível em: <https://projects.ncsu.edu/ncsu/design/cud/pubs_p/docs/ACC%20Environments.pdf>
 
+http://www.acessibilidadelegal.com/13-guia.php
 
+TORRES, Bruno. Acessibilidade não é Altruísmo. Acessibilidade Legal, 2006. Disponível em <http://www.acessibilidadelegal.com/13-brunotorres.php>
 
-
-
-
-
+30. SPELTA, L. Acessibilidade web: 7 mitos e um equívoco, 2009. Disponível em: https://imasters.com.br/acessibilidade/acessibilidade-web-7-mitos-e-um-equivoco. Acesso em 8 mar. 2020.
