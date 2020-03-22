@@ -1,6 +1,12 @@
 # Introdução
 
-A Web veio para facilitar a vida de muitos, removendo as barreiras como a distância, a dificuldade de encontrar algo e o custo. A ideia de Tim Berners-Lee é que a internet não dite como vai ser acessada e não tenha restrição de público. Para ele, "ser acessada por todos, independente de deficiência, é um aspecto essencial" (DGE, 2014).
+Tim Berners-Lee afirma que "o poder da web está na sua universalidade. o acesso por todas as pessoas, não obstante a sua deficiência, é um aspecto essencial" (W3C, 2020). Para o W3C (2020), "é essencial que a web seja acessível, de modo a prover igualdade de acesso e de oportunidades para pessoas com diferentes capacidades". E acrescenta que "a acessibilidade sustenta a inclusão social de pessoas com deficiência, idosas, residentes em áreas rurais, em países em desenvolvimento, entre outras".
+
+The Web is fundamentally designed to work for all people, whatever their hardware, software, language, location, or ability. When the Web meets this goal, it is accessible to people with a diverse range of hearing, movement, sight, and cognitive ability (W3C, Introduction, 2020).
+
+A Web veio para facilitar a vida de muitos, removendo as barreiras como a distância, a dificuldade de encontrar algo e o custo. A ideia de Tim Berners-Lee é que a internet não dite como vai ser acessada e não tenha restrição de público. Para ele, "ser acessada por todos, independente de deficiência, é um aspecto essencial".
+
+Na última década, a expansão prodigiosa da Internet vem revolucionando as formas de comunicação, de acesso à informação e de realização de negócios em todo o mundo. Mas a que se deve este fenômeno? Basicamente, deve-se ao seu potencial para atingir instantaneamente um grande número de pessoas, independentemente de localização geográfica e de contexto sócio-cultural (DGE, 2014).
 
 A evolução tecnológica torna a vida mais fácil. Os computadores e o surgimento da web permitiram novas formas de apresentar e acessar as informações, que em sua grande maioria passam a estar disponíveis em meio digital (SALTON, 2017). Ao pensar na internet como um facilitador para todos deve-se então prestar atenção naqueles portadores de deficiências que esperam além de tudo fazer coisas que antes da internet para eles não era possível.
 
@@ -9,6 +15,10 @@ A partir disso, é indispensável refletir sobre a tecnologia e sua consequente 
 Os conteúdos apresentados em meio digital têm o potencial de democratizar o acesso à informação. Entretanto, é muito comum existirem barreiras de acessibilidade que impedem ou dificultam o acesso de pessoas com algum tipo de limitação física, cognitiva ou sensorial, ou daqueles que utilizam o computador de maneiras alternativas (SALTON, 2017).
 
 Assim como ocorre no mundo físico, as pessoas com deficiência deparam-se com uma série de barreiras também no mundo digital. A falta de acessibilidade pode dificultar e até impossibilitar que uma pessoa com deficiência tenha acesso à informação que está em um site ou em um documento digital (SALTON, 2017). Qualquer conteúdo então exposto no internet deve antes ter tido uma preocupação se será de fácil acesso e entendimento, ou então o que seria um facilitador se tornaria uma experiência frustrante.
+
+Se for aplicada esta afirmativa ao contexto da web, é possível concluir que uma pessoa com deficiência deveria acessar a web em melhores condições, já que tem mais dificuldade para acessar essas mesmas informações e serviços no mundo físico, porque não pode ler material impresso, ou ouvir informações transmitidas oralmente, ou locomover-se até determinado local, ou compreender informações transmitidas em ambientes confusos e com muita estimulação, entre outras barreiras (W3C BRASIL, 2020).
+
+Thus the impact of disability is radically changed on the Web because the Web removes barriers to communication and interaction that many people face in the physical world. However, when websites, applications, technologies, or tools are badly designed, they can create barriers that exclude people from using the Web (W3C, Introduction, 2020).
 
 # Acessibilidade
 
@@ -24,6 +34,8 @@ Nesta definição há a virtude de ressaltar os pontos como "viver em autonomia"
 
 Neste trabalho o termo acessibilidade terá o mesmo significado definido pela Cartilha de Acessibilidade na Web (W3C, 2020) que é possibilidade e condição de alcance, percepção e entendimento para a utilização, em igualdade de oportunidades, com segurança e autonomia, do meio físico, da informação e da comunicação, inclusive dos sistemas e tecnologias de informação e comunicação.
 
+Para as pessoas com deficiência e mobilidade reduzida, a acessibilidade possibilita uma vida independente e com participação plena em todos os seus aspectos; e para todas as pessoas, em diferentes contextos, pode proporcionar maior conforto, facilidade de uso, rapidez, satisfação, segurança e eficiência (W3C, 2020).
+
 Acessibilidade digital é promover acesso indiscriminado ao meio digital, considerando diferenças entre usuários, tecnologias e contextos de uso. É garantir que todas as pessoas possam acessar, compre-ender, utilizar, interagir e contribuir com o meio digital, seja em documentos digitais, páginas da web ou sistemas (W3C-WAI, 2020).
 
 ## Direito
@@ -38,9 +50,19 @@ Todos nascem livres e iguais em dignidade e direitos e devem agir em relação u
 
 A lei 6.949 salienta que a maioria das pessoas deficientes vive em condições de pobreza, o que torna uma condição crítica de atenção, pois tem menos acessos a adequações e adaptações, ou então para a aquisição de equipamentos assistivos.
 
+Decreto n° 6949, de 25 de agosto de 2009, que promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência, tornando-a um marco legal no Brasil.
+
+Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação), que no seu artigo 8º, parágrafo 3º, inciso VIII preconiza que: “Os sítios de que trata o § 2º deverão, na forma de regulamento, atender, entre outros, aos seguintes requisitos: (…) adotar as medidas necessárias para garantir a acessibilidade de conteúdo para pessoas com deficiência” (DGE, 2014).
+
 Deve-se apoiar a pessoas com deficiência, a fim de assegurar a essas pessoas o acesso a informações, a novos sistemas e tecnologias da informação e comunicação, inclusive à Internet (BRASIL, 2009). Também a liberdade buscar, receber e compartilhar informações e ideias (BRASIL, 2009).
 
 Também o direito do cidadão de viver em comunidade (Brasil, 2009) inclui o meio digital, onde redes sociais e serviços de mensagens são parte da viva social da maioria dos cidadãos brasileiros.
+
+Comitê Brasileiro (CB-40) da Associação Brasileira de Normas Técnicas (ABNT), que se dedica à normatização no campo de acessibilidade, atendendo aos preceitos de desenho universal. O Comitê possui diversas comissões, definindo normas de acessibilidade em todos os níveis, desde o espaço físico até o virtual (DGE, 2014).
+
+2. Lei Nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências (DGE, 2014).
+
+Decreto número 5296, de 2 de dezembro de 2004, que regulamenta as leis n° 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência, e dá outras providências (DGE, 2014).
 
 ## Respeito
 
@@ -62,6 +84,10 @@ Brasil (2015) artigo 74
 
 > É garantido à pessoa com deficiência acesso a produtos, recursos, estratégias, práticas, processos, métodos e serviços de tecnologia assistiva que maximizem sua autonomia, mobilidade pessoal e qualidade de vida.
 
+Um dos aliados das pessoas com deficiência para o uso do computador são os recursos de tecnologia assistiva, que auxiliam na realização de tarefas antes muito difíceis ou impossíveis de realizar, promovendo, desta maneira, a autonomia, independência, qualidade de vida e inclusão social de pessoas com deficiência (DGE, 2014).
+
+Apesar de sua enorme importância na promoção da acessibilidade às pessoas com deficiência, os recursos de tecnologia assistiva, por si só, não garantem o acesso ao conteúdo de uma página da Web. Para tal, é necessário que a página tenha sido desenvolvida de acordo com os padrões Web (Web Standards) e as recomendações de acessibilidade (DGE, 2014).
+
 ### Custo
 
 # Diversidade funcional
@@ -71,6 +97,10 @@ Compreender como as pessoas com deficiência ou alguma limitação utilizam o co
 Para isso, é necessário conhecer quem são essas pessoas, como acessam o meio digital, quais tipos de adequações ou recursos podem ajudá-las nesse processo, e quais as barreiras que podem dificultar ou impossibilitar seu acesso (SALTON, 2017).
 
 pessoa com mobilidade reduzida: aquela que tenha, por qualquer motivo, dificuldade de movimentação, permanente ou temporária, gerando redução efetiva da mobilidade, da flexibilidade, da coordenação motora ou da percepção, incluindo idoso, gestante, lactante, pessoa com criança de colo e obeso (BRASIL, 2015).
+
+O termo deficiente, aleijado, entrevado... são ofensivos e muitas vezes segregam essas pessoas, sendo que o objetivo da acessibilidade é justamente aproximá-los. Ao classificar uma pessoa como deficiente é visto como isenção de responsabilidade, pois trata-se de um ser muito diferente e não posso fazer nada por ele e tudo para essa pessoa teria que ser especial.
+
+O que então que vem para substitui deficiente é diversidade funcional, que traduz a deficiência como diferença, isso aproxima a pessoa, pois todos temos diferenças. O termo é muito mais abrangente, pois trata todas as diferenças por igual, como, ninguém enxerga igual, a minha audição não é igual a sua, no geral nem um corpo é igual. Passa-se a ver também as diferenças que vêm com a idade ou em alguns momentos da vida, como por exemplo na gravidez, na velhice, quando machuca-se...
 
 ## Deficiência física
 
@@ -127,6 +157,12 @@ Uma pessoa surda-cega é aquela que não pode simplesmente ser vista como uma pe
 
 # Acessibilidade na Web
 
+A acessibilidade então não se resume apenas ao mundo físico, que é previsto e protegido por lei, mas também importante no meio digital e na sua transmissão de informação. Assim como a televisão e os filmes possuem legendas para substituir ou complementar o som, um website pode também ter uma ou mais formas de passar uma informação.
+
+A World Wide Web, ou WWW, ou W3, ou simplesmente web, é um dos serviços oferecidos na Internet, concebido para disponibilizar permanentemente informações a todos os usuários. Desde 1991, quando foi criada por Tim Berners-Lee, que também criou o W3C, a web vem sendo utilizada em áreas cada vez mais diversas da atividade humana (informação, comunicação, educação, comércio, saúde, acesso a serviços públicos e privados, entre outras) e vem ganhando cada vez mais importância na vida cotidiana de um número cada vez maior de pessoas, em todo o mundo (W3C Brasil, 2020).
+
+Esse uso diversificado e maciço da web tornou seu usuário cada vez menos um leitor passivo (como acontecia no início) e cada vez mais um ator participativo (como é possível constatar observando os blogs e redes sociais). Assim, a web deixou de ser apenas um repositório de documentos estáticos, para se tornar um veículo hiperdinâmico de comunicação, expressão de opiniões, intercâmbio de conhecimentos, realização de negócios, ensino a distância e muitas outras utilizações que surgem a todo momento (W3C Brasil, 2020).
+
 Além das pessoas com deficiência, muitos outros grupos de usuários podem encontrar barreiras no meio digital como, por exemplo, pessoas com perdas sensoriais adquiridas ao longo da vida, com limita-ções temporárias (braço quebrado, tendinite, etc.), utilizando o computador em local com muito barulho, acessando a web ou visualizando documentos no celular, etc (SALTON, 2017).
 
 Pensar em acessibilidade digital significa conceber ambientes, ferramentas e recursos que sigam as premissas do Desenho Universal, ou seja, melhor para todos. Isso significa ambientes, ferramentas e recursos que funcionem da melhor maneira possível para as mais variadas características e habilidades, tanto das pessoas quanto das tecnologias utilizadas (SALTON, 2017).
@@ -139,7 +175,50 @@ Um conteúdo digital seguindo o desenho universal:
 - Faz com que o ambiente ou documento funcione de forma previsível (SALTON, 2017);
 - Auxilia os usuários a prevenirem e corrigirem possíveis erros, etc (SALTON, 2017).
 
+The Web offers the possibility of unprecedented access to information and interaction for many people with disabilities. That is, the accessibility barriers to print, audio, and visual media can be much more easily overcome through web technologies (W3C, Introductino, 2020).
+
+Acessibilidade na web é a possibilidade e a condição de alcance, percepção, entendimento e interação para a utilização, a participação e a contribuição, em igualdade de oportunidades, com segurança e autonomia, em sítios e serviços disponíveis na web, por qualquer indivíduo, independentemente de sua capacidade motora, visual, auditiva, intelectual, cultural ou social, a qualquer momento, em qualquer local e em qualquer ambiente físico ou computacional e a partir de qualquer dispositivo de acesso (W3C BRASIL, 2020).
+
+As pessoas com deficiência são as maiores beneficiadas, pois, na falta da acessibilidade na web, podem ter seu acesso prejudicado ou até mesmo impedido pelas barreiras impostas pela inacessibilidade. Mas, quando os sítios são verdadeiramente acessíveis, as pessoas com deficiência podem usufruir de todas as informações e serviços disponíveis na web (W3C BRASIL, 2020).
+
+Assim, a partir de uma web acessível, muitos cenários aparentemente improváveis tornam-se possíveis, não só para pessoas com deficiência, mas também para qualquer categoria de usuário, tais como (W3C BRASIL, 2020):
+
+- Uma mulher cega, utilizando um leitor de telas, pesquisa a restituição de imposto de renda no sítio da Receita Federal;
+- Um homem cego e sem braços procura sua ex-professora em um sistema de busca utilizando um programa de reconhecimento de voz para entrar comandos no computador e receber retorno a partir do leitor de telas;
+- Um homem com paralisia cerebral, com grandes dificuldades motoras e que só utiliza um dedo para teclar, atualiza seu perfil em uma rede social;
+- Um homem com deficiência motora, que usa um mouse adaptado, faz compras em uma loja virtual;
+- Uma jovem tetraplégica, utilizando apenas um ponteiro na cabeça, procura informações sobre células-tronco em sítios especializados;
+- Uma mulher com deficiência intelectual faz exercícios pela web para melhorar sua comunicação;
+- Um senhor surdocego namora pela web, utilizando um dispositivo que mostra em Braille as informações exibidas na tela;
+- Uma mulher com baixa visão procura informações sobre investimentos e a crise econômica mundial, utilizando um programa ampliador de tela;
+- Um programador daltônico testa uma aplicação na web, procurando erros;
+- Um jovem surdo ou com deficiência auditiva que faz um curso de inglês à distância.
+- Uma jovem com dificuldade de leitura, em virtude da combinação de transtorno do déficit de atenção com hiperatividade (TDAH) e dislexia, estudante do ensino médio, que gosta das aulas de literatura, complementa a leitura de livros e estudos por meio de aulas on-line. Ela utiliza um programa que realça o texto na tela, ao mesmo tempo em que é realizada uma leitura em voz alta [15].
+
+Além disso, devido à universalidade e à grande versatilidade da Internet, os usuários atuam em contextos bastante diferentes, podendo estar inseridos em alguma das seguintes situações (W3C BRASIL, 2020):
+
+- não ter a capacidade de ver, ouvir ou deslocar-se, ou ter grande dificuldade, quando não mesmo a impossibilidade, para interpretar determinados tipos de informação;
+- ter dificuldade para ler ou compreender textos;
+- não ter um teclado ou mouse, ou não ser capaz de utilizá-los;
+- ter uma tela que apresenta somente texto, uma tela de dimensões reduzidas ou uma ligação muito lenta com a Internet;
+- não falar ou compreender fluentemente a língua em que o documento foi escrito;
+- ter as mãos, os olhos ou os ouvidos ocupados, ou de outra forma solicitados (por exemplo, ao volante a caminho do trabalho, ou trabalhando num ambiente barulhento);
+- ter uma versão muito antiga de um navegador, um navegador completamente diferente dos habituais, um navegador por voz, ou um sistema operacional menos comum [16].
+
+No que se refere a acesso ao computador, as quatro principais situações vivenciadas por usuários com deficiência são (DGE, 2014):
+
+- Acesso ao computador sem mouse: no caso de pessoas com deficiência visual, dificuldade de controle dos movimentos, paralisia ou amputação de um membro superior;
+- Acesso ao computador sem teclado: no caso de pessoas com amputações, grandes limitações de movimentos ou falta de força nos membros superiores;
+- Acesso ao computador sem monitor: no caso de pessoas com cegueira;
+- Acesso ao computador sem áudio: no caso de pessoas com deficiência auditiva.
+
+Um sítio desenvolvido considerando a acessibilidade deve englobar diferentes níveis de escolaridade, faixa etária e pouca experiência na utilização do computador, bem como ser compatível com as diversas tecnologias utilizadas para acessar uma página da Web (DGE, 2014).
+
 ## Direito
+
+Está cada vez mais difícil encontrar um campo da atividade humana em que não haja, de algum modo, influência da web, seja na educação, na formação profissional, no trabalho, na informação, na cultura, nas comunicações, no comércio, nos negócios, na saúde, nos serviços públicos e nos contatos profissionais e pessoais, citando apenas os campos de utilização mais comuns. Além dessa diversidade temática, é cada vez mais importante que a web esteja disponível em todas as situações e ambientes, a qualquer momento, sob as mais diversas condições técnicas. Dessa forma, considera-se fundamental a disponibilidade da web em casa, no trabalho ou nas viagens, em dispositivos móveis ou computadores convencionais, seja em ambientes internos ou externos, em meios urbanos ou rurais (W3C, 2020).
+
+A fim de possibilitar às pessoas com deficiência viver de forma independente e participar plenamente de todos os aspectos da vida, os Estados Partes tomarão as medidas apropriadas para assegurar às pessoas com deficiência o acesso, em igualdade de oportunidades com as demais pessoas, ao meio físico, ao transporte, à informação e comunicação, inclusive aos sistemas e tecnologias da informação e comunicação, bem como a outros serviços e instalações abertos ao público ou de uso público, tanto na zona urbana como na rural (BRASIL, 2009).
 
 O Decreto Federal n° 13.146 de 6 de julho de 2015, estabelece no artigo 63
 
@@ -149,9 +228,43 @@ Fornecer, prontamente e sem custo adicional, às pessoas com deficiência, todas
 
 Aceitar e facilitar, em trâmites oficiais, o uso de línguas de sinais, braille, comunicação aumentativa e alternativa, e de todos os demais meios, modos e formatos acessíveis de comunicação, à escolha das pessoas com deficiência (BRASIL, 2009);
 
-Urgir as entidades privadas que oferecem serviços ao público em geral, inclusive por meio da Internet, a fornecer informações e serviços em formatos acessíveis, que possam ser usados por pessoas com deficiência (BRASIL, 2009)
+Urgir as entidades privadas que oferecem serviços ao público em geral, inclusive por meio da Internet, a fornecer informações e serviços em formatos acessíveis, que possam ser usados por pessoas com deficiência (BRASIL, 2009).
 
-## Deficiência física
+The Web is an increasingly important resource in many aspects of life: education, employment, government, commerce, health care, recreation, and more. It is essential that the Web be accessible in order to provide equal access and equal opportunity to people with diverse abilities. Access to information and communications technologies, including the Web, is defined as a basic human right in the United Nations Convention on the Rights of Persons with Disabilities (UN CRPD) (W3C, Introduction, 2020).
+
+Convenção Internacional sobre os Direitos das Pessoas com Deficiência (2007), de 30 de março de 2007, elaborada pela Nações Unidas, define, em seu artigo 9°, a obrigatoriedade de promoção do acesso de pessoas com deficiência a novos sistemas e tecnologias da informação e comunicação, inclusive à Internet (DGE, 2014).
+
+Decreto de nº 7724, de 16 de maio de 2012, que regulamentou a lei de acesso a informação, indica no seu artigo 8º parágrafo 3º: “Os sítios na Internet dos órgãos e entidades deverão, em cumprimento às normas estabelecidas pelo Ministério do Planejamento, Orçamento e Gestão, (...)” (DGE, 2014).
+
+As leis de acessibilidade abrangem a internet apenas no âmbito público. As empresas privadas não têm a obrigação civil de então se preocuparem com os público considerados menores. Uma empresa poderia então ter uma obrigação moral, onde o cidadão e a sociedade exercessem certa pressão para estes respeitarem todos os cidadãos como iguais.
+
+## Reciprocidade
+
+As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo.
+
+A não preocupação com a acessibilidade está diretamente atrelada a desinformação dos negócios quanto ao seu público e a forma de atendê-los. A ideia de algo especial, novo ou personalizado, pode ser a única forma pensada por aqueles que não possuem o conhecimento das abordagens e técnicas para a implementação de um conteúdo acessível.
+
+É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados.
+
+Todos que vêem à página têm conhecimentos e percepções diferentes, haverá alguns pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na internet é interessante se preocupar e garantir que seu usuário terá menos problemas para por exemplo concluir uma compra ou fazer seu cadastro.
+
+Se for aplicada esta afirmativa ao contexto da web, é possível concluir que uma pessoa com deficiência deveria acessar a web em melhores condições, já que tem mais dificuldade para acessar essas mesmas informações e serviços no mundo físico, porque não pode ler material impresso, ou ouvir informações transmitidas oralmente, ou locomover-se até determinado local, ou compreender informações transmitidas em ambientes confusos e com muita estimulação, entre outras barreiras.
+
+O Censo de 2010 mostra que há muitos deficientes no Brasil, tal informação serve de alerta para os grandes negócios na internet que parte dos seus acessos são por deficientes e nesse caso essa mesma porcentagem resulta em números mais expressivos de receita vindos desses clientes.
+
+Costuma se pensar na acessibilidade como uma via de mão única, como se as pessoas fossem apenas receptoras (W3C BRASIL, 2020), mas a acessibilidade à Web significa que pessoas portadoras de necessidades especiais sejam capazes de usar a Web. Mais concretamente, significa uma Web projetada de modo a que estas pessoas possam perceber, entender, navegar e interagir de uma maneira efetiva com a Web, bem como criar e contribuir com conteúdos para a Web (WAI, Introdução à Acessibilidade na Web, 2020).
+
+Accessibility is essential for developers and organizations that want to create high-quality websites and web tools, and not exclude people from using their products and services (W3C, Introduction, 2020).
+
+accessible design improves overall user experience and satisfaction, especially in a variety of situations, across different devices, and for older users. Accessibility can enhance your brand, drive innovation, and extend your market reach (W3C, INTRODUCTION, 2020).
+
+Quando se pensa em acessibilidade na web e seus benefícios, é natural associar acessibilidade com responsabilidade social, melhoria da imagem das empresas/instituições e a disponibilização democrática de serviços, produtos e informações para as pessoas com deficiência (W3C BRASIL, 2020).
+
+## Tipos de deficiência
+
+As deficiências dos usuários que interferem em sua experiência na internet são visual, motoras, auditiva e cognitiva. A acessibilidade que pela definição é para trazer condição igual a todas as pessoas, logo um site acessível deve estar pronto para qualquer que vier.
+
+### Deficiência física
 
 Das dificuldades no meio digital de uma pessoa com deficiência física:
 
@@ -161,7 +274,7 @@ Das dificuldades no meio digital de uma pessoa com deficiência física:
 - Tecnologias e dispositivos que necessitam de muita precisão para o manuseio (SALTON, 2017);
 - Funcionalidades que são ativadas somente através de combinação de várias teclas (pessoas comdeficiência física podem ter dificuldade em pressionar várias teclas ao mesmo tempo) (SALTON, 2017).
 
-## Deficiência auditiva
+### Deficiência auditiva
 
 Pessoas com deficiência auditiva geralmente não necessitam de grandes adaptações para utilizarem o computador ou a web, principalmente nos casos em que a perda da audição é baixa. Já as pessoas sur-das podem fazer uso de aplicativos ou ferramentas que transformam texto em Libras, como o Hand Talk, o ProDeaf, o Rybená e a suite VLibras (SALTON, 2017).
 
@@ -175,7 +288,7 @@ Das dificuldades no meio digital de uma pessoa com deficiência auditiva:
 - Ausência de Libras ou imagens suplementares relacionadas ao conteúdo do texto (isso dificulta a compreensão por pessoas que têm a Libras como primeira língua);
 - Ausência de linguagem simples e clara.
 
-## Deficiência visual
+### Deficiência visual
 
 Para acessar o meio digital, as pessoas cegas geralmente utilizam softwares leitores de tela e navegam através do teclado. Também podem utilizar outras tecnologias, como impressoras Braille e linha Braille.
 
@@ -211,7 +324,7 @@ As barreiras que pessoas com baixa visão encontram no meio digital:
 - Presença de CAPTCHA (recurso utilizado para diferenciar humanos de robôs, onde a pessoa deveidentificar o conteúdo de uma imagem distorcida) sem alternativa em forma de áudio;
 - Se o grau residual de visão for muito baixo, as dificuldades encontradas podem ser as mesmasde uma pessoa cega.
 
-## Deficiêntes intelectuais
+### Deficiêntes intelectuais
 
 As barreiras que pessoas com deficiência intelectual  encontram no meio digital:
 
@@ -222,13 +335,13 @@ As barreiras que pessoas com deficiência intelectual  encontram no meio digital
 - Conteúdos excessivamente dinâmicos, piscantes, imagens decorativas, áudio em segundo plano ou outros elementos que possam desviar a atenção;
 - Fontes com serifa, como Times New Roman ou Courier New.
 
-## Surdocegos
+### Surdocegos
 
 O comprometimento da visão e audição simultaneamente traz diversos prejuízos para o desenvolvimento, comunicação e socialização das pessoas com surdocegueira, principalmente nos casos em que os dois sentidos são profundamente limitados ou inexistentes. No entanto, através da utilização de recursos de Tecnologia Assistiva e formas específicas de comunicação, a pessoa surdocega pode ser incluída e tornar-se participativa na sociedade (SALTON, 2017).
 
 A linha Braille é um dispositivo conectado ao computador que funciona em conjunto com o leitor de tela, exibindo informações visíveis na tela dinamicamente em Braille. Através de uma linha Braille, o conteúdo textual que antes era transformado em áudio passa a ser convertido em informação táti (SALTON, 2017).
 
-## Outras deficiências
+### Outras deficiências
 
 Existem  barreiras  comuns  encontradas  por  diferentes  grupos  de  usuários.  Quando eliminamos uma barreira, estamos tornando o meio digital mais inclusivo para muitas pessoas (SALTON, 2017).
 
@@ -257,33 +370,13 @@ A dislexia é um transtorno que afeta a linguagem, podendo resultar em problemas
 
 Pessoas com TDAH (Transtorno do Déficit de Atenção com Hiperatividade) podem distrair-se fa-cilmente com pequenos estímulos. Assim, elementos que representem uma distração, como imagens decorativas muito chamativas (com brilho ou cores com muita luminosidade), efeitos ao movimentar o cursor do mouse e janelas pop-ups que abrem repentinamente dificultam a interação de uma pessoa com esse o transtorno pelas páginas web e documentos digitais (SALTON, 2017).
 
-# Técnicas de acessibilidade na Web
+## Não deficientes
 
-Promover, desde a fase inicial, a concepção, o desenvolvimento, a produção e a disseminação de sistemas e tecnologias de informação e comunicação, a fim de que esses sistemas e tecnologias se tornem acessíveis a custo mínimo (BRASIL, 2009).
-
-adaptações razoáveis: adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido, quando requeridos em cada caso, a fim de assegurar que a pessoa com deficiência possa gozar ou exercer, em igualdade de condições e oportunidades com as demais pessoas, todos os direitos e liberdades fundamentais (BRASIL, 2015).
-
-desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva (BRASIL, 2015).
-
-----
-
-A acessibilidade então não se resume apenas ao mundo físico, que é previsto e protegido por lei, mas também importante no meio digital e na sua transmissão de informação. Assim como a televisão e os filmes possuem legendas para substituir ou complementar o som, um website pode também ter uma ou mais formas de passar uma informação.
-
-As deficiências dos usuários que interferem em sua experiência na internet são visual, motoras, auditiva e cognitiva. A acessibilidade que pela definição é para trazer condição igual a todas as pessoas, logo um site acessível deve estar pronto para qualquer que vier.
-
-O termo deficiente, aleijado, entrevado... são ofensivos e muitas vezes segregam essas pessoas, sendo que o objetivo da acessibilidade é justamente aproximá-los. Ao classificar uma pessoa como deficiente é visto como isenção de responsabilidade, pois trata-se de um ser muito diferente e não posso fazer nada por ele e tudo para essa pessoa teria que ser especial.
-
-O que então que vem para substitui deficiente é diversidade funcional, que traduz a deficiência como diferença, isso aproxima a pessoa, pois todos temos diferenças. O termo é muito mais abrangente, pois trata todas as diferenças por igual, como, ninguém enxerga igual, a minha audição não é igual a sua, no geral nem um corpo é igual. Passa-se a ver também as diferenças que vêm com a idade ou em alguns momentos da vida, como por exemplo na gravidez, na velhice, quando machuca-se...
-
-Outras características atrelados aos usuários:
-
-- idioma
-- paciência, pressa
-- familiarizado
-
-Todos que vêem à página têm conhecimentos e percepções diferentes, haverá alguns pouco familiarizados com a tecnologia, ou então pouco acostumadas com que está sendo apresentado ali. Para quem tem seu negócio na internet é interessante se preocupar e garantir que seu usuário terá menos problemas para por exemplo concluir uma compra ou fazer seu cadastro.
-
-Não querer esperar o carregamento de um conteúdo não necessariamente significa que o usuário tenho algum problema psicológico, mas pode ser um sinal que esse tempo pode ser otimizado usando alguma das várias técnicas famosas na internet.
+- people using mobile phones, smart watches, smart TVs, and other devices with small screens, different input modes, etc (W3C, Introduction).
+- older people with changing abilities due to ageing (W3C, Introduction)
+- people with “temporary disabilities” such as a broken arm or lost glasses (W3C, Introduction)
+- people with “situational limitations” such as in bright sunlight or in an environment where they cannot listen to audio (W3C, Introduction)
+- people using a slow Internet connection, or who have limited or expensive bandwidth (W3C, Introduction)
 
 A diversidade então não fica apenas no usuário, mas também abrange o seu ambiente, como:
 
@@ -307,50 +400,79 @@ Há muitos casos que o receptor não seja um deficiente propriamente dito, mas i
 - Botões grandes serviriam para pessoas mais idosas que muitas vezes têm a visão e os movimentos um pouco mais debilitados.
 - A navegação sem usar o mouse seria uma das formas para alguém que machucou sua mão principal.
 
-As leis de acessibilidade abrangem a internet apenas no âmbito público. As empresas privadas não têm a obrigação civil de então se preocuparem com os público considerados menores. Uma empresa poderia então ter uma obrigação moral, onde o cidadão e a sociedade exercessem certa pressão para estes respeitarem todos os cidadãos como iguais.
+Não querer esperar o carregamento de um conteúdo não necessariamente significa que o usuário tenho algum problema psicológico, mas pode ser um sinal que esse tempo pode ser otimizado usando alguma das várias técnicas famosas na internet.
 
-As decisões para os investimentos de uma empresa são feitas pensando no custo e na receita. Uma demanda é então priorizada quando encaixada nos planos da empresa e que o resultado em algum momento seja lucrativo.
+# Técnicas de acessibilidade na Web
 
-A não preocupação com a acessibilidade está diretamente atrelada a desinformação dos negócios quanto ao seu público e a forma de atendê-los. A ideia de algo especial, novo ou personalizado, pode ser a única forma pensada por aqueles que não possuem o conhecimento das abordagens e técnicas para a implementação de um conteúdo acessível.
+Promover, desde a fase inicial, a concepção, o desenvolvimento, a produção e a disseminação de sistemas e tecnologias de informação e comunicação, a fim de que esses sistemas e tecnologias se tornem acessíveis a custo mínimo (BRASIL, 2009).
 
-É importante ver a acessibilidade como algo recíproco, como por exemplo um comércio que faz seu ambiente acessível para um cadeirante ter a oportunidade de ter ele como seu cliente. Facilitar o uso então torna-se algo interessante para ambos os lados.
+adaptações razoáveis: adaptações, modificações e ajustes necessários e adequados que não acarretem ônus desproporcional e indevido, quando requeridos em cada caso, a fim de assegurar que a pessoa com deficiência possa gozar ou exercer, em igualdade de condições e oportunidades com as demais pessoas, todos os direitos e liberdades fundamentais (BRASIL, 2015).
 
-O Censo de 2010 mostra que há muitos deficientes no Brasil, tal informação serve de alerta para os grandes negócios na internet que parte dos seus acessos são por deficientes e nesse caso essa mesma porcentagem resulta em números mais expressivos de receita vindos desses clientes.
+O fundamento teórico mais relevante para o conceito de acessibilidade é o Desenho universal, que é o desenvolvimento de produtos e ambientes para serem usáveis por todas as pessoas, na maior extensão possível, sem a necessidade de adaptação ou desenho especializado (W3C BRASIL, 2020).
 
-Sendo de forma obrigatória ou voluntária a forma da implementação precisará de planejamento de tal forma que o objetivo seja alcançado sem desperdício de esforço.
+desenho universal: concepção de produtos, ambientes, programas e serviços a serem usados por todas as pessoas, sem necessidade de adaptação ou de projeto específico, incluindo os recursos de tecnologia assistiva (BRASIL, 2015).
 
-É importante um estudo prévio das diretrizes de acessibilidade na web criadas pela W3C, pois evitará o esforço de descobrir, sendo por testes ou estudos isolados, o que o documento possui.
+Para que a acessibilidade na web seja alcançada, é necessário que vários componentes estejam trabalhando adequadamente em conjunto. A W3C-WAI (Components, 2020) identifica sete componentes:
 
-As abordagens escolhidas serão importantes para que o esforço seja gradual e também que não haja desperdício de esforço fazendo algo da forma mais difícil.
+- Conteúdo é a informação contida numa página ou aplicação web, incluindo:
+  - a informação natural, tal como texto, imagem e áudio;
+  - o código ou marcação, que define a estrutura, a forma de apresentação, etc.
+- Navegadores são os tocadores de conteúdo multimídia e outros agentes do usuário.
+- Tecnologia assistiva é aquela usada por pessoas com deficiência e mobilidade reduzida, como é o caso dos programas leitores de tela, dos ampliadores de tela, dos teclados alternativos, entre outros.
+- O conhecimento do usuário, sua experiência e, em alguns casos, suas estratégias adaptativas para a utilização da web.
+- Desenvolvedores, designers, codificadores, autores, entre outros, incluindo pessoas com deficiência que são desenvolvedores e usuários que contribuem com conteúdo.
+- Ferramentas de autoria (authoring tools): softwares usados para criar sítios web
+- Ferramentas de avaliação: avaliadores de acessibilidade, validadores de HTML, validadores de CSS, entre outros.
 
-As técnicas para se alcançar os objetivos devem também ser estrudadas e se possível reaproveitadas, para que os demais envolvidos não precisem para o mesmo estudo.
+As diretrizes da WAI de conformidade são divididas em 3 níveis, sendo o segundo nível uma extensão do primeiro e o terceiro nível uma extensão do segundo. As conformidades de primeiro nível são exigências que se não executas impediriam o acesso e entendimento ao conteúdo, então ficam como obrigatórias. Os demais níveis servem como aprimoramento para deficiências mais sutis, ou então tenta abrangir um público maior como por exemplo com um contraste ainda maior do que o nível anterior.
 
-As diretrizes da W3C de conformidade são divididas em 3 níveis, sendo o segundo nível uma extensão do primeiro e o terceiro nível uma extensão do segundo. As conformidades de primeiro nível são exigências que se não executas impediriam o acesso e entendimento ao conteúdo, então ficam como obrigatórias. Os demais níveis servem como aprimoramento para deficiências mais sutis, ou então tenta abrangir um público maior como por exemplo com um contraste ainda maior do que o nível anterior.
+## Desenho universal
 
-O eMag é modelo de acessibilidade do governo e a organiza as suas recomendações por área, diferente do WCAG que faz por nível. Como as especificações ali são para sites públicos que são obrigatórios não existe uma prioridade. [31]
+Assim, o uso do Desenho universal significa um grande passo na direção de um mundo cada vez mais inclusivo, que se adapta cada vez mais às diferentes habilidades e necessidades das pessoas e que exige delas cada vez menos esforço individual adaptativo, o qual, como sabemos, acaba sempre por excluir muitas pessoas da participação na vida social e também por privar a sociedade da contribuição que poderia ser trazida por essas pessoas.
 
-A processo criado pelo eMag é constituídos das etapas:
+Os objetos e ambientes são veiculados na Internet por meio de códigos, que devem se adequar a certos padrões para permitir que tanto os controles de navegação quanto o conteúdo sejam compatíveis com a ampla variedade de dispositivos de acesso à web, e com toda a diversidade da tecnologia assistiva utilizada por pessoas com deficiência e mobilidade reduzida. Assim, todos os sítios web devem ser construídos de acordo com padrões, para que, quando reutilizados em escala, não ofereçam barreiras de acesso por toda ou parte da sociedade (Ron Mace et al).
 
-1. Seguir os padrões da web;
+COLOCAR AQUI OS PRINCÍPIOS DE DESENHO UNIVERSAL
+
+Ao se aplicarem à web os princípios do Desenho universal, conclui-se que os objetos e ambientes utilizados nos sítios devem ser projetados para serem utilizados, sem modificação ou assistência externa, pelo maior número de pessoas possível, independentemente de suas habilidades motoras, visuais, auditivas, táteis ou de qualquer outra condição que possa oferecer dificuldade na finalização de uma tarefa (W3C BRASIL, 2020).
+
+Fazendo uma analogia com o mundo físico, a maioria dos shoppings centers utiliza portas que abrem automaticamente quando as pessoas se aproximam. Isso possibilita que cadeirantes, pessoas com deficiência motora, idosos e mães com carrinhos de bebê entrem com facilidade no local, sem necessitarem do auxílio de terceiros. Essa característica acaba por facilitar a entrada e a saída do shopping a todas as pessoas, com e sem deficiência, nos mais diferentes contextos. No mundo digital, isso também funciona, pois, quando facilitamos o acesso e o uso para pessoas com deficiência e mobilidade reduzida, todos, de algum modo, acabam sendo beneficiados (W3C BRASIL, 2020).
+
+Por exemplo, para se tornar acessível para pessoas com baixa visão, um hiperlink precisa apresentar bom contraste entre a cor do texto e o respectivo fundo, ter aparência clara de um hiperlink, destacar-se dos outros textos e hiperlinks, ter uma boa área para o clique/toque, fazer sentido quando lido fora de contexto e, principalmente, informar claramente seu destino. Todas essas características são fundamentais para que as pessoas com baixa visão consigam utilizá-los, e ainda acabam facilitando o acesso de todas as pessoas (W3C BRASIL, 2020).
+
+Para ilustrar melhor a importância da acessibilidade em diferentes contextos de uso da web, a seguir são apresentados alguns cenários em que pessoas sem deficiência são beneficiadas e usuárias diretas da acessibilidade (W3C BRASIL, 2020):
+
+- Homem destro, com tendinite, faz pesquisa na web para trabalho da faculdade, utilizando com dificuldades o mouse, mas navegando com a mão esquerda sem encontrar barreiras de teclado na página;
+- Mulher analfabeta funcional tenta tirar uma certidão no sítio da prefeitura da sua cidade, acessando informações representadas por ícones na página;
+- Casal de idosos, já com alguma dificuldade para ler textos pequenos e que possui pouca experiência com a Internet, amplia o tamanho do texto para comprar passagens aéreas em promoção para visitarem o filho em outro estado;
+- Leigo no uso de computadores vê-se obrigado a usar a Internet para realizar a matrícula escolar de seu filho, seguindo as orientações de um tutorial de uso do sistema;
+- Brasileiro, sem fluência no espanhol, procura informações sobre Buenos Aires em um sítio de língua espanhola acessando as galerias de fotos;
+- Criança, ainda com linguagem em desenvolvimento, procura um jogo na web em uma página com animações que identificam o jogo que ela procura;
+- Robôs de busca, como o Yahoo, Google, Bing etc., que só indexam texto, procuram sítios com informações sobre a Copa do Mundo no Brasil baseados na semântica dos documentos HTML;
+- Funcionário novo na empresa utiliza pela primeira vez um sistema de gerenciamento de projetos via web depois de assistir a um tutorial de uso do sistema;
+- Homem de meia-idade aumenta a fonte dos textos de um sítio ao navegar pelo seu netbook com tela de apenas 9 polegadas;
+- Utilizando conexão de baixa velocidade, mulher tenta comprar um eletrodoméstico em um sítio de comércio eletrônico construído e estruturado de forma a consumir pouca banda da Internet;
+- Usuário procura os horários da sessão de cinema em seu tablet com tela de 7 polegadas e aumenta e diminui o tamanho do texto conforme sua necessidade de navegação;
+- Mulher atrasada tenta fazer check-in pelo sítio da companhia aérea utilizando seu smartphone no táxi, a caminho do aeroporto, em um formulário simples e de fácil compreensão;
+- A caminho de uma reunião, utilizando seu smartphone, homem utiliza o sistema de busca de um sítio web para localizar o endereço da sede da empresa.
+
+## Modelos
+
+### eMAG
+
+eMAG é o documento que norteia o desenvolvimento de sítios e portais acessíveis no âmbito do governo federal.
+
+Portaria nº 3, de 7 de maio de 2007, que institucionalizou o eMAG no âmbito do sistema de Administração dos Recursos de Informação e Informática (SISP), tornando sua observância obrigatória nos sítios e portais do governo brasileiro (DGE, 2014).
+
+As recomendações do eMAG permitem que a implementação da acessibilidade digital seja conduzida de forma padronizada, de fácil implementação, coerente com as necessidades brasileiras e em conformidade com os padrões internacionais (DGE, 2014).
+
+No eMAG o processo para desenvolver um sítio acessível é realizado em três passos:
+
+1. Seguir os padrões Web;
 2. Seguir as diretrizes ou recomendações de acessibilidade;
 3. Realizar a avaliação de acessibilidade.
 
-O trabalho aqui sendo apresentado se difere do modelo apresentado pelo eMag na parte onde os padrões da web e as diretrizes estão separadas. Neste a implementação das conformidades será então feita de duas fases, com desenho universal e com adaptação razoável. Cada um deses terá suas etapas e cada etapa é constituída de várias técnicas que podem ser utilizadas para chegar-se na conformidade exigida pela W3C.
-
-O desenho universal é uma forma de definir produtos que sejam utilizados por todos sem necessitar de adaptação. O desenho universal então no modelo é a forma mais fácil de implementar, pois será feito apenas uma implementação para atingir várias necessidades.
-
-Após o desenho universal é feito a adaptação razoável, que consistirá em abranger tudo que não foi atendido na fase de implementação anterior. Conta-se como um esforço maior forma, então a ideia é fazer o máximo possível na fase anterior. Haverá excessões que pode-se optar por deixa algo para essa fase:
-
-- a implementação com desenho universal seria onerosa
-- o resultado com desenho universal seria desagradável
-- deseja-se uma experiência personalizada para o usuário
-
-Para o eMag a avaliação é a última parte do processo, e seguiremos aqui também, eles recomendam algumas extensões para navegadores, mas vou trazer algumas outras para serem verificadas e usadas:
-
-- [WAVE Accessibility Extension](https://addons.mozilla.org/pt-BR/firefox/addon/wave-accessibility-tool/)
-- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
-
-Além das ferramentas eles reforçam, que agilizam o processo, devem haver os testes manuais, principalmente com os usuários alvos.
+O eMag organiza as suas recomendações por área, diferente do WCAG que faz por nível. Como as especificações ali são para sites públicos que são obrigatórios não existe uma prioridade.
 
 # Modelo de implementação de acessibilidade
 
@@ -359,6 +481,16 @@ Após a seleção das conformidades a serem alcançadas, a forma de implementaç
 - o esforço seja gradual.
 - uma etapa seja complemento da anterior.
 - os níveis de conformidade das diretrizes mais baixos sejam priorizados.
+
+O eMAG separa os padrões da web como um passo que prece a implementação da acessibilidade (DGE, 2014), porém no modelo aqui apresentado esse processo será feito junto, pois é entendido que os padrões da web também tornam a web mais acessível (BUSCAR REFERÊNCIA).
+
+Neste a implementação das conformidades será então feita de duas fases, com desenho universal e com adaptação razoável. Cada um deses terá suas etapas e cada etapa é constituída de várias técnicas que podem ser utilizadas para chegar-se na conformidade exigida pela W3C.
+
+É importante um estudo prévio das diretrizes de acessibilidade na web criadas pela W3C, pois evitará o esforço de descobrir, sendo por testes ou estudos isolados, o que o documento possui.
+
+As abordagens escolhidas serão importantes para que o esforço seja gradual e também que não haja desperdício de esforço fazendo algo da forma mais difícil.
+
+As técnicas para se alcançar os objetivos devem também ser estrudadas e se possível reaproveitadas, para que os demais envolvidos não precisem para o mesmo estudo.
 
 ## Esforço graudal
 
@@ -385,6 +517,14 @@ Para que o esforço seja gradual e a implementação possível é preciso ordena
 - Uma etapa não deve fazer o que a outra faz com menor esforço.
 - A exceção é quando deseja-se que a conformidade a ser implementada tenha mais controle.
 
+O desenho universal é uma forma de definir produtos que sejam utilizados por todos sem necessitar de adaptação. O desenho universal então no modelo é a forma mais fácil de implementar, pois será feito apenas uma implementação para atingir várias necessidades.
+
+Após o desenho universal é feito a adaptação razoável, que consistirá em abranger tudo que não foi atendido na fase de implementação anterior. Conta-se como um esforço maior forma, então a ideia é fazer o máximo possível na fase anterior. Haverá excessões que pode-se optar por deixa algo para essa fase:
+
+- a implementação com desenho universal seria onerosa
+- o resultado com desenho universal seria desagradável
+- deseja-se uma experiência personalizada para o usuário
+
 ## Priorizar Níveis de conformidade mais baixos
 
 Ao chegar ao fim das etapas um nível de conformidade deve ser completado. Antes de começar a avaliação e implementação da próxima etapa é preciso completar as conformidades do nível anterior. Se todas as etapas forem corretamente executas as conformidades que faltarem ficam para a adaptação razoável.
@@ -408,11 +548,20 @@ Adaptações
 - Desenvolver adaptações baseadas em informações vindas do usuário sem ele explicitamente informar (inteligentes).
 - Desenvolver adaptações e a opção para o usuário selecionar.
 
+## Validação
+
+Para o eMag a avaliação é a última parte do processo, e seguiremos aqui também, eles recomendam algumas extensões para navegadores, mas vou trazer algumas outras para serem verificadas e usadas:
+
+- [WAVE Accessibility Extension](https://addons.mozilla.org/pt-BR/firefox/addon/wave-accessibility-tool/)
+- [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+
+Além das ferramentas eles reforçam, que agilizam o processo, devem haver os testes manuais, principalmente com os usuários alvos.
+
 # Referências
 
 BRASIL. Declaração Universal dos Direitos Humanos, 10 de dezembro de 1948. Assembléia Geral das Nações Unidas. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000139423
 
-Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http:// www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
+Brasil. Decreto no 5.296, de 2 de dezembro de 2004. Regulamenta as Leis no 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e a no 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Decreto/D5296.htm.
 
 ABNT. Norma Brasileira ABNT NBR 9050:2004. Acessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em: http://www.turismo.gov.br/sites/default/turismo/o_ministerio/publicacoes/downloads_publicacoes/NBR9050.pdf
 
@@ -422,10 +571,25 @@ BRASIL, 2015, Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão d
 
 SALTON, B. P.; AGNOL, A. D.; TURCATTI, A. Manual de acessibilidade em Documentos Digitais. Centro tecnológico de Acessibilidade. Bento Gonçalves, 2017. Disponível em: https://sites.unipampa.edu.br/ead/files/2018/12/manual-de-acessibilidade-em-documentos-digitais.pdf
 
-DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, Curso eMAG - Desenvolvedor. Disponível em: http://emag.governoeletronico.gov.br/cursodesenvolvedor/; acesso em: 8 mar. 2020
+DGE. DEPARTAMENTO DE GOVERNO ELETRÔNICO, 2014, eMAG - Modelo de Acessibilidade em Governo Eletrônico. Disponível em: http://emag.governoeletronico.gov.br/; acesso em 8 mar. 2020
 
 W3C-WAI. Introduction do Web Accessibility. Disponível em: <https://www.w3.org/WAI/intro/accessibility.php>
 
 SÁ, E. D.; CAMPOS, I. M.; SILVA, M. B. C. Atendimento Educacional Especializado: Deficiência Visual. Brasília: SEESP/SEED/MEC, 2007. Disponível em: < http://portal.mec.gov.br/seesp/arquivos/pdf/aee_dv.pdf>
 
 MILES, B. e RIGGIO, M. Understanding Deafblindness. In: MILES, B. e RIGGIO, M. (Eds.). Remarkable Conversations: A guide to developing meaningful communication with children and young adults who are deafblind. Boston: Perkins School for the Blind, 1999.  Disponível em: <http://documents.nationaldb.org/remarkableconvchapt2.pdf>.
+
+W3C. Introduction to Web Accessibility – Web Accessibility initiative – [W3C. Tradução Maujor](https://www.maujor.com/w3c/introwac.html). https://www.w3.org/WAI/fundamentals/accessibility-intro.
+
+W3C. Essential Components of Web Accessibility – Web Accessibility initiative – W3C. https://www.w3.org/WAI/fundamentals/components/.
+
+W3C. Getting Started with Web Accessibility – Web Accessibility initiative – W3C. http://www.w3.org/standards/webdesign/accessibility.
+
+Ron Mace et al. Accessible Environments Toward Universal Design. Wolfang Preiser, Van Nostrand Reinhold, Nova York, 1991. Design Intervations. Toward a More Humane Architeture. Disponível em: <https://projects.ncsu.edu/ncsu/design/cud/pubs_p/docs/ACC%20Environments.pdf>
+
+
+
+
+
+
+
