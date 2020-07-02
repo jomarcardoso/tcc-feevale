@@ -19,3 +19,5 @@
 - [IMS Guidelines for Developing Accessible Learning Applications](https://www.imsglobal.org/accessibility/accessiblevers/index.html)
 - [UNITED STATES ACCESS BOARD - Developing Accessible Software Tutorial](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards/developing-accessible-software-tutorial)
 - [University of Washington](https://www.washington.edu/accessibility/web/)
+- [Manual de referências](http://www.casaruibarbosa.gov.br/dados/DOC/manuais/FCRB_Manual_de_referencias_bibliograficas_completo.pdf)
+- [tese de modelo de avaliação]()

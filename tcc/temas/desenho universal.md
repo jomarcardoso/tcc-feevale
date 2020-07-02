@@ -45,7 +45,7 @@ São sete os princípios do Desenho universal [18]:
 - Flexibilidade de uso: atende a uma ampla gama de indivíduos, preferências e habilidades individuais.
 - Uso simples e intuitivo: fácil de compreender, independentemente da experiência do usuário, de seus conhecimentos, aptidões linguísticas ou nível de concentração.
 - Informação perceptível: fornece de forma eficaz a informação necessária, quaisquer que sejam as condições ambientais/físicas existentes ou as capacidades sensoriais do usuário.
-- Tolerância ao erro: minimiza riscos e consequências negativas decorrentes de ações acidentais ou involuntárias. 
+- Tolerância ao erro: minimiza riscos e consequências negativas decorrentes de ações acidentais ou involuntárias.
 - Mínimo esforço físico: pode ser utilizado de forma eficiente e confortável, com um mínimo de fadiga.
 - Dimensão e espaço para uso e interação: espaço e dimensão adequados para a interação, o manuseio e a utilização, independentemente da estatura, da mobilidade ou da postura do usuário.
 

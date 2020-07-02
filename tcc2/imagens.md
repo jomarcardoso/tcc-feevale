@@ -1,0 +1,1 @@
+imagens decorativas não devem ter informações que distraiam o usuário cego.
